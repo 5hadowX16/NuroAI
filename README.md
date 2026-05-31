@@ -36,7 +36,7 @@ This often results in closely clustered condition scores and increases the need 
 
 ### 3. Sparse Inputs
 Minimal symptom descriptions such as:
-> "I feel tired."
+"I feel tired."
 provide insufficient information for reliable condition differentiation and often produce broad rankings across multiple conditions.
 
 ### 4. Rule-Based Scaling Constraints
@@ -133,5 +133,5 @@ NuroAI is an experimental educational project developed for studying data struct
 Additional conditions may be added directly to medical_diseases.json. New symptom indicators should include appropriately weighted relevance values to ensure consistent integration into the scoring framework.
 
 ### Running the Server
-python3 app.py 
-The Flask API exposes a /predict endpoint capable of receiving structured symptom inputs and returning ranked condition scores, urgency classifications, and follow-up recommendations.
+> python3 app.py 
+- The Flask API exposes a /predict endpoint capable of receiving structured symptom inputs and returning ranked condition scores, urgency classifications, and follow-up recommendations.
