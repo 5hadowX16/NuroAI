@@ -1,0 +1,1932 @@
+[
+  {
+    "name": "Fibromyalgia",
+    "category": "neurological",
+    "symptoms": [
+      {
+        "name": "body pain",
+        "weight": 1.0
+      },
+      {
+        "name": "fatigue",
+        "weight": 0.8
+      },
+      {
+        "name": "insomnia",
+        "weight": 0.7
+      },
+      {
+        "name": "brain fog",
+        "weight": 0.6
+      }
+    ],
+    "discriminating_symptoms": [
+      "widespread pain",
+      "pain points",
+      "sleep problems"
+    ],
+    "follow_up_questions": [
+      "Do you have pain all over your body?",
+      "Are you having trouble sleeping?",
+      "Does the pain feel like a dull ache?"
+    ],
+    "urgency": "low",
+    "overview": "A condition comprised of widespread musculoskeletal pain accompanied by fatigue, sleep, memory and mood issues."
+  },
+  {
+    "name": "Conjunctivitis (Pink Eye)",
+    "category": "ophthalmology",
+    "symptoms": [
+      {
+        "name": "red eyes",
+        "weight": 1.0
+      },
+      {
+        "name": "itchy eyes",
+        "weight": 0.9
+      },
+      {
+        "name": "tearing",
+        "weight": 0.7
+      },
+      {
+        "name": "blurred vision",
+        "weight": 0.5
+      },
+      {
+        "name": "discharge",
+        "weight": 0.8
+      }
+    ],
+    "discriminating_symptoms": [
+      "redness in white of eye",
+      "crusty eyelids"
+    ],
+    "follow_up_questions": [
+      "Is the white part of your eye red?",
+      "Do you wake up with crusty eyes?",
+      "Is there a gritty feeling in your eyes?"
+    ],
+    "urgency": "low",
+    "overview": "Inflammation or infection of the transparent membrane (conjunctiva) that lines your eyelid and covers the white part of your eyeball."
+  },
+  {
+    "name": "Stroke",
+    "category": "neurological",
+    "symptoms": [
+      {
+        "name": "paralysis",
+        "weight": 1.0
+      },
+      {
+        "name": "numbness",
+        "weight": 0.8
+      },
+      {
+        "name": "confusion",
+        "weight": 0.9
+      },
+      {
+        "name": "trouble speaking",
+        "weight": 1.0
+      },
+      {
+        "name": "vision loss",
+        "weight": 0.8
+      },
+      {
+        "name": "severe headache",
+        "weight": 0.7
+      },
+      {
+        "name": "trouble walking",
+        "weight": 0.9
+      }
+    ],
+    "discriminating_symptoms": [
+      "one-sided paralysis",
+      "facial drooping",
+      "slurred speech"
+    ],
+    "follow_up_questions": [
+      "Is the paralysis or numbness on one side?",
+      "Is your face drooping or speech slurred?"
+    ],
+    "urgency": "emergency",
+    "overview": "Interruption of blood supply to the brain."
+  },
+  {
+    "name": "Amyotrophic Lateral Sclerosis (ALS)",
+    "category": "neurological",
+    "symptoms": [
+      {
+        "name": "muscle weakness",
+        "weight": 1.0
+      },
+      {
+        "name": "trouble walking",
+        "weight": 0.9
+      },
+      {
+        "name": "clumsiness",
+        "weight": 0.8
+      },
+      {
+        "name": "difficulty speaking",
+        "weight": 0.7
+      }
+    ],
+    "discriminating_symptoms": [
+      "progressive muscle weakness",
+      "tripping and falling"
+    ],
+    "follow_up_questions": [
+      "Is the weakness getting worse over time?",
+      "select Are you tripping or dropping things often?"
+    ],
+    "urgency": "high",
+    "overview": "Nervous system disease weakening muscles and physical function."
+  },
+  {
+    "name": "Alopecia Areata",
+    "category": "dermatology",
+    "symptoms": [
+      {
+        "name": "hair loss",
+        "weight": 1.0
+      },
+      {
+        "name": "pitted nails",
+        "weight": 0.6
+      }
+    ],
+    "discriminating_symptoms": [
+      "patchy hair loss",
+      "round bald spots"
+    ],
+    "follow_up_questions": [
+      "Is the hair loss in round patches?",
+      "Do your nails look pitted?"
+    ],
+    "urgency": "low",
+    "overview": "Sudden hair loss that starts with one or more circular bald patches."
+  },
+  {
+    "name": "Guillain-Barre Syndrome",
+    "category": "neurological",
+    "symptoms": [
+      {
+        "name": "tingling",
+        "weight": 0.9
+      },
+      {
+        "name": "muscle weakness",
+        "weight": 0.9
+      },
+      {
+        "name": "paralysis",
+        "weight": 0.8
+      }
+    ],
+    "discriminating_symptoms": [
+      "symptoms start in legs",
+      "ascending paralysis"
+    ],
+    "follow_up_questions": [
+      "Did the weakness start in your legs and move up?",
+      "Do you feel tingling in your fingers or toes?"
+    ],
+    "urgency": "emergency",
+    "overview": "Immune system attacks nerves."
+  },
+  {
+    "name": "Heart Attack",
+    "category": "cardiovascular",
+    "symptoms": [
+      {
+        "name": "chest pain",
+        "weight": 1.0
+      },
+      {
+        "name": "difficulty breathing",
+        "weight": 0.9
+      },
+      {
+        "name": "nausea",
+        "weight": 0.7
+      },
+      {
+        "name": "sweating",
+        "weight": 0.8
+      },
+      {
+        "name": "arm pain",
+        "weight": 0.9
+      },
+      {
+        "name": "jaw pain",
+        "weight": 0.8
+      }
+    ],
+    "discriminating_symptoms": [
+      "pain radiating to arm",
+      "crushing chest pain",
+      "cold sweat"
+    ],
+    "follow_up_questions": [
+      "Does the pain spread to your arm or jaw?",
+      "Does it feel like a heavy weight on your chest?"
+    ],
+    "urgency": "emergency",
+    "overview": "A blockage of blood flow to the heart muscle."
+  },
+  {
+    "name": "Polio",
+    "category": "infectious",
+    "symptoms": [
+      {
+        "name": "fever",
+        "weight": 0.8
+      },
+      {
+        "name": "fatigue",
+        "weight": 0.7
+      },
+      {
+        "name": "headache",
+        "weight": 0.6
+      },
+      {
+        "name": "vomiting",
+        "weight": 0.6
+      },
+      {
+        "name": "stiffness",
+        "weight": 0.8
+      },
+      {
+        "name": "muscle weakness",
+        "weight": 1.0
+      },
+      {
+        "name": "paralysis",
+        "weight": 0.9
+      }
+    ],
+    "discriminating_symptoms": [
+      "muscle weakness",
+      "paralysis",
+      "stiff neck and back"
+    ],
+    "follow_up_questions": [
+      "Do you have sudden muscle weakness or paralysis?",
+      "Is your neck or back unusually stiff?"
+    ],
+    "urgency": "high",
+    "overview": "A disabling and life-threatening viral disease."
+  },
+  {
+    "name": "Lung Cancer",
+    "category": "oncology",
+    "symptoms": [
+      {
+        "name": "persistent cough",
+        "weight": 1.0
+      },
+      {
+        "name": "coughing up blood",
+        "weight": 1.0
+      },
+      {
+        "name": "difficulty breathing",
+        "weight": 0.9
+      },
+      {
+        "name": "chest pain",
+        "weight": 0.8
+      },
+      {
+        "name": "weight loss",
+        "weight": 0.7
+      },
+      {
+        "name": "fatigue",
+        "weight": 0.6
+      }
+    ],
+    "discriminating_symptoms": [
+      "coughing up blood",
+      "unexplained weight loss"
+    ],
+    "follow_up_questions": [
+      "Are you coughing up blood?",
+      "Have you lost weight without trying?"
+    ],
+    "urgency": "high",
+    "overview": "Cancer that begins in the lungs."
+  },
+  {
+    "name": "Colon Cancer",
+    "category": "oncology",
+    "symptoms": [
+      {
+        "name": "change in bowel habits",
+        "weight": 0.9
+      },
+      {
+        "name": "rectal bleeding",
+        "weight": 1.0
+      },
+      {
+        "name": "abdominal pain",
+        "weight": 0.7
+      },
+      {
+        "name": "weakness",
+        "weight": 0.6
+      },
+      {
+        "name": "weight loss",
+        "weight": 0.8
+      }
+    ],
+    "discriminating_symptoms": [
+      "rectal bleeding",
+      "persistent bowel changes"
+    ],
+    "follow_up_questions": [
+      "Have you noticed blood in your stool?",
+      "Have your bowel habits changed correctly?"
+    ],
+    "urgency": "high",
+    "overview": "Cancer of the colon or rectum."
+  },
+  {
+    "name": "Influenza (Flu)",
+    "category": "respiratory",
+    "symptoms": [
+      {
+        "name": "fever",
+        "weight": 0.9
+      },
+      {
+        "name": "chills",
+        "weight": 0.8
+      },
+      {
+        "name": "cough",
+        "weight": 0.8
+      },
+      {
+        "name": "sore throat",
+        "weight": 0.6
+      },
+      {
+        "name": "muscle aches",
+        "weight": 0.9
+      },
+      {
+        "name": "fatigue",
+        "weight": 0.7
+      }
+    ],
+    "discriminating_symptoms": [
+      "muscle aches",
+      "sudden onset"
+    ],
+    "follow_up_questions": [
+      "Did symptoms come on suddenly?",
+      "Do you have body aches?"
+    ],
+    "urgency": "moderate",
+    "overview": "A contagious respiratory illness caused by influenza viruses."
+  },
+  {
+    "name": "Common Cold",
+    "category": "respiratory",
+    "symptoms": [
+      {
+        "name": "runny nose",
+        "weight": 1.0
+      },
+      {
+        "name": "sneezing",
+        "weight": 0.9
+      },
+      {
+        "name": "congestion",
+        "weight": 0.8
+      },
+      {
+        "name": "sore throat",
+        "weight": 0.6
+      },
+      {
+        "name": "mild fatigue",
+        "weight": 0.4
+      }
+    ],
+    "discriminating_symptoms": [
+      "runny nose",
+      "sneezing"
+    ],
+    "follow_up_questions": [
+      "Is your nose runny or stuffy?",
+      "Are you sneezing frequently?"
+    ],
+    "urgency": "low",
+    "overview": "A viral infection of the upper respiratory tract."
+  },
+  {
+    "name": "COVID-19",
+    "category": "respiratory",
+    "symptoms": [
+      {
+        "name": "fever",
+        "weight": 0.8
+      },
+      {
+        "name": "cough",
+        "weight": 0.9
+      },
+      {
+        "name": "difficulty breathing",
+        "weight": 0.9
+      },
+      {
+        "name": "fatigue",
+        "weight": 0.7
+      },
+      {
+        "name": "loss of taste",
+        "weight": 1.0
+      },
+      {
+        "name": "loss of smell",
+        "weight": 1.0
+      }
+    ],
+    "discriminating_symptoms": [
+      "loss of taste",
+      "loss of smell"
+    ],
+    "follow_up_questions": [
+      "Have you lost your sense of taste or smell?",
+      "Any recent exposure to COVID?"
+    ],
+    "urgency": "high",
+    "overview": "A viral infection caused by SARS-CoV-2."
+  },
+  {
+    "name": "Migraine",
+    "category": "neurological",
+    "symptoms": [
+      {
+        "name": "severe headache",
+        "weight": 1.0
+      },
+      {
+        "name": "nausea",
+        "weight": 0.7
+      },
+      {
+        "name": "sensitivity to light",
+        "weight": 0.9
+      },
+      {
+        "name": "sensitivity to sound",
+        "weight": 0.8
+      },
+      {
+        "name": "blurred vision",
+        "weight": 0.5
+      }
+    ],
+    "discriminating_symptoms": [
+      "aura",
+      "sensitivity to light"
+    ],
+    "follow_up_questions": [
+      "Do you see flashing lights before headache?",
+      "Does light make it worse?"
+    ],
+    "urgency": "moderate",
+    "overview": "A neurological condition causing intense headaches."
+  },
+  {
+    "name": "Tension Headache",
+    "category": "neurological",
+    "symptoms": [
+      {
+        "name": "dull head pain",
+        "weight": 1.0
+      },
+      {
+        "name": "pressure in head",
+        "weight": 0.9
+      },
+      {
+        "name": "tight neck muscles",
+        "weight": 0.7
+      }
+    ],
+    "discriminating_symptoms": [
+      "band-like pressure"
+    ],
+    "follow_up_questions": [
+      "Does it feel like a tight band around your head?"
+    ],
+    "urgency": "low",
+    "overview": "The most common type of headache, often triggered by stress."
+  },
+  {
+    "name": "Pneumonia",
+    "category": "respiratory",
+    "symptoms": [
+      {
+        "name": "cough",
+        "weight": 0.9
+      },
+      {
+        "name": "fever",
+        "weight": 0.9
+      },
+      {
+        "name": "chest pain",
+        "weight": 0.8
+      },
+      {
+        "name": "difficulty breathing",
+        "weight": 1.0
+      },
+      {
+        "name": "fatigue",
+        "weight": 0.6
+      }
+    ],
+    "discriminating_symptoms": [
+      "productive cough",
+      "chest pain when breathing"
+    ],
+    "follow_up_questions": [
+      "Are you coughing up phlegm?",
+      "Does breathing hurt?"
+    ],
+    "urgency": "high",
+    "overview": "An infection that inflames air sacs in the lungs."
+  },
+  {
+    "name": "Gastroenteritis",
+    "category": "gastrointestinal",
+    "symptoms": [
+      {
+        "name": "nausea",
+        "weight": 0.9
+      },
+      {
+        "name": "vomiting",
+        "weight": 0.9
+      },
+      {
+        "name": "diarrhea",
+        "weight": 1.0
+      },
+      {
+        "name": "stomach cramps",
+        "weight": 0.8
+      },
+      {
+        "name": "fever",
+        "weight": 0.5
+      }
+    ],
+    "discriminating_symptoms": [
+      "diarrhea",
+      "vomiting together"
+    ],
+    "follow_up_questions": [
+      "Do you have both vomiting and diarrhea?",
+      "Did you eat anything unusual?"
+    ],
+    "urgency": "moderate",
+    "overview": "Inflammation of the stomach and intestines."
+  },
+  {
+    "name": "Appendicitis",
+    "category": "gastrointestinal",
+    "symptoms": [
+      {
+        "name": "lower right abdominal pain",
+        "weight": 1.0
+      },
+      {
+        "name": "nausea",
+        "weight": 0.7
+      },
+      {
+        "name": "fever",
+        "weight": 0.6
+      },
+      {
+        "name": "vomiting",
+        "weight": 0.5
+      }
+    ],
+    "discriminating_symptoms": [
+      "pain moving to lower right",
+      "rebound tenderness"
+    ],
+    "follow_up_questions": [
+      "Did the pain start near your belly button?",
+      "Does pressing and releasing hurt more?"
+    ],
+    "urgency": "emergency",
+    "overview": "Inflammation of the appendix, requiring urgent treatment."
+  },
+  {
+    "name": "Urinary Tract Infection",
+    "category": "urological",
+    "symptoms": [
+      {
+        "name": "burning urination",
+        "weight": 1.0
+      },
+      {
+        "name": "frequent urination",
+        "weight": 0.9
+      },
+      {
+        "name": "cloudy urine",
+        "weight": 0.7
+      },
+      {
+        "name": "lower abdominal pain",
+        "weight": 0.6
+      }
+    ],
+    "discriminating_symptoms": [
+      "burning urination",
+      "urgency"
+    ],
+    "follow_up_questions": [
+      "Does it burn when you urinate?",
+      "Do you feel sudden urges to urinate?"
+    ],
+    "urgency": "moderate",
+    "overview": "A bacterial infection affecting the urinary tract."
+  },
+  {
+    "name": "Asthma Attack",
+    "category": "respiratory",
+    "symptoms": [
+      {
+        "name": "wheezing",
+        "weight": 1.0
+      },
+      {
+        "name": "difficulty breathing",
+        "weight": 1.0
+      },
+      {
+        "name": "chest tightness",
+        "weight": 0.8
+      },
+      {
+        "name": "coughing",
+        "weight": 0.7
+      }
+    ],
+    "discriminating_symptoms": [
+      "wheezing",
+      "triggered by allergens"
+    ],
+    "follow_up_questions": [
+      "Do you wheeze when breathing?",
+      "Do you have known asthma?"
+    ],
+    "urgency": "high",
+    "overview": "A chronic lung disease with airway inflammation."
+  },
+  {
+    "name": "Bronchitis",
+    "category": "respiratory",
+    "symptoms": [
+      {
+        "name": "cough with mucus",
+        "weight": 1.0
+      },
+      {
+        "name": "fatigue",
+        "weight": 0.6
+      },
+      {
+        "name": "chest discomfort",
+        "weight": 0.7
+      },
+      {
+        "name": "mild fever",
+        "weight": 0.5
+      }
+    ],
+    "discriminating_symptoms": [
+      "productive cough lasting days"
+    ],
+    "follow_up_questions": [
+      "Are you coughing up colored mucus?",
+      "How long have you had this cough?"
+    ],
+    "urgency": "moderate",
+    "overview": "Inflammation of the bronchial tubes."
+  },
+  {
+    "name": "Sinusitis",
+    "category": "respiratory",
+    "symptoms": [
+      {
+        "name": "facial pain",
+        "weight": 0.9
+      },
+      {
+        "name": "nasal congestion",
+        "weight": 0.9
+      },
+      {
+        "name": "headache",
+        "weight": 0.7
+      },
+      {
+        "name": "runny nose",
+        "weight": 0.6
+      }
+    ],
+    "discriminating_symptoms": [
+      "facial pressure",
+      "pain worse on bending"
+    ],
+    "follow_up_questions": [
+      "Do you feel pressure in your face?",
+      "Does bending over make it worse?"
+    ],
+    "urgency": "low",
+    "overview": "Inflammation of the sinuses."
+  },
+  {
+    "name": "Strep Throat",
+    "category": "respiratory",
+    "symptoms": [
+      {
+        "name": "sore throat",
+        "weight": 1.0
+      },
+      {
+        "name": "fever",
+        "weight": 0.8
+      },
+      {
+        "name": "swollen tonsils",
+        "weight": 0.9
+      },
+      {
+        "name": "difficulty swallowing",
+        "weight": 0.7
+      }
+    ],
+    "discriminating_symptoms": [
+      "white patches on tonsils",
+      "no cough"
+    ],
+    "follow_up_questions": [
+      "Can you see white patches in your throat?",
+      "Do you have a cough?"
+    ],
+    "urgency": "moderate",
+    "overview": "A bacterial infection caused by Streptococcus."
+  },
+  {
+    "name": "Anxiety Attack",
+    "category": "mental_health",
+    "symptoms": [
+      {
+        "name": "rapid heartbeat",
+        "weight": 0.9
+      },
+      {
+        "name": "difficulty breathing",
+        "weight": 0.7
+      },
+      {
+        "name": "sweating",
+        "weight": 0.7
+      },
+      {
+        "name": "dizziness",
+        "weight": 0.6
+      }
+    ],
+    "discriminating_symptoms": [
+      "sense of impending doom",
+      "racing thoughts"
+    ],
+    "follow_up_questions": [
+      "Do you feel intense fear or panic?",
+      "Are you under significant stress?"
+    ],
+    "urgency": "moderate",
+    "overview": "A sudden episode of intense fear or discomfort."
+  },
+  {
+    "name": "Hypertension",
+    "category": "cardiovascular",
+    "symptoms": [
+      {
+        "name": "headache",
+        "weight": 0.5
+      },
+      {
+        "name": "dizziness",
+        "weight": 0.5
+      },
+      {
+        "name": "blurred vision",
+        "weight": 0.4
+      },
+      {
+        "name": "chest pain",
+        "weight": 0.3
+      }
+    ],
+    "discriminating_symptoms": [
+      "often asymptomatic"
+    ],
+    "follow_up_questions": [
+      "Have you checked your blood pressure recently?",
+      "Any family history of high BP?"
+    ],
+    "urgency": "moderate",
+    "overview": "High blood pressure, often without symptoms."
+  },
+  {
+    "name": "Diabetes Type 2",
+    "category": "metabolic",
+    "symptoms": [
+      {
+        "name": "increased thirst",
+        "weight": 0.9
+      },
+      {
+        "name": "frequent urination",
+        "weight": 0.9
+      },
+      {
+        "name": "fatigue",
+        "weight": 0.7
+      },
+      {
+        "name": "blurred vision",
+        "weight": 0.6
+      }
+    ],
+    "discriminating_symptoms": [
+      "excessive thirst",
+      "slow-healing wounds"
+    ],
+    "follow_up_questions": [
+      "Are you unusually thirsty?",
+      "Do wounds heal slowly?"
+    ],
+    "urgency": "moderate",
+    "overview": "A metabolic disorder affecting blood sugar regulation."
+  },
+  {
+    "name": "Acid Reflux (GERD)",
+    "category": "gastrointestinal",
+    "symptoms": [
+      {
+        "name": "heartburn",
+        "weight": 1.0
+      },
+      {
+        "name": "chest burning",
+        "weight": 0.9
+      },
+      {
+        "name": "sour taste",
+        "weight": 0.8
+      },
+      {
+        "name": "cough",
+        "weight": 0.4
+      }
+    ],
+    "discriminating_symptoms": [
+      "burning after meals",
+      "worse when lying down"
+    ],
+    "follow_up_questions": [
+      "Do symptoms worsen after eating?",
+      "Is it worse when you lie down?"
+    ],
+    "urgency": "low",
+    "overview": "Stomach acid frequently flows back into the esophagus."
+  },
+  {
+    "name": "Kidney Stones",
+    "category": "urological",
+    "symptoms": [
+      {
+        "name": "severe flank pain",
+        "weight": 1.0
+      },
+      {
+        "name": "blood in urine",
+        "weight": 0.9
+      },
+      {
+        "name": "nausea",
+        "weight": 0.6
+      },
+      {
+        "name": "vomiting",
+        "weight": 0.5
+      }
+    ],
+    "discriminating_symptoms": [
+      "radiating pain to groin",
+      "bloody urine"
+    ],
+    "follow_up_questions": [
+      "Does the pain radiate to your groin?",
+      "Is there blood in your urine?"
+    ],
+    "urgency": "high",
+    "overview": "Mineral deposits in the kidneys causing severe pain."
+  },
+  {
+    "name": "Food Poisoning",
+    "category": "gastrointestinal",
+    "symptoms": [
+      {
+        "name": "vomiting",
+        "weight": 0.9
+      },
+      {
+        "name": "diarrhea",
+        "weight": 0.9
+      },
+      {
+        "name": "stomach pain",
+        "weight": 0.8
+      },
+      {
+        "name": "fever",
+        "weight": 0.5
+      },
+      {
+        "name": "nausea",
+        "weight": 0.8
+      }
+    ],
+    "discriminating_symptoms": [
+      "rapid onset after eating",
+      "others sick too"
+    ],
+    "follow_up_questions": [
+      "What did you eat in the last 24 hours?",
+      "Is anyone else who ate with you sick?"
+    ],
+    "urgency": "moderate",
+    "overview": "Illness caused by consuming contaminated food."
+  },
+  {
+    "name": "Meningitis",
+    "category": "neurological",
+    "symptoms": [
+      {
+        "name": "fever",
+        "weight": 0.9
+      },
+      {
+        "name": "stiff neck",
+        "weight": 1.0
+      },
+      {
+        "name": "headache",
+        "weight": 0.9
+      },
+      {
+        "name": "nausea",
+        "weight": 0.6
+      },
+      {
+        "name": "sensitivity to light",
+        "weight": 0.8
+      }
+    ],
+    "discriminating_symptoms": [
+      "stiff neck",
+      "can't touch chin to chest"
+    ],
+    "follow_up_questions": [
+      "Can you touch your chin to your chest?",
+      "Do you have a stiff neck?"
+    ],
+    "urgency": "emergency",
+    "overview": "Inflammation of membranes around the brain and spinal cord."
+  },
+  {
+    "name": "Allergic Rhinitis",
+    "category": "allergy",
+    "symptoms": [
+      {
+        "name": "sneezing",
+        "weight": 0.9
+      },
+      {
+        "name": "itchy eyes",
+        "weight": 0.9
+      },
+      {
+        "name": "runny nose",
+        "weight": 0.8
+      },
+      {
+        "name": "congestion",
+        "weight": 0.7
+      }
+    ],
+    "discriminating_symptoms": [
+      "itchy eyes",
+      "seasonal pattern"
+    ],
+    "follow_up_questions": [
+      "Are your eyes itchy?",
+      "Do symptoms occur at certain times of year?"
+    ],
+    "urgency": "low",
+    "overview": "An allergic response to airborne substances."
+  },
+  {
+    "name": "Ear Infection",
+    "category": "otolaryngology",
+    "symptoms": [
+      {
+        "name": "ear pain",
+        "weight": 1.0
+      },
+      {
+        "name": "fever",
+        "weight": 0.6
+      },
+      {
+        "name": "trouble hearing",
+        "weight": 0.7
+      },
+      {
+        "name": "drainage",
+        "weight": 0.6
+      }
+    ],
+    "discriminating_symptoms": [
+      "ear pain worse at night",
+      "ear drainage"
+    ],
+    "follow_up_questions": [
+      "Is the pain worse at night?",
+      "Is there fluid coming from your ear?"
+    ],
+    "urgency": "moderate",
+    "overview": "A bacterial or viral infection of the middle ear."
+  },
+  {
+    "name": "Vertigo",
+    "category": "neurological",
+    "symptoms": [
+      {
+        "name": "spinning sensation",
+        "weight": 1.0
+      },
+      {
+        "name": "dizziness",
+        "weight": 0.9
+      },
+      {
+        "name": "nausea",
+        "weight": 0.7
+      }
+    ],
+    "discriminating_symptoms": [
+      "room spinning",
+      "triggered by head movement"
+    ],
+    "follow_up_questions": [
+      "Does the room seem to spin?",
+      "Does changing head position trigger it?"
+    ],
+    "urgency": "moderate",
+    "overview": "A balance disorder affecting the inner ear."
+  },
+  {
+    "name": "Iron Deficiency Anemia",
+    "category": "hematology",
+    "symptoms": [
+      {
+        "name": "fatigue",
+        "weight": 0.9
+      },
+      {
+        "name": "pale skin",
+        "weight": 0.8
+      },
+      {
+        "name": "dizziness",
+        "weight": 0.6
+      },
+      {
+        "name": "difficulty breathing",
+        "weight": 0.5
+      }
+    ],
+    "discriminating_symptoms": [
+      "pale skin",
+      "brittle nails"
+    ],
+    "follow_up_questions": [
+      "Do you look paler than usual?",
+      "Are your nails brittle?"
+    ],
+    "urgency": "moderate",
+    "overview": "Blood lacks healthy red cells due to low iron."
+  },
+  {
+    "name": "Hypothyroidism",
+    "category": "endocrine",
+    "symptoms": [
+      {
+        "name": "fatigue",
+        "weight": 0.9
+      },
+      {
+        "name": "weight gain",
+        "weight": 0.8
+      },
+      {
+        "name": "cold intolerance",
+        "weight": 0.8
+      },
+      {
+        "name": "dry skin",
+        "weight": 0.6
+      },
+      {
+        "name": "hair loss",
+        "weight": 0.7
+      }
+    ],
+    "discriminating_symptoms": [
+      "cold intolerance",
+      "unexplained weight gain"
+    ],
+    "follow_up_questions": [
+      "Are you always cold?",
+      "Have you gained weight unexpectedly?"
+    ],
+    "urgency": "moderate",
+    "overview": "Underactive thyroid causing slow metabolism."
+  },
+  {
+    "name": "Depression",
+    "category": "mental_health",
+    "symptoms": [
+      {
+        "name": "persistent sadness",
+        "weight": 1.0
+      },
+      {
+        "name": "fatigue",
+        "weight": 0.8
+      },
+      {
+        "name": "loss of interest",
+        "weight": 0.9
+      },
+      {
+        "name": "appetite changes",
+        "weight": 0.6
+      }
+    ],
+    "discriminating_symptoms": [
+      "loss of interest in activities",
+      "hopelessness"
+    ],
+    "follow_up_questions": [
+      "Have you lost interest in things you used to enjoy?",
+      "Do you feel hopeless?"
+    ],
+    "urgency": "moderate",
+    "overview": "A mood disorder affecting thoughts and daily activities."
+  },
+  {
+    "name": "Gallstones",
+    "category": "gastrointestinal",
+    "symptoms": [
+      {
+        "name": "upper right abdominal pain",
+        "weight": 1.0
+      },
+      {
+        "name": "nausea",
+        "weight": 0.7
+      },
+      {
+        "name": "vomiting",
+        "weight": 0.5
+      }
+    ],
+    "discriminating_symptoms": [
+      "pain after fatty meals",
+      "pain radiating to back"
+    ],
+    "follow_up_questions": [
+      "Does the pain occur after eating fatty foods?",
+      "Does it radiate to your back?"
+    ],
+    "urgency": "moderate",
+    "overview": "Hardened deposits in the gallbladder causing pain."
+  },
+  {
+    "name": "Irritable Bowel Syndrome",
+    "category": "gastrointestinal",
+    "symptoms": [
+      {
+        "name": "abdominal pain",
+        "weight": 0.9
+      },
+      {
+        "name": "diarrhea",
+        "weight": 0.7
+      },
+      {
+        "name": "constipation",
+        "weight": 0.7
+      },
+      {
+        "name": "bloating",
+        "weight": 0.8
+      }
+    ],
+    "discriminating_symptoms": [
+      "alternating diarrhea and constipation",
+      "pain relieved by bowel movement"
+    ],
+    "follow_up_questions": [
+      "Do you alternate between diarrhea and constipation?",
+      "Does pain improve after bowel movement?"
+    ],
+    "urgency": "low",
+    "overview": "A functional digestive disorder causing chronic discomfort."
+  },
+  {
+    "name": "Eczema",
+    "category": "dermatology",
+    "symptoms": [
+      {
+        "name": "itchy skin",
+        "weight": 1.0
+      },
+      {
+        "name": "redness",
+        "weight": 0.8
+      },
+      {
+        "name": "dry patches",
+        "weight": 0.9
+      }
+    ],
+    "discriminating_symptoms": [
+      "recurring in same areas",
+      "family history of allergies"
+    ],
+    "follow_up_questions": [
+      "Does the rash appear in the same spots?",
+      "Do you have allergies or asthma?"
+    ],
+    "urgency": "low",
+    "overview": "A chronic skin condition causing inflammation."
+  },
+  {
+    "name": "Psoriasis",
+    "category": "dermatology",
+    "symptoms": [
+      {
+        "name": "red scaly patches",
+        "weight": 1.0
+      },
+      {
+        "name": "itching",
+        "weight": 0.7
+      },
+      {
+        "name": "burning sensations",
+        "weight": 0.6
+      }
+    ],
+    "discriminating_symptoms": [
+      "silvery scales",
+      "patches on elbows/knees"
+    ],
+    "follow_up_questions": [
+      "Are the patches covered with silvery scales?",
+      "Are they on your elbows or knees?"
+    ],
+    "urgency": "low",
+    "overview": "An autoimmune skin condition."
+  },
+  {
+    "name": "Sepsis",
+    "category": "infectious",
+    "symptoms": [
+      {
+        "name": "fever",
+        "weight": 0.9
+      },
+      {
+        "name": "confusion",
+        "weight": 0.9
+      },
+      {
+        "name": "rapid heartbeat",
+        "weight": 0.8
+      },
+      {
+        "name": "difficulty breathing",
+        "weight": 0.9
+      }
+    ],
+    "discriminating_symptoms": [
+      "confusion",
+      "rapid decline"
+    ],
+    "follow_up_questions": [
+      "Is the person confused or disoriented?",
+      "Did symptoms come on very rapidly?"
+    ],
+    "urgency": "emergency",
+    "overview": "A life-threatening response to infection."
+  },
+  {
+    "name": "Chickenpox",
+    "category": "infectious",
+    "symptoms": [
+      {
+        "name": "itchy rash",
+        "weight": 1.0
+      },
+      {
+        "name": "blisters",
+        "weight": 1.0
+      },
+      {
+        "name": "fever",
+        "weight": 0.7
+      },
+      {
+        "name": "fatigue",
+        "weight": 0.5
+      }
+    ],
+    "discriminating_symptoms": [
+      "rash progresses to blisters",
+      "spreads from trunk"
+    ],
+    "follow_up_questions": [
+      "Did the rash start on your torso?",
+      "Are there blisters filled with fluid?"
+    ],
+    "urgency": "moderate",
+    "overview": "A viral infection causing blister-like rashes."
+  },
+  {
+    "name": "Shingles",
+    "category": "infectious",
+    "symptoms": [
+      {
+        "name": "painful rash",
+        "weight": 1.0
+      },
+      {
+        "name": "tingling",
+        "weight": 0.8
+      },
+      {
+        "name": "burning sensation",
+        "weight": 0.9
+      }
+    ],
+    "discriminating_symptoms": [
+      "rash on one side only",
+      "banding pattern"
+    ],
+    "follow_up_questions": [
+      "Is the rash only on one side of your body?",
+      "Did you have chickenpox before?"
+    ],
+    "urgency": "moderate",
+    "overview": "A reactivation of the chickenpox virus causing nerve pain."
+  },
+  {
+    "name": "Mononucleosis",
+    "category": "infectious",
+    "symptoms": [
+      {
+        "name": "fatigue",
+        "weight": 1.0
+      },
+      {
+        "name": "fever",
+        "weight": 0.8
+      },
+      {
+        "name": "sore throat",
+        "weight": 0.8
+      },
+      {
+        "name": "swollen lymph nodes",
+        "weight": 0.9
+      }
+    ],
+    "discriminating_symptoms": [
+      "extreme fatigue",
+      "swollen glands in neck"
+    ],
+    "follow_up_questions": [
+      "Are you extremely exhausted?",
+      "Are the glands in your neck swollen?"
+    ],
+    "urgency": "moderate",
+    "overview": "A viral infection often called the kissing disease."
+  },
+  {
+    "name": "Lyme Disease",
+    "category": "infectious",
+    "symptoms": [
+      {
+        "name": "rash",
+        "weight": 0.9
+      },
+      {
+        "name": "fever",
+        "weight": 0.7
+      },
+      {
+        "name": "joint pain",
+        "weight": 0.8
+      },
+      {
+        "name": "headache",
+        "weight": 0.6
+      }
+    ],
+    "discriminating_symptoms": [
+      "bulls-eye rash",
+      "tick bite history"
+    ],
+    "follow_up_questions": [
+      "Does the rash look like a bulls-eye?",
+      "Were you bitten by a tick recently?"
+    ],
+    "urgency": "high",
+    "overview": "A bacterial infection transmitted by ticks."
+  },
+  {
+    "name": "Osteoarthritis",
+    "category": "musculoskeletal",
+    "symptoms": [
+      {
+        "name": "joint pain",
+        "weight": 1.0
+      },
+      {
+        "name": "stiffness",
+        "weight": 0.9
+      },
+      {
+        "name": "reduced flexibility",
+        "weight": 0.7
+      }
+    ],
+    "discriminating_symptoms": [
+      "pain worse with activity",
+      "morning stiffness less than 30 mins"
+    ],
+    "follow_up_questions": [
+      "Is the pain worse after activity?",
+      "Does stiffness improve within 30 minutes?"
+    ],
+    "urgency": "low",
+    "overview": "Degenerative joint disease affecting older adults."
+  },
+  {
+    "name": "Rheumatoid Arthritis",
+    "category": "musculoskeletal",
+    "symptoms": [
+      {
+        "name": "joint swelling",
+        "weight": 1.0
+      },
+      {
+        "name": "stiffness",
+        "weight": 0.9
+      },
+      {
+        "name": "fatigue",
+        "weight": 0.7
+      }
+    ],
+    "discriminating_symptoms": [
+      "symmetric joint involvement",
+      "morning stiffness over 1 hour"
+    ],
+    "follow_up_questions": [
+      "Are both sides of your body affected equally?",
+      "Does stiffness last over an hour?"
+    ],
+    "urgency": "moderate",
+    "overview": "An autoimmune disorder affecting joints."
+  },
+  {
+    "name": "Tinnitus",
+    "category": "otolaryngology",
+    "symptoms": [
+      {
+        "name": "ringing in ears",
+        "weight": 1.0
+      },
+      {
+        "name": "buzzing sound",
+        "weight": 0.9
+      },
+      {
+        "name": "difficulty hearing",
+        "weight": 0.6
+      }
+    ],
+    "discriminating_symptoms": [
+      "constant ringing",
+      "no external sound source"
+    ],
+    "follow_up_questions": [
+      "Is the ringing constant or intermittent?",
+      "Does it affect your hearing?"
+    ],
+    "urgency": "low",
+    "overview": "Perception of noise or ringing in the ears."
+  },
+  {
+    "name": "Glaucoma",
+    "category": "ophthalmology",
+    "symptoms": [
+      {
+        "name": "eye pain",
+        "weight": 0.8
+      },
+      {
+        "name": "blurred vision",
+        "weight": 0.9
+      },
+      {
+        "name": "halos around lights",
+        "weight": 0.9
+      },
+      {
+        "name": "red eyes",
+        "weight": 0.6
+      }
+    ],
+    "discriminating_symptoms": [
+      "halos around lights",
+      "peripheral vision loss"
+    ],
+    "follow_up_questions": [
+      "Do you see halos around lights?",
+      "Have you noticed blind spots in your vision?"
+    ],
+    "urgency": "high",
+    "overview": "Eye conditions that damage the optic nerve."
+  },
+  {
+    "name": "Dehydration",
+    "category": "general",
+    "symptoms": [
+      {
+        "name": "thirst",
+        "weight": 1.0
+      },
+      {
+        "name": "dizziness",
+        "weight": 0.7
+      },
+      {
+        "name": "dry mouth",
+        "weight": 0.9
+      },
+      {
+        "name": "fatigue",
+        "weight": 0.6
+      }
+    ],
+    "discriminating_symptoms": [
+      "dark urine",
+      "decreased urination"
+    ],
+    "follow_up_questions": [
+      "Is your urine dark yellow?",
+      "Are you urinating less than usual?"
+    ],
+    "urgency": "moderate",
+    "overview": "A condition caused by insufficient fluid intake."
+  },
+  {
+    "name": "Heat Exhaustion",
+    "category": "general",
+    "symptoms": [
+      {
+        "name": "excessive sweating",
+        "weight": 0.9
+      },
+      {
+        "name": "dizziness",
+        "weight": 0.8
+      },
+      {
+        "name": "nausea",
+        "weight": 0.7
+      },
+      {
+        "name": "rapid pulse",
+        "weight": 0.8
+      }
+    ],
+    "discriminating_symptoms": [
+      "heavy sweating",
+      "cool pale skin"
+    ],
+    "follow_up_questions": [
+      "Were you exposed to high heat?",
+      "Is your skin cool and clammy?"
+    ],
+    "urgency": "high",
+    "overview": "A heat-related illness due to overheating."
+  },
+  {
+    "name": "Hypoglycemia",
+    "category": "metabolic",
+    "symptoms": [
+      {
+        "name": "shakiness",
+        "weight": 0.9
+      },
+      {
+        "name": "sweating",
+        "weight": 0.8
+      },
+      {
+        "name": "dizziness",
+        "weight": 0.7
+      },
+      {
+        "name": "hunger",
+        "weight": 0.8
+      }
+    ],
+    "discriminating_symptoms": [
+      "improves after eating",
+      "diabetic history"
+    ],
+    "follow_up_questions": [
+      "Did symptoms improve after eating?",
+      "Do you have diabetes?"
+    ],
+    "urgency": "moderate",
+    "overview": "Low blood sugar, often seen in diabetics."
+  },
+  {
+    "name": "Panic Attack",
+    "category": "mental_health",
+    "symptoms": [
+      {
+        "name": "difficulty breathing",
+        "weight": 0.8
+      },
+      {
+        "name": "chest tightness",
+        "weight": 0.8
+      },
+      {
+        "name": "fear",
+        "weight": 0.9
+      },
+      {
+        "name": "trembling",
+        "weight": 0.7
+      }
+    ],
+    "discriminating_symptoms": [
+      "fear of dying",
+      "symptoms peak in minutes"
+    ],
+    "follow_up_questions": [
+      "Did symptoms come on suddenly and peak quickly?",
+      "Do you feel like you might die?"
+    ],
+    "urgency": "moderate",
+    "overview": "Sudden intense fear that triggers physical reactions."
+  },
+  {
+    "name": "Stomach Ulcer",
+    "category": "gastrointestinal",
+    "symptoms": [
+      {
+        "name": "burning stomach pain",
+        "weight": 1.0
+      },
+      {
+        "name": "nausea",
+        "weight": 0.6
+      },
+      {
+        "name": "bloating",
+        "weight": 0.5
+      }
+    ],
+    "discriminating_symptoms": [
+      "pain between meals",
+      "pain relieved by antacids"
+    ],
+    "follow_up_questions": [
+      "Is the pain worse when your stomach is empty?",
+      "Do antacids help?"
+    ],
+    "urgency": "moderate",
+    "overview": "Sores that develop on the stomach lining."
+  },
+  {
+    "name": "Lactose Intolerance",
+    "category": "gastrointestinal",
+    "symptoms": [
+      {
+        "name": "bloating",
+        "weight": 0.9
+      },
+      {
+        "name": "gas",
+        "weight": 0.9
+      },
+      {
+        "name": "diarrhea",
+        "weight": 0.8
+      },
+      {
+        "name": "stomach pain",
+        "weight": 0.7
+      }
+    ],
+    "discriminating_symptoms": [
+      "symptoms after dairy",
+      "no fever"
+    ],
+    "follow_up_questions": [
+      "Do symptoms occur after consuming dairy?",
+      "Do you have any fever?"
+    ],
+    "urgency": "low",
+    "overview": "The inability to digest lactose in dairy products."
+  },
+  {
+    "name": "Celiac Disease",
+    "category": "gastrointestinal",
+    "symptoms": [
+      {
+        "name": "diarrhea",
+        "weight": 0.9
+      },
+      {
+        "name": "weight loss",
+        "weight": 0.8
+      },
+      {
+        "name": "fatigue",
+        "weight": 0.7
+      },
+      {
+        "name": "bloating",
+        "weight": 0.8
+      }
+    ],
+    "discriminating_symptoms": [
+      "symptoms after gluten",
+      "failure to thrive"
+    ],
+    "follow_up_questions": [
+      "Do symptoms occur after eating wheat or gluten?",
+      "Have you lost weight unexpectedly?"
+    ],
+    "urgency": "moderate",
+    "overview": "An autoimmune reaction to consuming gluten."
+  },
+  {
+    "name": "Insomnia",
+    "category": "sleep",
+    "symptoms": [
+      {
+        "name": "difficulty sleeping",
+        "weight": 1.0
+      },
+      {
+        "name": "waking up during night",
+        "weight": 0.8
+      },
+      {
+        "name": "daytime tiredness",
+        "weight": 0.9
+      }
+    ],
+    "discriminating_symptoms": [
+      "trouble falling asleep",
+      "early morning awakening"
+    ],
+    "follow_up_questions": [
+      "Do you have trouble falling asleep or staying asleep?",
+      "Do you wake up too early?"
+    ],
+    "urgency": "low",
+    "overview": "Sleep disorder characterized by difficulty falling or staying asleep."
+  },
+  {
+    "name": "Measles",
+    "category": "infectious",
+    "symptoms": [
+      {
+        "name": "high fever",
+        "weight": 0.9
+      },
+      {
+        "name": "cough",
+        "weight": 0.8
+      },
+      {
+        "name": "runny nose",
+        "weight": 0.8
+      },
+      {
+        "name": "red eyes",
+        "weight": 0.8
+      },
+      {
+        "name": "rash",
+        "weight": 1.0
+      }
+    ],
+    "discriminating_symptoms": [
+      "rash starting on face",
+      "white spots in mouth"
+    ],
+    "follow_up_questions": [
+      "Did the rash start on your face and spread down?",
+      "Do you have small white spots inside your mouth?"
+    ],
+    "urgency": "high",
+    "overview": "A highly contagious viral infection causing fever and a distinctive rash."
+  },
+  {
+    "name": "Chickenpox",
+    "category": "infectious",
+    "symptoms": [
+      {
+        "name": "itchy rash",
+        "weight": 1.0
+      },
+      {
+        "name": "blisters",
+        "weight": 1.0
+      },
+      {
+        "name": "fever",
+        "weight": 0.8
+      },
+      {
+        "name": "fatigue",
+        "weight": 0.7
+      }
+    ],
+    "discriminating_symptoms": [
+      "fluid-filled blisters",
+      "intense itching"
+    ],
+    "follow_up_questions": [
+      "Do the spots look like fluid-filled blisters?",
+      "Is the rash intensely itchy?"
+    ],
+    "urgency": "moderate",
+    "overview": "A viral infection causing an itchy blister-like rash."
+  }
+]

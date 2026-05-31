@@ -1,0 +1,7426 @@
+[
+  {
+    "text": "I cant move my arms",
+    "label": "paralysis"
+  },
+  {
+    "text": "I suddenly cannot see",
+    "label": "vision loss"
+  },
+  {
+    "text": "I am losing my hair",
+    "label": "hair loss"
+  },
+  {
+    "text": "I can't walk properly",
+    "label": "trouble walking"
+  },
+  {
+    "text": "severe heartburn after eating",
+    "label": "heartburn"
+  },
+  {
+    "text": "muscle weakness in my legs",
+    "label": "muscle weakness"
+  },
+  {
+    "text": "I have bald spots on my head",
+    "label": "hair loss"
+  },
+  {
+    "text": "one side of my face is drooping",
+    "label": "paralysis"
+  },
+  {
+    "text": "part of my vision is gone",
+    "label": "vision loss"
+  },
+  {
+    "text": "burning sensation in my chest",
+    "label": "heartburn"
+  },
+  {
+    "text": "my left arm hurts bad",
+    "label": "arm pain"
+  },
+  {
+    "text": "pain radiating to my jaw",
+    "label": "jaw pain"
+  },
+  {
+    "text": "i have blood in my poop",
+    "label": "rectal bleeding"
+  },
+  {
+    "text": "coughing up blood",
+    "label": "coughing up blood"
+  },
+  {
+    "text": "my legs feel incredibly weak",
+    "label": "muscle weakness"
+  },
+  {
+    "text": "my neck is so stiff",
+    "label": "stiffness"
+  },
+  {
+    "text": "crushing chest pain and sweating",
+    "label": "chest pain"
+  },
+  {
+    "text": "I have light sensitivity",
+    "label": "photophobia"
+  },
+  {
+    "text": "lights hurt my eyes",
+    "label": "photophobia"
+  },
+  {
+    "text": "it is too bright",
+    "label": "photophobia"
+  },
+  {
+    "text": "I cannot look at the light",
+    "label": "photophobia"
+  },
+  {
+    "text": "headache and light sensitivity",
+    "label": "photophobia"
+  },
+  {
+    "text": "my eyes are sensitive to light",
+    "label": "photophobia"
+  },
+  {
+    "text": "photophobia",
+    "label": "photophobia"
+  },
+  {
+    "text": "bright light causes pain",
+    "label": "photophobia"
+  },
+  {
+    "text": "sunlight hurts my eyes",
+    "label": "photophobia"
+  },
+  {
+    "text": "I hear ringing in my ears",
+    "label": "tinnitus"
+  },
+  {
+    "text": "constant buzzing noise in ear",
+    "label": "tinnitus"
+  },
+  {
+    "text": "my ears are ringing",
+    "label": "tinnitus"
+  },
+  {
+    "text": "my baby is wheezing",
+    "label": "wheezing"
+  },
+  {
+    "text": "rapid breathing and cough",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "breathing is wheezy",
+    "label": "wheezing"
+  },
+  {
+    "text": "making a wheezing sound",
+    "label": "wheezing"
+  },
+  {
+    "text": "wheezing",
+    "label": "wheezing"
+  },
+  {
+    "text": "I can hear a whistle in my chest",
+    "label": "wheezing"
+  },
+  {
+    "text": "breathing makes a high pitched sound",
+    "label": "wheezing"
+  },
+  {
+    "text": "it whistles when I breathe",
+    "label": "wheezing"
+  },
+  {
+    "text": "high pitched breath sound",
+    "label": "wheezing"
+  },
+  {
+    "text": "squeaky breathing",
+    "label": "wheezing"
+  },
+  {
+    "text": "tight chest and whistling",
+    "label": "wheezing"
+  },
+  {
+    "text": "noisy breathing",
+    "label": "wheezing"
+  },
+  {
+    "text": "chest whistling sound",
+    "label": "wheezing"
+  },
+  {
+    "text": "whistling when breathing",
+    "label": "wheezing"
+  },
+  {
+    "text": "body hurts all over",
+    "label": "muscle pain"
+  },
+  {
+    "text": "muscles ache everywhere",
+    "label": "muscle pain"
+  },
+  {
+    "text": "pain in my muscles",
+    "label": "muscle pain"
+  },
+  {
+    "text": "widespread muscle pain",
+    "label": "muscle pain"
+  },
+  {
+    "text": "halos around lights",
+    "label": "visual halos"
+  },
+  {
+    "text": "seeing rings around lights",
+    "label": "visual halos"
+  },
+  {
+    "text": "light halos",
+    "label": "visual halos"
+  },
+  {
+    "text": "rainbows around lights",
+    "label": "visual halos"
+  },
+  {
+    "text": "red and painful eyes",
+    "label": "eye pain"
+  },
+  {
+    "text": "bulge in my abdomen",
+    "label": "abdominal bulge"
+  },
+  {
+    "text": "pain when lifting heavy things",
+    "label": "abdominal pain"
+  },
+  {
+    "text": "can't sleep at all",
+    "label": "insomnia"
+  },
+  {
+    "text": "waking up too early",
+    "label": "insomnia"
+  },
+  {
+    "text": "recently very i feel like i'm not getting enough air since yesterday",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "really I feel like I'm going to black out",
+    "label": "dizziness"
+  },
+  {
+    "text": "kind of constant feeling of nausea all day",
+    "label": "nausea"
+  },
+  {
+    "text": "for a while really I have pressure in my head since yesterday",
+    "label": "headache"
+  },
+  {
+    "text": "really I feel extremely tired for hours",
+    "label": "fatigue"
+  },
+  {
+    "text": "for a while very I have a strong pulsating headache for hours",
+    "label": "headache"
+  },
+  {
+    "text": "these days super i throw up anything i try to drink for hours",
+    "label": "vomiting"
+  },
+  {
+    "text": "lately super I have pressure in my head all day",
+    "label": "headache"
+  },
+  {
+    "text": "for a while really I have abdominal pain since yesterday",
+    "label": "stomach pain"
+  },
+  {
+    "text": "right now really I feel like I might puke today",
+    "label": "nausea"
+  },
+  {
+    "text": "right now kinda I feel like I have zero energy today",
+    "label": "fatigue"
+  },
+  {
+    "text": "lately very i vomit shortly after meals all day",
+    "label": "vomiting"
+  },
+  {
+    "text": "for a while so it's hard to breathe when I lie down for a few days",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "really i feel like i'm going to vomit",
+    "label": "nausea"
+  },
+  {
+    "text": "these days kinda my vision feels weird when I stand for hours",
+    "label": "dizziness"
+  },
+  {
+    "text": "these days kind of my throat has been hurting since yesterday",
+    "label": "sore throat"
+  },
+  {
+    "text": "these days loud noises make my headache worse since yesterday",
+    "label": "headache"
+  },
+  {
+    "text": "right now so everything is spinning for a few days",
+    "label": "dizziness"
+  },
+  {
+    "text": "lately so I feel a band of tightness across my chest for hours",
+    "label": "chest tightness"
+  },
+  {
+    "text": "these days really I breathe heavily after light effort for hours",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "these days really I have trouble walking straight because I'm dizzy since yesterday",
+    "label": "dizziness"
+  },
+  {
+    "text": "these days kinda I have pain in the middle of my abdomen",
+    "label": "stomach pain"
+  },
+  {
+    "text": "these days really I get tired very easily",
+    "label": "fatigue"
+  },
+  {
+    "text": "kind of pain behind my eyes and head today",
+    "label": "headache"
+  },
+  {
+    "text": "very I feel sick to my stomach",
+    "label": "nausea"
+  },
+  {
+    "text": "lately kinda I threw up during the night for hours",
+    "label": "vomiting"
+  },
+  {
+    "text": "recently i feel breathless after walking for hours",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "kinda i breathe heavily after light effort today",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "kind of I feel unsteady on my feet for hours",
+    "label": "dizziness"
+  },
+  {
+    "text": "recently kinda I have repeated vomiting today",
+    "label": "vomiting"
+  },
+  {
+    "text": "recently really my forehead hurts a lot for a few days",
+    "label": "headache"
+  },
+  {
+    "text": "these days kind of I have sudden urges to vomit today",
+    "label": "vomiting"
+  },
+  {
+    "text": "these days my throat has been hurting since yesterday today",
+    "label": "sore throat"
+  },
+  {
+    "text": "these days kind of I have trouble breathing for a few days",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "kind of I have a bad tummy ache all day",
+    "label": "stomach pain"
+  },
+  {
+    "text": "for a while super it feels like sandpaper in my throat for a few days",
+    "label": "sore throat"
+  },
+  {
+    "text": "these days very head hurts more when i move for hours",
+    "label": "headache"
+  },
+  {
+    "text": "for a while very I woke up with a headache today",
+    "label": "headache"
+  },
+  {
+    "text": "right now kinda I feel like I'm swaying when I stand for hours",
+    "label": "dizziness"
+  },
+  {
+    "text": "for a while super I feel drained even after sleeping for hours",
+    "label": "fatigue"
+  },
+  {
+    "text": "for a while kind of i feel like my stomach hates me since yesterday",
+    "label": "nausea"
+  },
+  {
+    "text": "for a while kind of I vomit shortly after meals",
+    "label": "vomiting"
+  },
+  {
+    "text": "really I breathe heavily after light effort for hours",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "for a while so i feel nauseous since yesterday",
+    "label": "nausea"
+  },
+  {
+    "text": "these days kind of I struggle to take a full breath all day",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "recently kind of I can't stop puking since yesterday",
+    "label": "vomiting"
+  },
+  {
+    "text": "very I feel constantly fatigued since yesterday",
+    "label": "fatigue"
+  },
+  {
+    "text": "for a while very I have a dull ache in my stomach for a few days",
+    "label": "stomach pain"
+  },
+  {
+    "text": "lately i have pressure in my head for hours",
+    "label": "headache"
+  },
+  {
+    "text": "these days really constant dull headache since yesterday",
+    "label": "headache"
+  },
+  {
+    "text": "recently kind of my throat hurts when I swallow since yesterday",
+    "label": "sore throat"
+  },
+  {
+    "text": "kind of I feel woozy and off balance for hours",
+    "label": "dizziness"
+  },
+  {
+    "text": "recently super i have pressure in my chest since yesterday",
+    "label": "chest tightness"
+  },
+  {
+    "text": "super my throat feels swollen for a few days",
+    "label": "sore throat"
+  },
+  {
+    "text": "for a while kind of I am bringing up food I just ate",
+    "label": "vomiting"
+  },
+  {
+    "text": "I feel like my stomach is turning today",
+    "label": "nausea"
+  },
+  {
+    "text": "for a while my head is pounding for a few days",
+    "label": "headache"
+  },
+  {
+    "text": "lately really my throat hurts more at night all day",
+    "label": "sore throat"
+  },
+  {
+    "text": "right now so my chest feels squeezed when I take a deep breath all day",
+    "label": "chest tightness"
+  },
+  {
+    "text": "for a while very I keep getting headaches today",
+    "label": "headache"
+  },
+  {
+    "text": "lately I feel constantly fatigued today",
+    "label": "fatigue"
+  },
+  {
+    "text": "really head hurts more when I move all day",
+    "label": "headache"
+  },
+  {
+    "text": "right now so I get dizzy when I stand up for a few days",
+    "label": "dizziness"
+  },
+  {
+    "text": "recently super i feel like my stomach is turning for a few days",
+    "label": "nausea"
+  },
+  {
+    "text": "recently I feel weak and tired for hours",
+    "label": "fatigue"
+  },
+  {
+    "text": "recently very i am tired no matter how much i rest today",
+    "label": "fatigue"
+  },
+  {
+    "text": "recently really my chest feels heavy",
+    "label": "chest tightness"
+  },
+  {
+    "text": "recently kind of my stomach hurts for hours",
+    "label": "stomach pain"
+  },
+  {
+    "text": "recently super I get dizzy when I stand up since yesterday",
+    "label": "dizziness"
+  },
+  {
+    "text": "recently kinda i feel exhausted when i wake up all day",
+    "label": "fatigue"
+  },
+  {
+    "text": "kind of i feel woozy and off balance today",
+    "label": "dizziness"
+  },
+  {
+    "text": "right now kind of i vomited a few hours ago",
+    "label": "vomiting"
+  },
+  {
+    "text": "lately kinda I feel like I could throw up at any moment since yesterday",
+    "label": "nausea"
+  },
+  {
+    "text": "kinda i get tired very easily today",
+    "label": "fatigue"
+  },
+  {
+    "text": "these days kinda my stomach hurts after I eat all day",
+    "label": "stomach pain"
+  },
+  {
+    "text": "right now really I feel sick after eating for a few days",
+    "label": "nausea"
+  },
+  {
+    "text": "for a while very i can't focus because of this headache for hours",
+    "label": "headache"
+  },
+  {
+    "text": "lately kind of I have stomach pain today",
+    "label": "stomach pain"
+  },
+  {
+    "text": "lately so my throat is killing me all day",
+    "label": "sore throat"
+  },
+  {
+    "text": "lately really I feel like I'm about to faint today",
+    "label": "dizziness"
+  },
+  {
+    "text": "recently very my chest feels heavy today",
+    "label": "chest tightness"
+  },
+  {
+    "text": "these days super i feel exhausted when i wake up all day",
+    "label": "fatigue"
+  },
+  {
+    "text": "recently my chest feels tight and uncomfortable",
+    "label": "chest tightness"
+  },
+  {
+    "text": "recently my vision feels weird when I stand for a few days",
+    "label": "dizziness"
+  },
+  {
+    "text": "for a while super my belly feels sore",
+    "label": "stomach pain"
+  },
+  {
+    "text": "recently so I am bringing up food I just ate for hours",
+    "label": "vomiting"
+  },
+  {
+    "text": "really my throat is super sore since yesterday",
+    "label": "sore throat"
+  },
+  {
+    "text": "right now so my throat hurts when I swallow since yesterday",
+    "label": "sore throat"
+  },
+  {
+    "text": "I am tired no matter how much I rest all day",
+    "label": "fatigue"
+  },
+  {
+    "text": "recently super I throw up anything I try to drink since yesterday",
+    "label": "vomiting"
+  },
+  {
+    "text": "for a while very I threw up during the night today",
+    "label": "vomiting"
+  },
+  {
+    "text": "right now so i have sudden urges to vomit since yesterday",
+    "label": "vomiting"
+  },
+  {
+    "text": "for a while really I vomited a few hours ago for hours",
+    "label": "vomiting"
+  },
+  {
+    "text": "right now so I feel slightly sick all the time all day",
+    "label": "nausea"
+  },
+  {
+    "text": "lately so my head feels floaty and weird for a few days",
+    "label": "dizziness"
+  },
+  {
+    "text": "for a while really i have stomach pain today",
+    "label": "stomach pain"
+  },
+  {
+    "text": "these days kind of my chest feels tight and uncomfortable all day",
+    "label": "chest tightness"
+  },
+  {
+    "text": "these days kinda I am always run down since yesterday",
+    "label": "fatigue"
+  },
+  {
+    "text": "super I feel like my chest won't expand enough to breathe for a few days",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "really I have a weird tight feeling in my chest for a few days",
+    "label": "chest tightness"
+  },
+  {
+    "text": "for a while i can't keep anything down and i vomit for hours",
+    "label": "vomiting"
+  },
+  {
+    "text": "kinda my lower stomach hurts since yesterday",
+    "label": "stomach pain"
+  },
+  {
+    "text": "for a while kind of I feel tired for no clear reason for hours",
+    "label": "fatigue"
+  },
+  {
+    "text": "for a while kind of i feel like my stomach is upset for a few days",
+    "label": "nausea"
+  },
+  {
+    "text": "these days kind of i feel like my body is heavy and tired for hours",
+    "label": "fatigue"
+  },
+  {
+    "text": "recently I breathe heavily after light effort",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "really my throat hurts a lot today",
+    "label": "sore throat"
+  },
+  {
+    "text": "so I vomit even when my stomach is empty for a few days",
+    "label": "vomiting"
+  },
+  {
+    "text": "kind of my skull feels like it's being squeezed for hours",
+    "label": "headache"
+  },
+  {
+    "text": "lately so I feel burnt out and exhausted today",
+    "label": "fatigue"
+  },
+  {
+    "text": "recently kind of I keep gagging and vomiting",
+    "label": "vomiting"
+  },
+  {
+    "text": "right now so i feel tired even without doing much",
+    "label": "fatigue"
+  },
+  {
+    "text": "these days super i feel dizzy for a few days",
+    "label": "dizziness"
+  },
+  {
+    "text": "right now really I have pressure in my head all day",
+    "label": "headache"
+  },
+  {
+    "text": "right now so I have on and off stomach pain all day",
+    "label": "stomach pain"
+  },
+  {
+    "text": "recently my head is pounding today",
+    "label": "headache"
+  },
+  {
+    "text": "recently kind of I have on and off stomach pain for a few days",
+    "label": "stomach pain"
+  },
+  {
+    "text": "for a while I have stomach pain",
+    "label": "stomach pain"
+  },
+  {
+    "text": "recently kinda I feel sick after eating for hours",
+    "label": "nausea"
+  },
+  {
+    "text": "really I feel queezy after meals for hours",
+    "label": "nausea"
+  },
+  {
+    "text": "kind of my chest feels tight and it worries me today",
+    "label": "chest tightness"
+  },
+  {
+    "text": "lately I feel like I could fall asleep any time since yesterday",
+    "label": "fatigue"
+  },
+  {
+    "text": "kinda i am vomiting after i eat",
+    "label": "vomiting"
+  },
+  {
+    "text": "these days really I have on and off stomach pain for a few days",
+    "label": "stomach pain"
+  },
+  {
+    "text": "for a while very I threw up several times today",
+    "label": "vomiting"
+  },
+  {
+    "text": "recently really I feel like I'm not getting enough air today",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "right now super my chest feels tight when I breathe for a few days",
+    "label": "chest tightness"
+  },
+  {
+    "text": "for a while very my head hurts so much today",
+    "label": "headache"
+  },
+  {
+    "text": "for a while kind of I feel like I'm swaying when I stand for hours",
+    "label": "dizziness"
+  },
+  {
+    "text": "right now pain in my throat all day for a few days",
+    "label": "sore throat"
+  },
+  {
+    "text": "for a while kind of i have no energy at all since yesterday",
+    "label": "fatigue"
+  },
+  {
+    "text": "right now kinda there is a constant ache in my throat",
+    "label": "sore throat"
+  },
+  {
+    "text": "so I feel sick to my stomach all day",
+    "label": "nausea"
+  },
+  {
+    "text": "lately i feel uncomfortable and nauseous",
+    "label": "nausea"
+  },
+  {
+    "text": "very I have episodes of vomiting since yesterday",
+    "label": "vomiting"
+  },
+  {
+    "text": "recently I get breathless when I hurry all day",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "recently so my throat hurts a lot for hours",
+    "label": "sore throat"
+  },
+  {
+    "text": "right now super I feel breathless after walking since yesterday",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "these days very I feel like I can't breathe deeply for hours",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "recently very i feel drained even after sleeping",
+    "label": "fatigue"
+  },
+  {
+    "text": "really I feel like my body is heavy and tired all day",
+    "label": "fatigue"
+  },
+  {
+    "text": "right now very my throat hurts more at night for hours",
+    "label": "sore throat"
+  },
+  {
+    "text": "recently really my skull feels like it's being squeezed for hours",
+    "label": "headache"
+  },
+  {
+    "text": "recently my stomach feels queasy since yesterday",
+    "label": "nausea"
+  },
+  {
+    "text": "for a while kinda i feel lightheaded since yesterday",
+    "label": "dizziness"
+  },
+  {
+    "text": "recently super my chest tightness comes and goes",
+    "label": "chest tightness"
+  },
+  {
+    "text": "lately I feel unsteady on my feet for hours",
+    "label": "dizziness"
+  },
+  {
+    "text": "lately super my stomach hurts after I eat for a few days",
+    "label": "stomach pain"
+  },
+  {
+    "text": "right now kinda there is a constant ache in my throat for a few days",
+    "label": "sore throat"
+  },
+  {
+    "text": "these days very I get dizzy when I move too fast",
+    "label": "dizziness"
+  },
+  {
+    "text": "for a while really i have discomfort in my belly area for hours",
+    "label": "stomach pain"
+  },
+  {
+    "text": "right now very i feel wiped out since yesterday",
+    "label": "fatigue"
+  },
+  {
+    "text": "lately so I feel queezy after meals",
+    "label": "nausea"
+  },
+  {
+    "text": "these days very tight feeling around my chest",
+    "label": "chest tightness"
+  },
+  {
+    "text": "right now really my throat is super sore",
+    "label": "sore throat"
+  },
+  {
+    "text": "right now so my throat feels tight and sore since yesterday",
+    "label": "sore throat"
+  },
+  {
+    "text": "right now kinda I have no energy at all for hours",
+    "label": "fatigue"
+  },
+  {
+    "text": "these days I feel a band of tightness across my chest for hours",
+    "label": "chest tightness"
+  },
+  {
+    "text": "for a while so i feel wiped out",
+    "label": "fatigue"
+  },
+  {
+    "text": "lately very I can't stop puking for hours",
+    "label": "vomiting"
+  },
+  {
+    "text": "so my head is pounding for a few days",
+    "label": "headache"
+  },
+  {
+    "text": "recently super I keep getting headaches all day",
+    "label": "headache"
+  },
+  {
+    "text": "right now kind of I have episodes of vomiting for hours",
+    "label": "vomiting"
+  },
+  {
+    "text": "these days really I feel slightly sick all the time since yesterday",
+    "label": "nausea"
+  },
+  {
+    "text": "for a while really I have pressure in my chest since yesterday",
+    "label": "chest tightness"
+  },
+  {
+    "text": "lately really I get short of breath when talking all day",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "recently so my chest feels constricted for hours",
+    "label": "chest tightness"
+  },
+  {
+    "text": "these days so I feel like something is sitting on my chest for a few days",
+    "label": "chest tightness"
+  },
+  {
+    "text": "really I feel like I'm swaying when I stand all day",
+    "label": "dizziness"
+  },
+  {
+    "text": "right now really i feel drained even after sleeping for hours",
+    "label": "fatigue"
+  },
+  {
+    "text": "for a while really I get out of breath easily for hours",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "for a while kinda I feel a band of tightness across my chest",
+    "label": "chest tightness"
+  },
+  {
+    "text": "really talking makes my throat hurt for a few days",
+    "label": "sore throat"
+  },
+  {
+    "text": "these days so I feel like my chest won't expand enough to breathe since yesterday",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "lately really i have a dull ache in my stomach all day",
+    "label": "stomach pain"
+  },
+  {
+    "text": "these days super my stomach hurts since yesterday",
+    "label": "stomach pain"
+  },
+  {
+    "text": "right now super my lower stomach hurts",
+    "label": "stomach pain"
+  },
+  {
+    "text": "right now my throat feels raw all day",
+    "label": "sore throat"
+  },
+  {
+    "text": "I can't keep anything down and I vomit for hours",
+    "label": "vomiting"
+  },
+  {
+    "text": "lately kinda my forehead hurts a lot for a few days",
+    "label": "headache"
+  },
+  {
+    "text": "for a while kinda i feel faint and dizzy",
+    "label": "dizziness"
+  },
+  {
+    "text": "lately really I have pressure in my head since yesterday",
+    "label": "headache"
+  },
+  {
+    "text": "these days super I feel more tired than usual since yesterday",
+    "label": "fatigue"
+  },
+  {
+    "text": "lately very my breathing feels shallow all day",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "for a while really i feel short of breath for a few days",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "for a while very I feel nauseous since yesterday",
+    "label": "nausea"
+  },
+  {
+    "text": "recently kinda i feel like the room is spinning for hours",
+    "label": "dizziness"
+  },
+  {
+    "text": "recently very my upper chest feels tight",
+    "label": "chest tightness"
+  },
+  {
+    "text": "these days so my head ache gets worse with light for hours",
+    "label": "headache"
+  },
+  {
+    "text": "these days very i vomited a few hours ago since yesterday",
+    "label": "vomiting"
+  },
+  {
+    "text": "recently super I feel like I could throw up at any moment for hours",
+    "label": "nausea"
+  },
+  {
+    "text": "lately kind of i feel like i'm going to black out for hours",
+    "label": "dizziness"
+  },
+  {
+    "text": "recently so my throat hurts more at night since yesterday",
+    "label": "sore throat"
+  },
+  {
+    "text": "recently kinda I have been vomiting all day for a few days",
+    "label": "vomiting"
+  },
+  {
+    "text": "lately very I have pressure in my chest today",
+    "label": "chest tightness"
+  },
+  {
+    "text": "right now super I have on and off stomach pain for hours",
+    "label": "stomach pain"
+  },
+  {
+    "text": "right now kinda I feel disoriented and dizzy",
+    "label": "dizziness"
+  },
+  {
+    "text": "for a while so I feel like I could fall asleep any time all day",
+    "label": "fatigue"
+  },
+  {
+    "text": "recently super my stomach hurts after i eat today",
+    "label": "stomach pain"
+  },
+  {
+    "text": "these days i feel like my stomach is upset since yesterday",
+    "label": "nausea"
+  },
+  {
+    "text": "lately I have episodes of vomiting for hours",
+    "label": "vomiting"
+  },
+  {
+    "text": "right now super pain in my throat all day today",
+    "label": "sore throat"
+  },
+  {
+    "text": "lately really I threw up during the night all day",
+    "label": "vomiting"
+  },
+  {
+    "text": "lately very I feel like I'm about to faint all day",
+    "label": "dizziness"
+  },
+  {
+    "text": "right now kind of i can't keep anything down and i vomit for hours",
+    "label": "vomiting"
+  },
+  {
+    "text": "these days kind of I feel exhausted when I wake up today",
+    "label": "fatigue"
+  },
+  {
+    "text": "these days really I feel exhausted all the time since yesterday",
+    "label": "fatigue"
+  },
+  {
+    "text": "right now super sharp pain in my head since yesterday",
+    "label": "headache"
+  },
+  {
+    "text": "lately super my throat feels tight and sore for a few days",
+    "label": "sore throat"
+  },
+  {
+    "text": "lately kinda I feel like my chest won't expand enough to breathe for a few days",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "right now i feel breathless after walking",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "for a while kind of my throat has been hurting since yesterday since yesterday",
+    "label": "sore throat"
+  },
+  {
+    "text": "super my upper chest feels tight since yesterday",
+    "label": "chest tightness"
+  },
+  {
+    "text": "these days kind of i have no energy at all today",
+    "label": "fatigue"
+  },
+  {
+    "text": "super my throat feels scratchy",
+    "label": "sore throat"
+  },
+  {
+    "text": "these days talking makes my throat hurt for hours",
+    "label": "sore throat"
+  },
+  {
+    "text": "kind of sharp pain in my head today",
+    "label": "headache"
+  },
+  {
+    "text": "recently super I feel a knot in my stomach since yesterday",
+    "label": "stomach pain"
+  },
+  {
+    "text": "lately very pain in my belly for a few days",
+    "label": "stomach pain"
+  },
+  {
+    "text": "these days very I get tired very easily",
+    "label": "fatigue"
+  },
+  {
+    "text": "very I get stabbing pains in my stomach since yesterday",
+    "label": "stomach pain"
+  },
+  {
+    "text": "for a while kind of I vomited this morning today",
+    "label": "vomiting"
+  },
+  {
+    "text": "right now i have a really bad headache all day",
+    "label": "headache"
+  },
+  {
+    "text": "right now my chest feels tight for a few days",
+    "label": "chest tightness"
+  },
+  {
+    "text": "for a while my throat feels raw since yesterday",
+    "label": "sore throat"
+  },
+  {
+    "text": "these days kinda I feel tightness in the middle of my chest today",
+    "label": "chest tightness"
+  },
+  {
+    "text": "these days very i feel like something is sitting on my chest for a few days",
+    "label": "chest tightness"
+  },
+  {
+    "text": "right now kinda I feel like I'm not getting enough air for hours",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "really my throat hurts a lot",
+    "label": "sore throat"
+  },
+  {
+    "text": "for a while I feel sleepy and worn out all day",
+    "label": "fatigue"
+  },
+  {
+    "text": "so i have a dull ache in my stomach all day",
+    "label": "stomach pain"
+  },
+  {
+    "text": "right now so I feel nauseous",
+    "label": "nausea"
+  },
+  {
+    "text": "for a while super my chest feels constricted today",
+    "label": "chest tightness"
+  },
+  {
+    "text": "these days really I get short of breath when talking",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "recently very simple tasks make me feel exhausted since yesterday",
+    "label": "fatigue"
+  },
+  {
+    "text": "these days really I have abdominal pain today",
+    "label": "stomach pain"
+  },
+  {
+    "text": "for a while super I get stabbing pains in my stomach for a few days",
+    "label": "stomach pain"
+  },
+  {
+    "text": "these days super i feel like i'm suffocating sometimes since yesterday",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "recently kinda I feel like throwing up all day",
+    "label": "nausea"
+  },
+  {
+    "text": "recently kinda my throat hurts more at night for a few days",
+    "label": "sore throat"
+  },
+  {
+    "text": "recently very I keep gagging and vomiting since yesterday",
+    "label": "vomiting"
+  },
+  {
+    "text": "very it hurts every time I swallow for a few days",
+    "label": "sore throat"
+  },
+  {
+    "text": "i feel disoriented and dizzy today",
+    "label": "dizziness"
+  },
+  {
+    "text": "lately kinda sudden waves of dizziness",
+    "label": "dizziness"
+  },
+  {
+    "text": "these days so i woke up with a bad sore throat",
+    "label": "sore throat"
+  },
+  {
+    "text": "right now kind of I have on and off stomach pain since yesterday",
+    "label": "stomach pain"
+  },
+  {
+    "text": "so i have trouble walking straight because i'm dizzy since yesterday",
+    "label": "dizziness"
+  },
+  {
+    "text": "recently so my throat feels swollen today",
+    "label": "sore throat"
+  },
+  {
+    "text": "lately really i keep gagging and vomiting for hours",
+    "label": "vomiting"
+  },
+  {
+    "text": "lately very dizzy spells throughout the day",
+    "label": "dizziness"
+  },
+  {
+    "text": "for a while kind of I feel like something is sitting on my chest for hours",
+    "label": "chest tightness"
+  },
+  {
+    "text": "these days I get out of breath easily since yesterday",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "lately kinda I feel tightness in the middle of my chest",
+    "label": "chest tightness"
+  },
+  {
+    "text": "right now very I feel like I'm going to black out since yesterday",
+    "label": "dizziness"
+  },
+  {
+    "text": "recently really i feel nauseous and weak since yesterday",
+    "label": "nausea"
+  },
+  {
+    "text": "lately very I threw up several times all day",
+    "label": "vomiting"
+  },
+  {
+    "text": "these days very my throat feels swollen for a few days",
+    "label": "sore throat"
+  },
+  {
+    "text": "for a while so my throat feels tight and sore for a few days",
+    "label": "sore throat"
+  },
+  {
+    "text": "for a while kind of I feel unsteady on my feet today",
+    "label": "dizziness"
+  },
+  {
+    "text": "recently I threw up several times since yesterday",
+    "label": "vomiting"
+  },
+  {
+    "text": "for a while kinda my upper chest feels tight all day",
+    "label": "chest tightness"
+  },
+  {
+    "text": "for a while really my chest feels tight and it worries me for a few days",
+    "label": "chest tightness"
+  },
+  {
+    "text": "for a while I feel exhausted when I wake up for hours",
+    "label": "fatigue"
+  },
+  {
+    "text": "for a while very I feel weak and tired all day",
+    "label": "fatigue"
+  },
+  {
+    "text": "right now so I breathe heavily after light effort today",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "lately super I feel tightness in my chest since yesterday",
+    "label": "chest tightness"
+  },
+  {
+    "text": "for a while very head hurts more when i move",
+    "label": "headache"
+  },
+  {
+    "text": "right now super I have cramps and stomach pain today",
+    "label": "stomach pain"
+  },
+  {
+    "text": "for a while kinda my throat hurts when i swallow all day",
+    "label": "sore throat"
+  },
+  {
+    "text": "kind of i feel woozy and off balance all day",
+    "label": "dizziness"
+  },
+  {
+    "text": "recently kind of i get chest tightness when i walk since yesterday",
+    "label": "chest tightness"
+  },
+  {
+    "text": "lately constant dull headache all day",
+    "label": "headache"
+  },
+  {
+    "text": "recently super feels like my head is going to explode for hours",
+    "label": "headache"
+  },
+  {
+    "text": "right now kinda I can't focus because of this headache since yesterday",
+    "label": "headache"
+  },
+  {
+    "text": "for a while kind of I feel like I'm about to faint for a few days",
+    "label": "dizziness"
+  },
+  {
+    "text": "for a while kind of I keep throwing up today",
+    "label": "vomiting"
+  },
+  {
+    "text": "these days kind of my chest feels tight and uncomfortable today",
+    "label": "chest tightness"
+  },
+  {
+    "text": "for a while I get winded from small activities",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "recently really I feel lightheaded since yesterday",
+    "label": "dizziness"
+  },
+  {
+    "text": "right now kinda my stomach has sharp pains all day",
+    "label": "stomach pain"
+  },
+  {
+    "text": "right now I have been vomiting all day",
+    "label": "vomiting"
+  },
+  {
+    "text": "for a while really my throat is super sore for a few days",
+    "label": "sore throat"
+  },
+  {
+    "text": "lately kind of tight chest and slight pain for hours",
+    "label": "chest tightness"
+  },
+  {
+    "text": "recently really I have sudden urges to vomit",
+    "label": "vomiting"
+  },
+  {
+    "text": "lately super my throat feels swollen all day",
+    "label": "sore throat"
+  },
+  {
+    "text": "recently kinda i feel like i might puke since yesterday",
+    "label": "nausea"
+  },
+  {
+    "text": "lately kind of I feel exhausted all the time all day",
+    "label": "fatigue"
+  },
+  {
+    "text": "lately very I throw up anything I try to drink for hours",
+    "label": "vomiting"
+  },
+  {
+    "text": "right now kind of I get tired very easily all day",
+    "label": "fatigue"
+  },
+  {
+    "text": "lately I feel like I have zero energy today",
+    "label": "fatigue"
+  },
+  {
+    "text": "these days so i vomit shortly after meals",
+    "label": "vomiting"
+  },
+  {
+    "text": "kinda my lower stomach hurts for hours",
+    "label": "stomach pain"
+  },
+  {
+    "text": "right now kinda i can't focus because of this headache for a few days",
+    "label": "headache"
+  },
+  {
+    "text": "kinda i have a strong pulsating headache for a few days",
+    "label": "headache"
+  },
+  {
+    "text": "these days kind of I have discomfort in my belly area today",
+    "label": "stomach pain"
+  },
+  {
+    "text": "right now really i feel like i'm swaying when i stand for a few days",
+    "label": "dizziness"
+  },
+  {
+    "text": "lately really I feel like something is sitting on my chest",
+    "label": "chest tightness"
+  },
+  {
+    "text": "for a while super waves of nausea keep hitting me today",
+    "label": "nausea"
+  },
+  {
+    "text": "for a while kind of my chest feels tight and it worries me for a few days",
+    "label": "chest tightness"
+  },
+  {
+    "text": "these days really I feel nauseous today",
+    "label": "nausea"
+  },
+  {
+    "text": "right now kinda I feel a band of tightness across my chest today",
+    "label": "chest tightness"
+  },
+  {
+    "text": "lately feels like my head is going to explode since yesterday",
+    "label": "headache"
+  },
+  {
+    "text": "for a while super talking makes my throat hurt all day",
+    "label": "sore throat"
+  },
+  {
+    "text": "right now so my vision feels weird when i stand for hours",
+    "label": "dizziness"
+  },
+  {
+    "text": "right now I feel drained even after sleeping for a few days",
+    "label": "fatigue"
+  },
+  {
+    "text": "kind of I have been puking on and off since yesterday",
+    "label": "vomiting"
+  },
+  {
+    "text": "super my throat feels tight and sore since yesterday",
+    "label": "sore throat"
+  },
+  {
+    "text": "these days super I have no energy at all for hours",
+    "label": "fatigue"
+  },
+  {
+    "text": "for a while talking makes my throat hurt today",
+    "label": "sore throat"
+  },
+  {
+    "text": "these days kind of cramps in my stomach all day",
+    "label": "stomach pain"
+  },
+  {
+    "text": "recently very my head is pounding since yesterday",
+    "label": "headache"
+  },
+  {
+    "text": "these days I feel a knot in my stomach since yesterday",
+    "label": "stomach pain"
+  },
+  {
+    "text": "recently very I get breathless when I hurry today",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "right now so it hurts every time I swallow all day",
+    "label": "sore throat"
+  },
+  {
+    "text": "these days super constant feeling of nausea all day",
+    "label": "nausea"
+  },
+  {
+    "text": "right now kinda I feel like the room is spinning",
+    "label": "dizziness"
+  },
+  {
+    "text": "lately super i feel like i could fall asleep any time today",
+    "label": "fatigue"
+  },
+  {
+    "text": "recently really I feel like I'm going to vomit for hours",
+    "label": "nausea"
+  },
+  {
+    "text": "for a while very my lower stomach hurts for a few days",
+    "label": "stomach pain"
+  },
+  {
+    "text": "these days super i get dizzy when i stand up all day",
+    "label": "dizziness"
+  },
+  {
+    "text": "recently really I get dizzy when I stand up all day",
+    "label": "dizziness"
+  },
+  {
+    "text": "right now really my vision feels weird when I stand all day",
+    "label": "dizziness"
+  },
+  {
+    "text": "for a while kind of my stomach has sharp pains",
+    "label": "stomach pain"
+  },
+  {
+    "text": "recently so i have stomach pain since yesterday",
+    "label": "stomach pain"
+  },
+  {
+    "text": "recently kinda i have sudden urges to vomit",
+    "label": "vomiting"
+  },
+  {
+    "text": "very I feel exhausted all the time all day",
+    "label": "fatigue"
+  },
+  {
+    "text": "very I feel like my chest won't expand enough to breathe today",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "these days kind of I feel slightly sick all the time",
+    "label": "nausea"
+  },
+  {
+    "text": "recently really I feel like I want to gag for hours",
+    "label": "nausea"
+  },
+  {
+    "text": "lately so I feel like something is sitting on my chest since yesterday",
+    "label": "chest tightness"
+  },
+  {
+    "text": "these days kind of I get breathless when I hurry for hours",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "for a while i breathe heavily after light effort since yesterday",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "for a while kinda I get winded from small activities all day",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "recently really my temples are throbbing today",
+    "label": "headache"
+  },
+  {
+    "text": "these days really I have a weird tight feeling in my chest for hours",
+    "label": "chest tightness"
+  },
+  {
+    "text": "very my stomach aches when I move since yesterday",
+    "label": "stomach pain"
+  },
+  {
+    "text": "for a while I have discomfort in my belly area since yesterday",
+    "label": "stomach pain"
+  },
+  {
+    "text": "right now very I almost lost my balance from dizziness today",
+    "label": "dizziness"
+  },
+  {
+    "text": "really my head is killing me right now today",
+    "label": "headache"
+  },
+  {
+    "text": "for a while kind of sharp pain in my head",
+    "label": "headache"
+  },
+  {
+    "text": "recently really i vomited a few hours ago for hours",
+    "label": "vomiting"
+  },
+  {
+    "text": "right now super I feel lightheaded since yesterday",
+    "label": "dizziness"
+  },
+  {
+    "text": "these days kinda my temples are throbbing",
+    "label": "headache"
+  },
+  {
+    "text": "recently kinda I feel like my body is heavy and tired",
+    "label": "fatigue"
+  },
+  {
+    "text": "these days really I feel sleepy and worn out all day for a few days",
+    "label": "fatigue"
+  },
+  {
+    "text": "for a while kinda I feel dizzy today",
+    "label": "dizziness"
+  },
+  {
+    "text": "I feel like I'm about to faint for a few days",
+    "label": "dizziness"
+  },
+  {
+    "text": "right now really I keep throwing up today",
+    "label": "vomiting"
+  },
+  {
+    "text": "recently very i feel gross and nauseated for a few days",
+    "label": "nausea"
+  },
+  {
+    "text": "for a while i struggle to take a full breath all day",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "lately kind of I get stabbing pains in my stomach",
+    "label": "stomach pain"
+  },
+  {
+    "text": "right now super I feel tired for no clear reason all day",
+    "label": "fatigue"
+  },
+  {
+    "text": "recently super my throat is super sore for hours",
+    "label": "sore throat"
+  },
+  {
+    "text": "recently really I woke up with a bad sore throat",
+    "label": "sore throat"
+  },
+  {
+    "text": "lately super everything is spinning",
+    "label": "dizziness"
+  },
+  {
+    "text": "really i can't focus because of this headache today",
+    "label": "headache"
+  },
+  {
+    "text": "super I feel like I'm going to black out all day",
+    "label": "dizziness"
+  },
+  {
+    "text": "recently I feel like I'm not getting enough air all day",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "these days my head ache gets worse with light all day",
+    "label": "headache"
+  },
+  {
+    "text": "so I feel like I can't breathe deeply today",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "right now kinda I feel extremely tired today",
+    "label": "fatigue"
+  },
+  {
+    "text": "these days really i keep throwing up",
+    "label": "vomiting"
+  },
+  {
+    "text": "lately kind of I get dizzy when I move too fast today",
+    "label": "dizziness"
+  },
+  {
+    "text": "these days I have cramps and stomach pain today",
+    "label": "stomach pain"
+  },
+  {
+    "text": "recently kinda I feel like my stomach is upset",
+    "label": "nausea"
+  },
+  {
+    "text": "these days very my gut is killing me for hours",
+    "label": "stomach pain"
+  },
+  {
+    "text": "for a while so i feel like i'm gasping for air since yesterday",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "right now very I feel uncomfortable and nauseous for hours",
+    "label": "nausea"
+  },
+  {
+    "text": "these days dizzy spells throughout the day today",
+    "label": "dizziness"
+  },
+  {
+    "text": "right now very constant feeling of nausea today",
+    "label": "nausea"
+  },
+  {
+    "text": "right now so I feel like I'm swaying when I stand today",
+    "label": "dizziness"
+  },
+  {
+    "text": "recently i keep getting headaches since yesterday",
+    "label": "headache"
+  },
+  {
+    "text": "for a while very I feel queezy after meals for hours",
+    "label": "nausea"
+  },
+  {
+    "text": "these days so simple tasks make me feel exhausted for hours",
+    "label": "fatigue"
+  },
+  {
+    "text": "lately very i have cramps and stomach pain all day",
+    "label": "stomach pain"
+  },
+  {
+    "text": "right now very I have abdominal pain for hours",
+    "label": "stomach pain"
+  },
+  {
+    "text": "recently I feel more tired than usual all day",
+    "label": "fatigue"
+  },
+  {
+    "text": "lately kinda simple tasks make me feel exhausted for hours",
+    "label": "fatigue"
+  },
+  {
+    "text": "very I woke up with a bad sore throat",
+    "label": "sore throat"
+  },
+  {
+    "text": "these days so i feel dizzy today",
+    "label": "dizziness"
+  },
+  {
+    "text": "recently kind of my temples are throbbing for hours",
+    "label": "headache"
+  },
+  {
+    "text": "right now very my belly feels sore today",
+    "label": "stomach pain"
+  },
+  {
+    "text": "these days really constant feeling of nausea for hours",
+    "label": "nausea"
+  },
+  {
+    "text": "right now my head ache gets worse with light for a few days",
+    "label": "headache"
+  },
+  {
+    "text": "right now super I can't stop puking for a few days",
+    "label": "vomiting"
+  },
+  {
+    "text": "these days kinda I get dizzy when I move too fast today",
+    "label": "dizziness"
+  },
+  {
+    "text": "lately really my throat hurts a lot since yesterday",
+    "label": "sore throat"
+  },
+  {
+    "text": "for a while kind of I have episodes of vomiting",
+    "label": "vomiting"
+  },
+  {
+    "text": "lately really I have a really bad headache since yesterday",
+    "label": "headache"
+  },
+  {
+    "text": "recently kind of my chest feels tight all day",
+    "label": "chest tightness"
+  },
+  {
+    "text": "right now super i feel weak and tired for hours",
+    "label": "fatigue"
+  },
+  {
+    "text": "so my head hurts so much all day",
+    "label": "headache"
+  },
+  {
+    "text": "recently i am tired no matter how much i rest for hours",
+    "label": "fatigue"
+  },
+  {
+    "text": "really i feel constantly fatigued today",
+    "label": "fatigue"
+  },
+  {
+    "text": "for a while very i feel more tired than usual",
+    "label": "fatigue"
+  },
+  {
+    "text": "kinda my stomach has been hurting for hours for hours",
+    "label": "stomach pain"
+  },
+  {
+    "text": "for a while kinda I feel nauseous and weak since yesterday",
+    "label": "nausea"
+  },
+  {
+    "text": "recently super my head has been hurting all day all day",
+    "label": "headache"
+  },
+  {
+    "text": "really i feel nauseous for hours",
+    "label": "nausea"
+  },
+  {
+    "text": "kind of tight feeling around my chest today",
+    "label": "chest tightness"
+  },
+  {
+    "text": "recently kind of my chest feels tight when I breathe for a few days",
+    "label": "chest tightness"
+  },
+  {
+    "text": "these days really i breathe heavily after light effort for a few days",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "right now so i can't keep anything down and i vomit since yesterday",
+    "label": "vomiting"
+  },
+  {
+    "text": "for a while really I feel like I can't breathe deeply all day",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "right now kind of I feel exhausted when I wake up for hours",
+    "label": "fatigue"
+  },
+  {
+    "text": "super my chest feels tight and uncomfortable for a few days",
+    "label": "chest tightness"
+  },
+  {
+    "text": "these days so my stomach has sharp pains since yesterday",
+    "label": "stomach pain"
+  },
+  {
+    "text": "these days i feel exhausted all the time for a few days",
+    "label": "fatigue"
+  },
+  {
+    "text": "right now kinda I feel like my stomach hates me today",
+    "label": "nausea"
+  },
+  {
+    "text": "lately very I have pain in the middle of my abdomen today",
+    "label": "stomach pain"
+  },
+  {
+    "text": "these days super i vomit shortly after meals",
+    "label": "vomiting"
+  },
+  {
+    "text": "really I have repeated vomiting for hours",
+    "label": "vomiting"
+  },
+  {
+    "text": "lately very my chest feels squeezed when I take a deep breath all day",
+    "label": "chest tightness"
+  },
+  {
+    "text": "right now kind of my chest tightens when i exercise today",
+    "label": "chest tightness"
+  },
+  {
+    "text": "lately really I have trouble breathing all day",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "lately really I feel out of breath even at rest today",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "for a while so my chest feels squeezed when I take a deep breath for a few days",
+    "label": "chest tightness"
+  },
+  {
+    "text": "these days it's hard to breathe when I lie down since yesterday",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "recently super my throat is really sore",
+    "label": "sore throat"
+  },
+  {
+    "text": "these days really i feel drained even after sleeping today",
+    "label": "fatigue"
+  },
+  {
+    "text": "so my chest feels tight and uncomfortable for hours",
+    "label": "chest tightness"
+  },
+  {
+    "text": "recently very my chest feels tight when i breathe for hours",
+    "label": "chest tightness"
+  },
+  {
+    "text": "these days really throat pain is getting worse for a few days",
+    "label": "sore throat"
+  },
+  {
+    "text": "for a while really I keep getting headaches for a few days",
+    "label": "headache"
+  },
+  {
+    "text": "right now i get winded from small activities all day",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "for a while super i have stomach pain since yesterday",
+    "label": "stomach pain"
+  },
+  {
+    "text": "lately very i feel slightly sick all the time",
+    "label": "nausea"
+  },
+  {
+    "text": "so my breathing feels shallow today",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "these days super my stomach aches when I move today",
+    "label": "stomach pain"
+  },
+  {
+    "text": "these days I feel disoriented and dizzy all day",
+    "label": "dizziness"
+  },
+  {
+    "text": "for a while I feel tightness in my chest today",
+    "label": "chest tightness"
+  },
+  {
+    "text": "right now very I have abdominal pain all day",
+    "label": "stomach pain"
+  },
+  {
+    "text": "recently kinda it feels like sandpaper in my throat",
+    "label": "sore throat"
+  },
+  {
+    "text": "right now kinda I feel tightness in my chest today",
+    "label": "chest tightness"
+  },
+  {
+    "text": "right now tight chest and slight pain for a few days",
+    "label": "chest tightness"
+  },
+  {
+    "text": "these days kinda my stomach has been hurting for hours since yesterday",
+    "label": "stomach pain"
+  },
+  {
+    "text": "lately so head hurts more when i move",
+    "label": "headache"
+  },
+  {
+    "text": "I have pain in the middle of my abdomen all day",
+    "label": "stomach pain"
+  },
+  {
+    "text": "for a while super my throat has been hurting since yesterday",
+    "label": "sore throat"
+  },
+  {
+    "text": "right now very talking makes my throat hurt all day",
+    "label": "sore throat"
+  },
+  {
+    "text": "recently so my gut is killing me since yesterday",
+    "label": "stomach pain"
+  },
+  {
+    "text": "these days super I feel like I'm gasping for air today",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "for a while really I feel like the room is spinning",
+    "label": "dizziness"
+  },
+  {
+    "text": "recently so waves of nausea keep hitting me since yesterday",
+    "label": "nausea"
+  },
+  {
+    "text": "recently really I have pressure in my chest today",
+    "label": "chest tightness"
+  },
+  {
+    "text": "these days kinda constant feeling of nausea today",
+    "label": "nausea"
+  },
+  {
+    "text": "super i feel nauseous since yesterday",
+    "label": "nausea"
+  },
+  {
+    "text": "lately super I feel unsteady on my feet all day",
+    "label": "dizziness"
+  },
+  {
+    "text": "kind of I vomited this morning today",
+    "label": "vomiting"
+  },
+  {
+    "text": "lately kind of i am bringing up food i just ate",
+    "label": "vomiting"
+  },
+  {
+    "text": "I feel like I have zero energy for hours",
+    "label": "fatigue"
+  },
+  {
+    "text": "lately super i get out of breath easily today",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "kind of i have repeated vomiting for hours",
+    "label": "vomiting"
+  },
+  {
+    "text": "these days so i have a bad tummy ache for hours",
+    "label": "stomach pain"
+  },
+  {
+    "text": "lately kind of I can't catch my breath all day",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "these days really I run out of breath going up stairs all day",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "these days kinda i feel wiped out all day",
+    "label": "fatigue"
+  },
+  {
+    "text": "for a while so my head ache gets worse with light for hours",
+    "label": "headache"
+  },
+  {
+    "text": "for a while so feels like my head is going to explode for a few days",
+    "label": "headache"
+  },
+  {
+    "text": "recently very I feel a band of tightness across my chest all day",
+    "label": "chest tightness"
+  },
+  {
+    "text": "very i get chest tightness when i walk today",
+    "label": "chest tightness"
+  },
+  {
+    "text": "for a while very it hurts every time i swallow since yesterday",
+    "label": "sore throat"
+  },
+  {
+    "text": "lately kinda I feel tired even without doing much for hours",
+    "label": "fatigue"
+  },
+  {
+    "text": "lately very I feel exhausted when I wake up since yesterday",
+    "label": "fatigue"
+  },
+  {
+    "text": "super my skull feels like it's being squeezed all day",
+    "label": "headache"
+  },
+  {
+    "text": "right now very feels like my head is going to explode",
+    "label": "headache"
+  },
+  {
+    "text": "for a while really I threw up several times for a few days",
+    "label": "vomiting"
+  },
+  {
+    "text": "these days very my throat is really sore today",
+    "label": "sore throat"
+  },
+  {
+    "text": "these days kind of I feel weak and tired all day",
+    "label": "fatigue"
+  },
+  {
+    "text": "lately very my chest feels heavy all day",
+    "label": "chest tightness"
+  },
+  {
+    "text": "for a while super i have repeated vomiting today",
+    "label": "vomiting"
+  },
+  {
+    "text": "right now really my throat feels swollen",
+    "label": "sore throat"
+  },
+  {
+    "text": "lately kind of I feel short of breath today",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "lately kinda I feel sleepy and worn out all day for a few days",
+    "label": "fatigue"
+  },
+  {
+    "text": "for a while kind of I feel woozy and off balance since yesterday",
+    "label": "dizziness"
+  },
+  {
+    "text": "these days very I have a strong pulsating headache today",
+    "label": "headache"
+  },
+  {
+    "text": "lately super I feel tired for no clear reason for hours",
+    "label": "fatigue"
+  },
+  {
+    "text": "lately super sudden waves of dizziness all day",
+    "label": "dizziness"
+  },
+  {
+    "text": "recently kind of it feels like sandpaper in my throat all day",
+    "label": "sore throat"
+  },
+  {
+    "text": "recently so my vision feels weird when I stand today",
+    "label": "dizziness"
+  },
+  {
+    "text": "these days kinda I am always run down all day",
+    "label": "fatigue"
+  },
+  {
+    "text": "super my stomach feels queasy today",
+    "label": "nausea"
+  },
+  {
+    "text": "super I feel nauseous especially in the morning for hours",
+    "label": "nausea"
+  },
+  {
+    "text": "for a while so I feel gross and nauseated today",
+    "label": "nausea"
+  },
+  {
+    "text": "these days so I keep throwing up for hours",
+    "label": "vomiting"
+  },
+  {
+    "text": "right now kind of I feel like I have zero energy for hours",
+    "label": "fatigue"
+  },
+  {
+    "text": "lately kind of i run out of breath going up stairs for a few days",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "for a while so waves of nausea keep hitting me",
+    "label": "nausea"
+  },
+  {
+    "text": "these days really I can't catch my breath since yesterday",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "right now very i get winded from small activities",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "right now very I feel like I could throw up at any moment since yesterday",
+    "label": "nausea"
+  },
+  {
+    "text": "these days so I woke up with a bad sore throat for hours",
+    "label": "sore throat"
+  },
+  {
+    "text": "recently kind of I feel tired for no clear reason since yesterday",
+    "label": "fatigue"
+  },
+  {
+    "text": "kinda tight feeling around my chest today",
+    "label": "chest tightness"
+  },
+  {
+    "text": "lately very I feel lightheaded today",
+    "label": "dizziness"
+  },
+  {
+    "text": "for a while so sharp pain in my head for a few days",
+    "label": "headache"
+  },
+  {
+    "text": "lately really my lower stomach hurts today",
+    "label": "stomach pain"
+  },
+  {
+    "text": "right now very I feel more tired than usual for hours",
+    "label": "fatigue"
+  },
+  {
+    "text": "lately kind of my chest feels constricted for hours",
+    "label": "chest tightness"
+  },
+  {
+    "text": "these days very it feels like sandpaper in my throat for a few days",
+    "label": "sore throat"
+  },
+  {
+    "text": "right now so swallowing food is painful for hours",
+    "label": "sore throat"
+  },
+  {
+    "text": "these days really my throat feels raw today",
+    "label": "sore throat"
+  },
+  {
+    "text": "recently kinda i feel like i want to gag",
+    "label": "nausea"
+  },
+  {
+    "text": "these days kinda constant feeling of nausea all day",
+    "label": "nausea"
+  },
+  {
+    "text": "right now kind of my head is killing me right now today",
+    "label": "headache"
+  },
+  {
+    "text": "for a while really I feel like the room is spinning for hours",
+    "label": "dizziness"
+  },
+  {
+    "text": "these days my throat is really sore for a few days",
+    "label": "sore throat"
+  },
+  {
+    "text": "recently kinda i get dizzy when i move too fast since yesterday",
+    "label": "dizziness"
+  },
+  {
+    "text": "lately it feels like sandpaper in my throat",
+    "label": "sore throat"
+  },
+  {
+    "text": "these days very I feel tightness in the middle of my chest since yesterday",
+    "label": "chest tightness"
+  },
+  {
+    "text": "for a while kind of my stomach hurts since yesterday",
+    "label": "stomach pain"
+  },
+  {
+    "text": "these days super I feel like my stomach is turning today",
+    "label": "nausea"
+  },
+  {
+    "text": "lately very pain in my throat all day",
+    "label": "sore throat"
+  },
+  {
+    "text": "for a while so I feel unsteady on my feet for a few days",
+    "label": "dizziness"
+  },
+  {
+    "text": "kinda pain in my belly all day",
+    "label": "stomach pain"
+  },
+  {
+    "text": "right now very i keep gagging and vomiting for hours",
+    "label": "vomiting"
+  },
+  {
+    "text": "kinda I have sudden urges to vomit for a few days",
+    "label": "vomiting"
+  },
+  {
+    "text": "right now kinda everything is spinning for a few days",
+    "label": "dizziness"
+  },
+  {
+    "text": "so tight feeling around my chest for a few days",
+    "label": "chest tightness"
+  },
+  {
+    "text": "recently so I am vomiting after I eat today",
+    "label": "vomiting"
+  },
+  {
+    "text": "these days very I keep throwing up",
+    "label": "vomiting"
+  },
+  {
+    "text": "recently very i vomited a few hours ago",
+    "label": "vomiting"
+  },
+  {
+    "text": "right now super I have trouble walking straight because I'm dizzy for a few days",
+    "label": "dizziness"
+  },
+  {
+    "text": "recently really i feel tightness in the middle of my chest since yesterday",
+    "label": "chest tightness"
+  },
+  {
+    "text": "these days I feel like I want to gag for hours",
+    "label": "nausea"
+  },
+  {
+    "text": "recently kinda I feel extremely tired today",
+    "label": "fatigue"
+  },
+  {
+    "text": "recently I feel nauseous today",
+    "label": "nausea"
+  },
+  {
+    "text": "kind of I feel short of breath for hours",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "recently so i feel like i could fall asleep any time today",
+    "label": "fatigue"
+  },
+  {
+    "text": "kind of I get stabbing pains in my stomach today",
+    "label": "stomach pain"
+  },
+  {
+    "text": "lately really I have a weird tight feeling in my chest today",
+    "label": "chest tightness"
+  },
+  {
+    "text": "recently very my chest feels tight when I breathe since yesterday",
+    "label": "chest tightness"
+  },
+  {
+    "text": "lately very I feel like I'm swaying when I stand since yesterday",
+    "label": "dizziness"
+  },
+  {
+    "text": "for a while really my head feels floaty and weird",
+    "label": "dizziness"
+  },
+  {
+    "text": "for a while kinda I am vomiting after I eat since yesterday",
+    "label": "vomiting"
+  },
+  {
+    "text": "for a while so tight feeling around my chest since yesterday",
+    "label": "chest tightness"
+  },
+  {
+    "text": "these days kinda my head hurts so much since yesterday",
+    "label": "headache"
+  },
+  {
+    "text": "recently really i get chest tightness when i walk for hours",
+    "label": "chest tightness"
+  },
+  {
+    "text": "right now super throat pain is getting worse since yesterday",
+    "label": "sore throat"
+  },
+  {
+    "text": "right now so loud noises make my headache worse for a few days",
+    "label": "headache"
+  },
+  {
+    "text": "lately kind of there is a constant ache in my throat",
+    "label": "sore throat"
+  },
+  {
+    "text": "lately i feel slightly sick all the time since yesterday",
+    "label": "nausea"
+  },
+  {
+    "text": "lately kinda I can't focus because of this headache today",
+    "label": "headache"
+  },
+  {
+    "text": "lately kinda I have repeated vomiting for a few days",
+    "label": "vomiting"
+  },
+  {
+    "text": "for a while so i have been puking on and off today",
+    "label": "vomiting"
+  },
+  {
+    "text": "recently very i threw up several times",
+    "label": "vomiting"
+  },
+  {
+    "text": "recently so I feel exhausted when I wake up",
+    "label": "fatigue"
+  },
+  {
+    "text": "very I feel like I'm not getting enough air",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "for a while very I feel tired for no clear reason today",
+    "label": "fatigue"
+  },
+  {
+    "text": "these days so my head feels floaty and weird for hours",
+    "label": "dizziness"
+  },
+  {
+    "text": "really my temples are throbbing for a few days",
+    "label": "headache"
+  },
+  {
+    "text": "recently kinda my stomach has been hurting for hours for hours",
+    "label": "stomach pain"
+  },
+  {
+    "text": "recently kinda i have discomfort in my belly area today",
+    "label": "stomach pain"
+  },
+  {
+    "text": "for a while so i have pressure in my head for hours",
+    "label": "headache"
+  },
+  {
+    "text": "right now kinda I feel like my stomach hates me all day",
+    "label": "nausea"
+  },
+  {
+    "text": "super I woke up with a bad sore throat all day",
+    "label": "sore throat"
+  },
+  {
+    "text": "super I feel weak and tired for a few days",
+    "label": "fatigue"
+  },
+  {
+    "text": "lately super I can't catch my breath since yesterday",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "lately really my stomach feels queasy all day",
+    "label": "nausea"
+  },
+  {
+    "text": "lately kinda I feel like something is sitting on my chest",
+    "label": "chest tightness"
+  },
+  {
+    "text": "lately very i get out of breath easily all day",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "these days super my head is killing me right now today",
+    "label": "headache"
+  },
+  {
+    "text": "for a while I feel short of breath for a few days",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "for a while so I feel out of breath even at rest today",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "these days so throat pain is getting worse today",
+    "label": "sore throat"
+  },
+  {
+    "text": "recently my upper chest feels tight all day",
+    "label": "chest tightness"
+  },
+  {
+    "text": "for a while kinda I feel like I can't breathe deeply since yesterday",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "kinda my stomach has sharp pains for hours",
+    "label": "stomach pain"
+  },
+  {
+    "text": "for a while so my chest feels tight and it worries me today",
+    "label": "chest tightness"
+  },
+  {
+    "text": "these days I feel slightly sick all the time today",
+    "label": "nausea"
+  },
+  {
+    "text": "very my temples are throbbing for hours",
+    "label": "headache"
+  },
+  {
+    "text": "right now kind of my stomach aches when I move today",
+    "label": "stomach pain"
+  },
+  {
+    "text": "lately I feel uncomfortable and nauseous since yesterday",
+    "label": "nausea"
+  },
+  {
+    "text": "for a while kinda I feel like my stomach hates me for hours",
+    "label": "nausea"
+  },
+  {
+    "text": "for a while super I feel tired even without doing much for a few days",
+    "label": "fatigue"
+  },
+  {
+    "text": "these days kind of feels like my head is going to explode today",
+    "label": "headache"
+  },
+  {
+    "text": "lately kinda I have a weird tight feeling in my chest since yesterday",
+    "label": "chest tightness"
+  },
+  {
+    "text": "these days really I feel drained even after sleeping",
+    "label": "fatigue"
+  },
+  {
+    "text": "right now my chest feels heavy",
+    "label": "chest tightness"
+  },
+  {
+    "text": "these days very i feel like i want to gag since yesterday",
+    "label": "nausea"
+  },
+  {
+    "text": "right now kind of I feel out of breath even at rest all day",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "lately very sudden waves of dizziness all day",
+    "label": "dizziness"
+  },
+  {
+    "text": "these days super I have a spinning sensation in my head",
+    "label": "dizziness"
+  },
+  {
+    "text": "recently really i keep gagging and vomiting today",
+    "label": "vomiting"
+  },
+  {
+    "text": "really my stomach has sharp pains all day",
+    "label": "stomach pain"
+  },
+  {
+    "text": "these days very i feel lightheaded today",
+    "label": "dizziness"
+  },
+  {
+    "text": "recently really I have stomach pain",
+    "label": "stomach pain"
+  },
+  {
+    "text": "lately I get winded from small activities for a few days",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "recently really pain in my throat all day for a few days",
+    "label": "sore throat"
+  },
+  {
+    "text": "right now kinda sharp pain in my head since yesterday",
+    "label": "headache"
+  },
+  {
+    "text": "lately super i am always run down for a few days",
+    "label": "fatigue"
+  },
+  {
+    "text": "lately super my chest feels tight when i breathe today",
+    "label": "chest tightness"
+  },
+  {
+    "text": "right now kinda I get breathless when I hurry",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "super I get dizzy when I stand up today",
+    "label": "dizziness"
+  },
+  {
+    "text": "these days super I have been vomiting all day",
+    "label": "vomiting"
+  },
+  {
+    "text": "lately really i get dizzy when i stand up today",
+    "label": "dizziness"
+  },
+  {
+    "text": "super I feel like I can't breathe deeply for hours",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "for a while very i feel like my body is heavy and tired all day",
+    "label": "fatigue"
+  },
+  {
+    "text": "these days so I feel burnt out and exhausted for hours",
+    "label": "fatigue"
+  },
+  {
+    "text": "these days kinda i run out of breath going up stairs since yesterday",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "really I vomited a few hours ago all day",
+    "label": "vomiting"
+  },
+  {
+    "text": "for a while I have stomach pain today",
+    "label": "stomach pain"
+  },
+  {
+    "text": "so i almost lost my balance from dizziness all day",
+    "label": "dizziness"
+  },
+  {
+    "text": "recently really my chest tightness comes and goes for a few days",
+    "label": "chest tightness"
+  },
+  {
+    "text": "these days very i have been puking on and off for hours",
+    "label": "vomiting"
+  },
+  {
+    "text": "right now so my breathing feels shallow",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "right now kind of my throat hurts a lot all day",
+    "label": "sore throat"
+  },
+  {
+    "text": "these days so I am bringing up food I just ate since yesterday",
+    "label": "vomiting"
+  },
+  {
+    "text": "i feel burnt out and exhausted since yesterday",
+    "label": "fatigue"
+  },
+  {
+    "text": "right now super I have been vomiting all day",
+    "label": "vomiting"
+  },
+  {
+    "text": "lately so tight chest and slight pain",
+    "label": "chest tightness"
+  },
+  {
+    "text": "recently kinda my throat feels scratchy",
+    "label": "sore throat"
+  },
+  {
+    "text": "lately very I feel weak and tired all day",
+    "label": "fatigue"
+  },
+  {
+    "text": "right now I have sudden urges to vomit for hours",
+    "label": "vomiting"
+  },
+  {
+    "text": "these days super I feel exhausted when I wake up all day",
+    "label": "fatigue"
+  },
+  {
+    "text": "lately kinda I have sudden urges to vomit for a few days",
+    "label": "vomiting"
+  },
+  {
+    "text": "recently very my chest feels constricted",
+    "label": "chest tightness"
+  },
+  {
+    "text": "for a while really I get short of breath when talking for hours",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "lately i vomit even when my stomach is empty",
+    "label": "vomiting"
+  },
+  {
+    "text": "lately really I had a big vomiting episode for hours",
+    "label": "vomiting"
+  },
+  {
+    "text": "for a while really my belly feels sore for hours",
+    "label": "stomach pain"
+  },
+  {
+    "text": "lately so I get tired very easily all day",
+    "label": "fatigue"
+  },
+  {
+    "text": "for a while kinda i feel lightheaded for hours",
+    "label": "dizziness"
+  },
+  {
+    "text": "lately kinda I feel like my stomach is turning for hours",
+    "label": "nausea"
+  },
+  {
+    "text": "I have on and off stomach pain today",
+    "label": "stomach pain"
+  },
+  {
+    "text": "recently very my gut is killing me since yesterday",
+    "label": "stomach pain"
+  },
+  {
+    "text": "right now very I feel like my stomach is upset all day",
+    "label": "nausea"
+  },
+  {
+    "text": "kind of I vomit even when my stomach is empty",
+    "label": "vomiting"
+  },
+  {
+    "text": "kind of i am tired no matter how much i rest for hours",
+    "label": "fatigue"
+  },
+  {
+    "text": "recently kind of I vomited a few hours ago",
+    "label": "vomiting"
+  },
+  {
+    "text": "recently so I have a spinning sensation in my head today",
+    "label": "dizziness"
+  },
+  {
+    "text": "these days really pain in my belly all day",
+    "label": "stomach pain"
+  },
+  {
+    "text": "recently really I feel sleepy and worn out all day since yesterday",
+    "label": "fatigue"
+  },
+  {
+    "text": "recently super my head is killing me right now since yesterday",
+    "label": "headache"
+  },
+  {
+    "text": "these days very tight chest and slight pain",
+    "label": "chest tightness"
+  },
+  {
+    "text": "lately kinda i feel sick to my stomach for hours",
+    "label": "nausea"
+  },
+  {
+    "text": "these days kinda my chest feels tight today",
+    "label": "chest tightness"
+  },
+  {
+    "text": "recently super i get breathless when i hurry",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "these days kinda swallowing food is painful since yesterday",
+    "label": "sore throat"
+  },
+  {
+    "text": "these days very i feel unsteady on my feet all day",
+    "label": "dizziness"
+  },
+  {
+    "text": "recently throat pain is getting worse for a few days",
+    "label": "sore throat"
+  },
+  {
+    "text": "these days super my chest tightens when i exercise since yesterday",
+    "label": "chest tightness"
+  },
+  {
+    "text": "right now kind of I feel tightness in my chest all day",
+    "label": "chest tightness"
+  },
+  {
+    "text": "these days so my throat feels scratchy for hours",
+    "label": "sore throat"
+  },
+  {
+    "text": "right now super I threw up during the night all day",
+    "label": "vomiting"
+  },
+  {
+    "text": "so I feel gross and nauseated for hours",
+    "label": "nausea"
+  },
+  {
+    "text": "I feel slightly sick all the time for hours",
+    "label": "nausea"
+  },
+  {
+    "text": "these days super I struggle to take a full breath",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "right now kinda my throat is super sore since yesterday",
+    "label": "sore throat"
+  },
+  {
+    "text": "these days kind of I feel like I'm suffocating sometimes since yesterday",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "right now kind of I woke up with a headache",
+    "label": "headache"
+  },
+  {
+    "text": "these days kind of i get dizzy when i stand up since yesterday",
+    "label": "dizziness"
+  },
+  {
+    "text": "super tight chest and slight pain for a few days",
+    "label": "chest tightness"
+  },
+  {
+    "text": "these days kind of I feel exhausted all the time for hours",
+    "label": "fatigue"
+  },
+  {
+    "text": "recently kinda i feel tightness in the middle of my chest since yesterday",
+    "label": "chest tightness"
+  },
+  {
+    "text": "these days so my belly feels sore",
+    "label": "stomach pain"
+  },
+  {
+    "text": "recently very I run out of breath going up stairs since yesterday",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "these days very I feel sleepy and worn out all day since yesterday",
+    "label": "fatigue"
+  },
+  {
+    "text": "recently I feel like I might puke today",
+    "label": "nausea"
+  },
+  {
+    "text": "lately kinda my chest feels heavy for hours",
+    "label": "chest tightness"
+  },
+  {
+    "text": "these days kind of my forehead hurts a lot all day",
+    "label": "headache"
+  },
+  {
+    "text": "lately really I feel like my stomach hates me for hours",
+    "label": "nausea"
+  },
+  {
+    "text": "recently swallowing food is painful since yesterday",
+    "label": "sore throat"
+  },
+  {
+    "text": "right now kind of everything is spinning for a few days",
+    "label": "dizziness"
+  },
+  {
+    "text": "really I get breathless when I hurry since yesterday",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "recently kinda swallowing food is painful",
+    "label": "sore throat"
+  },
+  {
+    "text": "these days super there is a constant ache in my throat for hours",
+    "label": "sore throat"
+  },
+  {
+    "text": "right now so I get breathless when I hurry today",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "right now I woke up with a headache today",
+    "label": "headache"
+  },
+  {
+    "text": "recently so i feel queezy after meals for hours",
+    "label": "nausea"
+  },
+  {
+    "text": "recently kinda I threw up and still feel sick today",
+    "label": "vomiting"
+  },
+  {
+    "text": "for a while I feel like I'm not getting enough air all day",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "lately i feel a knot in my stomach for a few days",
+    "label": "stomach pain"
+  },
+  {
+    "text": "these days kinda I get out of breath easily since yesterday",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "these days very I feel breathless after walking for a few days",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "recently kinda I can't catch my breath since yesterday",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "recently kinda I feel like I'm not getting enough air all day",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "these days very I feel more tired than usual",
+    "label": "fatigue"
+  },
+  {
+    "text": "right now so my breathing feels shallow since yesterday",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "right now super constant dull headache",
+    "label": "headache"
+  },
+  {
+    "text": "lately kind of sharp pain in my head today",
+    "label": "headache"
+  },
+  {
+    "text": "lately my stomach hurts for a few days",
+    "label": "stomach pain"
+  },
+  {
+    "text": "these days very I have repeated vomiting for a few days",
+    "label": "vomiting"
+  },
+  {
+    "text": "these days very tight feeling around my chest for hours",
+    "label": "chest tightness"
+  },
+  {
+    "text": "recently kind of I vomit shortly after meals today",
+    "label": "vomiting"
+  },
+  {
+    "text": "these days very I can't keep anything down and I vomit for hours",
+    "label": "vomiting"
+  },
+  {
+    "text": "right now super I feel like my body is heavy and tired for a few days",
+    "label": "fatigue"
+  },
+  {
+    "text": "for a while kind of my head has been hurting all day for hours",
+    "label": "headache"
+  },
+  {
+    "text": "lately kinda my chest feels tight and it worries me all day",
+    "label": "chest tightness"
+  },
+  {
+    "text": "right now very I feel short of breath for hours",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "recently really I feel tired for no clear reason for a few days",
+    "label": "fatigue"
+  },
+  {
+    "text": "these days super my chest feels like it's being squeezed for a few days",
+    "label": "chest tightness"
+  },
+  {
+    "text": "lately I have a dull ache in my stomach since yesterday",
+    "label": "stomach pain"
+  },
+  {
+    "text": "lately kind of I throw up anything I try to drink",
+    "label": "vomiting"
+  },
+  {
+    "text": "recently kind of my upper chest feels tight all day",
+    "label": "chest tightness"
+  },
+  {
+    "text": "for a while kind of my temples are throbbing for a few days",
+    "label": "headache"
+  },
+  {
+    "text": "lately very I feel nauseous especially in the morning for a few days",
+    "label": "nausea"
+  },
+  {
+    "text": "right now kind of I feel like I'm suffocating sometimes all day",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "for a while so I feel disoriented and dizzy since yesterday",
+    "label": "dizziness"
+  },
+  {
+    "text": "these days kind of my chest feels squeezed when I take a deep breath today",
+    "label": "chest tightness"
+  },
+  {
+    "text": "lately kind of my throat feels scratchy all day",
+    "label": "sore throat"
+  },
+  {
+    "text": "lately kinda I feel short of breath all day",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "recently super i feel like my stomach hates me all day",
+    "label": "nausea"
+  },
+  {
+    "text": "these days really i have on and off stomach pain all day",
+    "label": "stomach pain"
+  },
+  {
+    "text": "lately constant dull headache for hours",
+    "label": "headache"
+  },
+  {
+    "text": "kinda I get winded from small activities",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "right now kind of i feel nauseous especially in the morning for a few days",
+    "label": "nausea"
+  },
+  {
+    "text": "recently i woke up with a headache all day",
+    "label": "headache"
+  },
+  {
+    "text": "very I feel faint and dizzy for a few days",
+    "label": "dizziness"
+  },
+  {
+    "text": "right now kind of I have pressure in my chest",
+    "label": "chest tightness"
+  },
+  {
+    "text": "right now so feels like my head is going to explode for a few days",
+    "label": "headache"
+  },
+  {
+    "text": "lately kinda I threw up and still feel sick today",
+    "label": "vomiting"
+  },
+  {
+    "text": "for a while super I have discomfort in my belly area for a few days",
+    "label": "stomach pain"
+  },
+  {
+    "text": "these days really my forehead hurts a lot since yesterday",
+    "label": "headache"
+  },
+  {
+    "text": "right now very i feel exhausted all the time",
+    "label": "fatigue"
+  },
+  {
+    "text": "lately i feel like i'm gasping for air for hours",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "these days very my vision feels weird when I stand all day",
+    "label": "dizziness"
+  },
+  {
+    "text": "these days really my throat is super sore today",
+    "label": "sore throat"
+  },
+  {
+    "text": "right now really I feel drained even after sleeping",
+    "label": "fatigue"
+  },
+  {
+    "text": "these days really my head is killing me right now today",
+    "label": "headache"
+  },
+  {
+    "text": "these days kinda my throat feels tight and sore all day",
+    "label": "sore throat"
+  },
+  {
+    "text": "lately very i almost lost my balance from dizziness since yesterday",
+    "label": "dizziness"
+  },
+  {
+    "text": "very my stomach has sharp pains today",
+    "label": "stomach pain"
+  },
+  {
+    "text": "right now so my throat feels raw",
+    "label": "sore throat"
+  },
+  {
+    "text": "right now very my breathing feels shallow all day",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "for a while my chest feels tight when i breathe for hours",
+    "label": "chest tightness"
+  },
+  {
+    "text": "very I have repeated vomiting all day",
+    "label": "vomiting"
+  },
+  {
+    "text": "right now kind of I feel like I might puke since yesterday",
+    "label": "nausea"
+  },
+  {
+    "text": "for a while really I feel like my stomach is turning all day",
+    "label": "nausea"
+  },
+  {
+    "text": "these days really i feel a knot in my stomach for a few days",
+    "label": "stomach pain"
+  },
+  {
+    "text": "recently very I have trouble breathing today",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "these days super waves of nausea keep hitting me for hours",
+    "label": "nausea"
+  },
+  {
+    "text": "lately very I have sudden urges to vomit today",
+    "label": "vomiting"
+  },
+  {
+    "text": "lately i feel like my chest won't expand enough to breathe today",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "recently really my throat is killing me",
+    "label": "sore throat"
+  },
+  {
+    "text": "right now kind of my chest feels tight when I breathe since yesterday",
+    "label": "chest tightness"
+  },
+  {
+    "text": "right now super I have a weird tight feeling in my chest for a few days",
+    "label": "chest tightness"
+  },
+  {
+    "text": "these days very I feel weak and tired since yesterday",
+    "label": "fatigue"
+  },
+  {
+    "text": "recently very my stomach has been hurting for hours today",
+    "label": "stomach pain"
+  },
+  {
+    "text": "tight feeling around my chest since yesterday",
+    "label": "chest tightness"
+  },
+  {
+    "text": "lately really I feel gross and nauseated for hours",
+    "label": "nausea"
+  },
+  {
+    "text": "for a while so i feel like i want to gag for hours",
+    "label": "nausea"
+  },
+  {
+    "text": "recently kind of my head is pounding all day",
+    "label": "headache"
+  },
+  {
+    "text": "really I have a bad tummy ache since yesterday",
+    "label": "stomach pain"
+  },
+  {
+    "text": "very loud noises make my headache worse",
+    "label": "headache"
+  },
+  {
+    "text": "for a while I can't stop puking since yesterday",
+    "label": "vomiting"
+  },
+  {
+    "text": "kind of my throat is super sore for hours",
+    "label": "sore throat"
+  },
+  {
+    "text": "for a while kind of I get dizzy when I move too fast for hours",
+    "label": "dizziness"
+  },
+  {
+    "text": "so constant feeling of nausea for hours",
+    "label": "nausea"
+  },
+  {
+    "text": "right now really my throat feels swollen today",
+    "label": "sore throat"
+  },
+  {
+    "text": "for a while very I struggle to take a full breath all day",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "kind of my forehead hurts a lot for hours",
+    "label": "headache"
+  },
+  {
+    "text": "right now really I feel extremely tired since yesterday",
+    "label": "fatigue"
+  },
+  {
+    "text": "right now kind of there is a constant ache in my throat for hours",
+    "label": "sore throat"
+  },
+  {
+    "text": "so sudden waves of dizziness for hours",
+    "label": "dizziness"
+  },
+  {
+    "text": "right now super I woke up with a headache today",
+    "label": "headache"
+  },
+  {
+    "text": "these days really I have difficulty breathing deeply",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "super I have been puking on and off for a few days",
+    "label": "vomiting"
+  },
+  {
+    "text": "these days kind of my chest tightens when i exercise today",
+    "label": "chest tightness"
+  },
+  {
+    "text": "for a while really my stomach hurts after I eat for a few days",
+    "label": "stomach pain"
+  },
+  {
+    "text": "right now kinda simple tasks make me feel exhausted since yesterday",
+    "label": "fatigue"
+  },
+  {
+    "text": "for a while very i feel tightness in my chest for a few days",
+    "label": "chest tightness"
+  },
+  {
+    "text": "right now I feel like I'm going to black out all day",
+    "label": "dizziness"
+  },
+  {
+    "text": "lately really I have pressure in my head today",
+    "label": "headache"
+  },
+  {
+    "text": "so my upper chest feels tight for hours",
+    "label": "chest tightness"
+  },
+  {
+    "text": "these days my chest tightens when i exercise today",
+    "label": "chest tightness"
+  },
+  {
+    "text": "lately kind of pain behind my eyes and head today",
+    "label": "headache"
+  },
+  {
+    "text": "recently kind of I have sudden urges to vomit",
+    "label": "vomiting"
+  },
+  {
+    "text": "super i get stabbing pains in my stomach for hours",
+    "label": "stomach pain"
+  },
+  {
+    "text": "kind of my head feels floaty and weird for a few days",
+    "label": "dizziness"
+  },
+  {
+    "text": "so my head is killing me right now for hours",
+    "label": "headache"
+  },
+  {
+    "text": "for a while really I vomited a few hours ago today",
+    "label": "vomiting"
+  },
+  {
+    "text": "these days kinda my chest feels heavy all day",
+    "label": "chest tightness"
+  },
+  {
+    "text": "recently really my throat hurts when I swallow for hours",
+    "label": "sore throat"
+  },
+  {
+    "text": "recently kind of I feel like my chest won't expand enough to breathe for hours",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "lately very there is a constant ache in my throat",
+    "label": "sore throat"
+  },
+  {
+    "text": "lately kinda my throat is killing me today",
+    "label": "sore throat"
+  },
+  {
+    "text": "for a while kinda pain behind my eyes and head all day",
+    "label": "headache"
+  },
+  {
+    "text": "lately kinda I have on and off stomach pain for a few days",
+    "label": "stomach pain"
+  },
+  {
+    "text": "these days kinda I get chest tightness when I walk for a few days",
+    "label": "chest tightness"
+  },
+  {
+    "text": "right now super I get dizzy when I stand up for hours",
+    "label": "dizziness"
+  },
+  {
+    "text": "lately super dizzy spells throughout the day since yesterday",
+    "label": "dizziness"
+  },
+  {
+    "text": "for a while so I have stomach pain for hours",
+    "label": "stomach pain"
+  },
+  {
+    "text": "lately super my stomach hurts all day",
+    "label": "stomach pain"
+  },
+  {
+    "text": "kinda I feel tightness in my chest for a few days",
+    "label": "chest tightness"
+  },
+  {
+    "text": "for a while really I feel weak and tired all day",
+    "label": "fatigue"
+  },
+  {
+    "text": "these days so I feel like I want to gag since yesterday",
+    "label": "nausea"
+  },
+  {
+    "text": "these days super I keep throwing up today",
+    "label": "vomiting"
+  },
+  {
+    "text": "for a while i get breathless when i hurry today",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "for a while so sudden waves of dizziness for a few days",
+    "label": "dizziness"
+  },
+  {
+    "text": "right now kinda my belly feels sore since yesterday",
+    "label": "stomach pain"
+  },
+  {
+    "text": "for a while really talking makes my throat hurt",
+    "label": "sore throat"
+  },
+  {
+    "text": "right now kind of i feel like my body is heavy and tired all day",
+    "label": "fatigue"
+  },
+  {
+    "text": "right now super i feel like i'm suffocating sometimes",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "lately super I have on and off stomach pain today",
+    "label": "stomach pain"
+  },
+  {
+    "text": "for a while so I have a dull ache in my stomach since yesterday",
+    "label": "stomach pain"
+  },
+  {
+    "text": "lately simple tasks make me feel exhausted all day",
+    "label": "fatigue"
+  },
+  {
+    "text": "for a while so my stomach aches when I move all day",
+    "label": "stomach pain"
+  },
+  {
+    "text": "these days very there is a constant ache in my throat today",
+    "label": "sore throat"
+  },
+  {
+    "text": "recently super cramps in my stomach for a few days",
+    "label": "stomach pain"
+  },
+  {
+    "text": "these days so I threw up several times for a few days",
+    "label": "vomiting"
+  },
+  {
+    "text": "recently I feel tired for no clear reason for a few days",
+    "label": "fatigue"
+  },
+  {
+    "text": "these days kinda I have abdominal pain for a few days",
+    "label": "stomach pain"
+  },
+  {
+    "text": "these days kinda i am tired no matter how much i rest for a few days",
+    "label": "fatigue"
+  },
+  {
+    "text": "recently super my throat burns when i drink",
+    "label": "sore throat"
+  },
+  {
+    "text": "these days kind of my temples are throbbing for hours",
+    "label": "headache"
+  },
+  {
+    "text": "kind of my gut is killing me today",
+    "label": "stomach pain"
+  },
+  {
+    "text": "lately kind of my throat is really sore for a few days",
+    "label": "sore throat"
+  },
+  {
+    "text": "super i feel like something is sitting on my chest for hours",
+    "label": "chest tightness"
+  },
+  {
+    "text": "right now kind of I feel queezy after meals for a few days",
+    "label": "nausea"
+  },
+  {
+    "text": "recently very my chest feels constricted today",
+    "label": "chest tightness"
+  },
+  {
+    "text": "super i have on and off stomach pain",
+    "label": "stomach pain"
+  },
+  {
+    "text": "for a while really i have trouble walking straight because i'm dizzy today",
+    "label": "dizziness"
+  },
+  {
+    "text": "these days so i feel sick to my stomach since yesterday",
+    "label": "nausea"
+  },
+  {
+    "text": "lately really my gut is killing me for a few days",
+    "label": "stomach pain"
+  },
+  {
+    "text": "recently very my stomach has been hurting for hours for a few days",
+    "label": "stomach pain"
+  },
+  {
+    "text": "these days so pain in my throat all day all day",
+    "label": "sore throat"
+  },
+  {
+    "text": "these days kinda my chest feels constricted",
+    "label": "chest tightness"
+  },
+  {
+    "text": "for a while super I am vomiting after I eat for a few days",
+    "label": "vomiting"
+  },
+  {
+    "text": "I keep gagging and vomiting for hours",
+    "label": "vomiting"
+  },
+  {
+    "text": "lately kinda my throat feels scratchy for a few days",
+    "label": "sore throat"
+  },
+  {
+    "text": "kinda I have a dull ache in my stomach all day",
+    "label": "stomach pain"
+  },
+  {
+    "text": "kind of I feel woozy and off balance today",
+    "label": "dizziness"
+  },
+  {
+    "text": "for a while really my throat feels raw",
+    "label": "sore throat"
+  },
+  {
+    "text": "recently really I vomited this morning for a few days",
+    "label": "vomiting"
+  },
+  {
+    "text": "right now really I have a strong pulsating headache",
+    "label": "headache"
+  },
+  {
+    "text": "lately so i had a big vomiting episode all day",
+    "label": "vomiting"
+  },
+  {
+    "text": "lately so i have pressure in my head for hours",
+    "label": "headache"
+  },
+  {
+    "text": "recently so I feel extremely tired for hours",
+    "label": "fatigue"
+  },
+  {
+    "text": "these days super dizzy spells throughout the day since yesterday",
+    "label": "dizziness"
+  },
+  {
+    "text": "lately i woke up with a headache today",
+    "label": "headache"
+  },
+  {
+    "text": "these days tight chest and slight pain for hours",
+    "label": "chest tightness"
+  },
+  {
+    "text": "for a while very i feel gross and nauseated",
+    "label": "nausea"
+  },
+  {
+    "text": "right now really my stomach hurts after I eat today",
+    "label": "stomach pain"
+  },
+  {
+    "text": "super my chest tightens when I exercise for a few days",
+    "label": "chest tightness"
+  },
+  {
+    "text": "lately so I have repeated vomiting for hours",
+    "label": "vomiting"
+  },
+  {
+    "text": "kinda I have episodes of vomiting since yesterday",
+    "label": "vomiting"
+  },
+  {
+    "text": "very my stomach aches when I move today",
+    "label": "stomach pain"
+  },
+  {
+    "text": "recently very I have a spinning sensation in my head for hours",
+    "label": "dizziness"
+  },
+  {
+    "text": "recently kinda my throat is killing me for hours",
+    "label": "sore throat"
+  },
+  {
+    "text": "for a while kinda i vomit shortly after meals since yesterday",
+    "label": "vomiting"
+  },
+  {
+    "text": "recently really I feel woozy and off balance",
+    "label": "dizziness"
+  },
+  {
+    "text": "really I vomit shortly after meals today",
+    "label": "vomiting"
+  },
+  {
+    "text": "for a while kinda i feel tightness in the middle of my chest",
+    "label": "chest tightness"
+  },
+  {
+    "text": "recently so I feel dizzy for a few days",
+    "label": "dizziness"
+  },
+  {
+    "text": "kind of I have trouble breathing for a few days",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "right now really my throat hurts a lot",
+    "label": "sore throat"
+  },
+  {
+    "text": "for a while I feel burnt out and exhausted for a few days",
+    "label": "fatigue"
+  },
+  {
+    "text": "right now pain behind my eyes and head all day",
+    "label": "headache"
+  },
+  {
+    "text": "lately kinda i feel tired even without doing much since yesterday",
+    "label": "fatigue"
+  },
+  {
+    "text": "lately so my throat has been hurting since yesterday",
+    "label": "sore throat"
+  },
+  {
+    "text": "for a while very my lower stomach hurts today",
+    "label": "stomach pain"
+  },
+  {
+    "text": "lately kinda sharp pain in my head today",
+    "label": "headache"
+  },
+  {
+    "text": "these days super my throat hurts when I swallow today",
+    "label": "sore throat"
+  },
+  {
+    "text": "these days so my throat burns when i drink all day",
+    "label": "sore throat"
+  },
+  {
+    "text": "these days kind of cramps in my stomach today",
+    "label": "stomach pain"
+  },
+  {
+    "text": "these days so i have a really bad headache all day",
+    "label": "headache"
+  },
+  {
+    "text": "these days really I get tired very easily since yesterday",
+    "label": "fatigue"
+  },
+  {
+    "text": "kind of i feel faint and dizzy",
+    "label": "dizziness"
+  },
+  {
+    "text": "right now kinda I have cramps and stomach pain for a few days",
+    "label": "stomach pain"
+  },
+  {
+    "text": "for a while so I get short of breath when talking all day",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "right now kind of pain behind my eyes and head for a few days",
+    "label": "headache"
+  },
+  {
+    "text": "recently kinda I vomited a few hours ago for a few days",
+    "label": "vomiting"
+  },
+  {
+    "text": "right now very I have a spinning sensation in my head since yesterday",
+    "label": "dizziness"
+  },
+  {
+    "text": "these days kind of i get short of breath when talking",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "recently kinda everything is spinning for a few days",
+    "label": "dizziness"
+  },
+  {
+    "text": "these days very i feel burnt out and exhausted for hours",
+    "label": "fatigue"
+  },
+  {
+    "text": "recently kinda i have been vomiting all day",
+    "label": "vomiting"
+  },
+  {
+    "text": "kind of I had a big vomiting episode all day",
+    "label": "vomiting"
+  },
+  {
+    "text": "these days super I feel burnt out and exhausted",
+    "label": "fatigue"
+  },
+  {
+    "text": "lately so I feel wiped out today",
+    "label": "fatigue"
+  },
+  {
+    "text": "right now super pain behind my eyes and head all day",
+    "label": "headache"
+  },
+  {
+    "text": "recently so my head feels floaty and weird today",
+    "label": "dizziness"
+  },
+  {
+    "text": "lately super my head feels floaty and weird for hours",
+    "label": "dizziness"
+  },
+  {
+    "text": "these days super i feel like throwing up all day",
+    "label": "nausea"
+  },
+  {
+    "text": "these days very I feel nauseous and weak since yesterday",
+    "label": "nausea"
+  },
+  {
+    "text": "lately kinda my throat hurts a lot since yesterday",
+    "label": "sore throat"
+  },
+  {
+    "text": "really I get short of breath when talking today",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "these days super my head is killing me right now since yesterday",
+    "label": "headache"
+  },
+  {
+    "text": "these days really my skull feels like it's being squeezed today",
+    "label": "headache"
+  },
+  {
+    "text": "lately kinda I feel like I'm about to faint since yesterday",
+    "label": "dizziness"
+  },
+  {
+    "text": "these days kind of my forehead hurts a lot for hours",
+    "label": "headache"
+  },
+  {
+    "text": "right now very head hurts more when I move",
+    "label": "headache"
+  },
+  {
+    "text": "for a while kinda it's hard to breathe when I lie down since yesterday",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "kind of my chest tightness comes and goes since yesterday",
+    "label": "chest tightness"
+  },
+  {
+    "text": "for a while so waves of nausea keep hitting me all day",
+    "label": "nausea"
+  },
+  {
+    "text": "for a while my chest feels tight and it worries me today",
+    "label": "chest tightness"
+  },
+  {
+    "text": "these days everything is spinning since yesterday",
+    "label": "dizziness"
+  },
+  {
+    "text": "these days I vomited this morning all day",
+    "label": "vomiting"
+  },
+  {
+    "text": "so I get chest tightness when I walk",
+    "label": "chest tightness"
+  },
+  {
+    "text": "recently super waves of nausea keep hitting me for a few days",
+    "label": "nausea"
+  },
+  {
+    "text": "for a while kinda I woke up with a headache today",
+    "label": "headache"
+  },
+  {
+    "text": "right now I feel like I could fall asleep any time today",
+    "label": "fatigue"
+  },
+  {
+    "text": "these days super I have a strong pulsating headache all day",
+    "label": "headache"
+  },
+  {
+    "text": "for a while kinda it hurts every time i swallow since yesterday",
+    "label": "sore throat"
+  },
+  {
+    "text": "recently kinda I have no energy at all for hours",
+    "label": "fatigue"
+  },
+  {
+    "text": "lately kind of I get dizzy when I stand up today",
+    "label": "dizziness"
+  },
+  {
+    "text": "lately so I have a dull ache in my stomach today",
+    "label": "stomach pain"
+  },
+  {
+    "text": "lately really I struggle to take a full breath for hours",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "lately very my lower stomach hurts for a few days",
+    "label": "stomach pain"
+  },
+  {
+    "text": "for a while really I feel like my body is heavy and tired for a few days",
+    "label": "fatigue"
+  },
+  {
+    "text": "really my throat feels raw since yesterday",
+    "label": "sore throat"
+  },
+  {
+    "text": "recently kind of i have no energy at all today",
+    "label": "fatigue"
+  },
+  {
+    "text": "these days really I feel more tired than usual for a few days",
+    "label": "fatigue"
+  },
+  {
+    "text": "super my throat has been hurting since yesterday since yesterday",
+    "label": "sore throat"
+  },
+  {
+    "text": "for a while so my chest feels tight when i breathe for a few days",
+    "label": "chest tightness"
+  },
+  {
+    "text": "for a while I have a strong pulsating headache all day",
+    "label": "headache"
+  },
+  {
+    "text": "lately kind of i have a spinning sensation in my head for hours",
+    "label": "dizziness"
+  },
+  {
+    "text": "recently tight feeling around my chest for hours",
+    "label": "chest tightness"
+  },
+  {
+    "text": "recently I feel tired even without doing much today",
+    "label": "fatigue"
+  },
+  {
+    "text": "lately really simple tasks make me feel exhausted",
+    "label": "fatigue"
+  },
+  {
+    "text": "so talking makes my throat hurt since yesterday",
+    "label": "sore throat"
+  },
+  {
+    "text": "lately my head feels floaty and weird all day",
+    "label": "dizziness"
+  },
+  {
+    "text": "right now I feel like I might puke since yesterday",
+    "label": "nausea"
+  },
+  {
+    "text": "recently very I feel extremely tired all day",
+    "label": "fatigue"
+  },
+  {
+    "text": "lately kind of I threw up and still feel sick today",
+    "label": "vomiting"
+  },
+  {
+    "text": "for a while kind of i have stomach pain",
+    "label": "stomach pain"
+  },
+  {
+    "text": "lately really I feel lightheaded",
+    "label": "dizziness"
+  },
+  {
+    "text": "lately kind of I keep throwing up for a few days",
+    "label": "vomiting"
+  },
+  {
+    "text": "for a while kind of i throw up anything i try to drink since yesterday",
+    "label": "vomiting"
+  },
+  {
+    "text": "recently so my stomach feels queasy",
+    "label": "nausea"
+  },
+  {
+    "text": "lately super I feel gross and nauseated since yesterday",
+    "label": "nausea"
+  },
+  {
+    "text": "lately loud noises make my headache worse all day",
+    "label": "headache"
+  },
+  {
+    "text": "for a while super I feel sleepy and worn out all day today",
+    "label": "fatigue"
+  },
+  {
+    "text": "these days really i feel drained even after sleeping all day",
+    "label": "fatigue"
+  },
+  {
+    "text": "for a while really I have a spinning sensation in my head today",
+    "label": "dizziness"
+  },
+  {
+    "text": "lately so I feel queezy after meals for hours",
+    "label": "nausea"
+  },
+  {
+    "text": "right now really I have abdominal pain since yesterday",
+    "label": "stomach pain"
+  },
+  {
+    "text": "for a while kind of i feel sick after eating for a few days",
+    "label": "nausea"
+  },
+  {
+    "text": "these days so my throat is killing me for a few days",
+    "label": "sore throat"
+  },
+  {
+    "text": "lately I feel nauseous for a few days",
+    "label": "nausea"
+  },
+  {
+    "text": "super my gut is killing me all day",
+    "label": "stomach pain"
+  },
+  {
+    "text": "for a while so I feel extremely tired today",
+    "label": "fatigue"
+  },
+  {
+    "text": "for a while kinda I feel like my stomach hates me for a few days",
+    "label": "nausea"
+  },
+  {
+    "text": "right now kinda i have a bad tummy ache for a few days",
+    "label": "stomach pain"
+  },
+  {
+    "text": "recently so I feel woozy and off balance",
+    "label": "dizziness"
+  },
+  {
+    "text": "my throat feels raw for hours",
+    "label": "sore throat"
+  },
+  {
+    "text": "for a while kinda my chest tightens when i exercise for hours",
+    "label": "chest tightness"
+  },
+  {
+    "text": "lately I feel like the room is spinning today",
+    "label": "dizziness"
+  },
+  {
+    "text": "these days very my breathing feels shallow for a few days",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "for a while I threw up during the night",
+    "label": "vomiting"
+  },
+  {
+    "text": "for a while kinda i feel sleepy and worn out all day since yesterday",
+    "label": "fatigue"
+  },
+  {
+    "text": "these days I have trouble breathing for a few days",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "these days really I struggle to take a full breath",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "right now kind of I get dizzy when I stand up today",
+    "label": "dizziness"
+  },
+  {
+    "text": "recently really there is a constant ache in my throat all day",
+    "label": "sore throat"
+  },
+  {
+    "text": "for a while i feel uncomfortable and nauseous all day",
+    "label": "nausea"
+  },
+  {
+    "text": "super my chest feels like it's being squeezed since yesterday",
+    "label": "chest tightness"
+  },
+  {
+    "text": "recently kinda I have a weird tight feeling in my chest for hours",
+    "label": "chest tightness"
+  },
+  {
+    "text": "recently very I feel unsteady on my feet for hours",
+    "label": "dizziness"
+  },
+  {
+    "text": "recently kind of tight chest and slight pain for hours",
+    "label": "chest tightness"
+  },
+  {
+    "text": "these days kind of i have sudden urges to vomit for a few days",
+    "label": "vomiting"
+  },
+  {
+    "text": "right now I feel like I'm gasping for air",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "recently very i feel disoriented and dizzy since yesterday",
+    "label": "dizziness"
+  },
+  {
+    "text": "lately i have sudden urges to vomit today",
+    "label": "vomiting"
+  },
+  {
+    "text": "recently kind of my head feels floaty and weird since yesterday",
+    "label": "dizziness"
+  },
+  {
+    "text": "lately really I have abdominal pain for hours",
+    "label": "stomach pain"
+  },
+  {
+    "text": "kinda i feel like i'm going to vomit since yesterday",
+    "label": "nausea"
+  },
+  {
+    "text": "recently really pain in my throat all day since yesterday",
+    "label": "sore throat"
+  },
+  {
+    "text": "for a while super it hurts every time I swallow today",
+    "label": "sore throat"
+  },
+  {
+    "text": "recently really I have a spinning sensation in my head for a few days",
+    "label": "dizziness"
+  },
+  {
+    "text": "these days my chest feels tight and it worries me for hours",
+    "label": "chest tightness"
+  },
+  {
+    "text": "recently so my throat hurts more at night all day",
+    "label": "sore throat"
+  },
+  {
+    "text": "for a while really my stomach aches when I move for hours",
+    "label": "stomach pain"
+  },
+  {
+    "text": "recently super I feel out of breath even at rest for hours",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "recently very my throat hurts more at night since yesterday",
+    "label": "sore throat"
+  },
+  {
+    "text": "recently so I feel like I have zero energy all day",
+    "label": "fatigue"
+  },
+  {
+    "text": "lately kind of I feel slightly sick all the time today",
+    "label": "nausea"
+  },
+  {
+    "text": "for a while kind of my throat burns when I drink since yesterday",
+    "label": "sore throat"
+  },
+  {
+    "text": "recently i struggle to take a full breath all day",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "for a while really i have pressure in my head today",
+    "label": "headache"
+  },
+  {
+    "text": "these days really I feel like I have zero energy all day",
+    "label": "fatigue"
+  },
+  {
+    "text": "recently very I almost lost my balance from dizziness for hours",
+    "label": "dizziness"
+  },
+  {
+    "text": "recently very my lower stomach hurts since yesterday",
+    "label": "stomach pain"
+  },
+  {
+    "text": "lately kind of I have a weird tight feeling in my chest since yesterday",
+    "label": "chest tightness"
+  },
+  {
+    "text": "recently super my throat hurts when I swallow today",
+    "label": "sore throat"
+  },
+  {
+    "text": "lately kind of i throw up anything i try to drink since yesterday",
+    "label": "vomiting"
+  },
+  {
+    "text": "lately kind of I am tired no matter how much I rest today",
+    "label": "fatigue"
+  },
+  {
+    "text": "for a while super I have difficulty breathing deeply for a few days",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "right now so my head is pounding for a few days",
+    "label": "headache"
+  },
+  {
+    "text": "right now so my chest feels tight and uncomfortable",
+    "label": "chest tightness"
+  },
+  {
+    "text": "for a while really i vomit shortly after meals today",
+    "label": "vomiting"
+  },
+  {
+    "text": "lately super my stomach has sharp pains for hours",
+    "label": "stomach pain"
+  },
+  {
+    "text": "for a while super I feel a band of tightness across my chest since yesterday",
+    "label": "chest tightness"
+  },
+  {
+    "text": "kind of i feel wiped out all day",
+    "label": "fatigue"
+  },
+  {
+    "text": "recently I feel like something is sitting on my chest since yesterday",
+    "label": "chest tightness"
+  },
+  {
+    "text": "so i feel like i'm going to black out",
+    "label": "dizziness"
+  },
+  {
+    "text": "right now super i feel like i can't breathe deeply all day",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "lately kind of head hurts more when I move today",
+    "label": "headache"
+  },
+  {
+    "text": "these days so I feel exhausted all the time today",
+    "label": "fatigue"
+  },
+  {
+    "text": "recently kinda everything is spinning today",
+    "label": "dizziness"
+  },
+  {
+    "text": "very I feel like the room is spinning since yesterday",
+    "label": "dizziness"
+  },
+  {
+    "text": "for a while so I had a big vomiting episode today",
+    "label": "vomiting"
+  },
+  {
+    "text": "really head hurts more when i move since yesterday",
+    "label": "headache"
+  },
+  {
+    "text": "right now really I feel like the room is spinning all day",
+    "label": "dizziness"
+  },
+  {
+    "text": "recently very I feel exhausted when I wake up today",
+    "label": "fatigue"
+  },
+  {
+    "text": "lately super i feel unsteady on my feet today",
+    "label": "dizziness"
+  },
+  {
+    "text": "my stomach feels queasy",
+    "label": "nausea"
+  },
+  {
+    "text": "kinda I feel disoriented and dizzy for hours",
+    "label": "dizziness"
+  },
+  {
+    "text": "recently i feel queezy after meals",
+    "label": "nausea"
+  },
+  {
+    "text": "these days kind of i feel like my stomach is upset today",
+    "label": "nausea"
+  },
+  {
+    "text": "lately kinda tight feeling around my chest today",
+    "label": "chest tightness"
+  },
+  {
+    "text": "right now kind of i feel like i want to gag",
+    "label": "nausea"
+  },
+  {
+    "text": "lately kinda I feel nauseous and weak all day",
+    "label": "nausea"
+  },
+  {
+    "text": "for a while super I have a really bad headache for hours",
+    "label": "headache"
+  },
+  {
+    "text": "lately very I had a big vomiting episode today",
+    "label": "vomiting"
+  },
+  {
+    "text": "kinda I feel out of breath even at rest since yesterday",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "recently very I feel like throwing up since yesterday",
+    "label": "nausea"
+  },
+  {
+    "text": "for a while kind of I have been puking on and off for hours",
+    "label": "vomiting"
+  },
+  {
+    "text": "these days kind of my throat hurts a lot today",
+    "label": "sore throat"
+  },
+  {
+    "text": "kind of my head ache gets worse with light for hours",
+    "label": "headache"
+  },
+  {
+    "text": "lately super I feel like I have zero energy for hours",
+    "label": "fatigue"
+  },
+  {
+    "text": "recently very i feel woozy and off balance all day",
+    "label": "dizziness"
+  },
+  {
+    "text": "for a while very feels like my head is going to explode since yesterday",
+    "label": "headache"
+  },
+  {
+    "text": "for a while very my throat feels scratchy",
+    "label": "sore throat"
+  },
+  {
+    "text": "my throat feels tight and sore for hours",
+    "label": "sore throat"
+  },
+  {
+    "text": "right now really simple tasks make me feel exhausted for a few days",
+    "label": "fatigue"
+  },
+  {
+    "text": "recently kinda my throat feels swollen",
+    "label": "sore throat"
+  },
+  {
+    "text": "for a while I feel like I want to gag for hours",
+    "label": "nausea"
+  },
+  {
+    "text": "lately my chest feels tight",
+    "label": "chest tightness"
+  },
+  {
+    "text": "these days so i feel nauseous especially in the morning today",
+    "label": "nausea"
+  },
+  {
+    "text": "right now my throat burns when i drink for a few days",
+    "label": "sore throat"
+  },
+  {
+    "text": "right now so my skull feels like it's being squeezed",
+    "label": "headache"
+  },
+  {
+    "text": "recently kinda i run out of breath going up stairs since yesterday",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "for a while very I keep gagging and vomiting today",
+    "label": "vomiting"
+  },
+  {
+    "text": "lately kinda I have episodes of vomiting today",
+    "label": "vomiting"
+  },
+  {
+    "text": "these days really i feel like i'm going to vomit all day",
+    "label": "nausea"
+  },
+  {
+    "text": "for a while my chest feels heavy today",
+    "label": "chest tightness"
+  },
+  {
+    "text": "lately kinda my stomach feels queasy",
+    "label": "nausea"
+  },
+  {
+    "text": "I have no energy at all today",
+    "label": "fatigue"
+  },
+  {
+    "text": "for a while my gut is killing me since yesterday",
+    "label": "stomach pain"
+  },
+  {
+    "text": "these days very swallowing food is painful today",
+    "label": "sore throat"
+  },
+  {
+    "text": "right now super my chest feels tight and it worries me for hours",
+    "label": "chest tightness"
+  },
+  {
+    "text": "recently kinda I have trouble walking straight because I'm dizzy since yesterday",
+    "label": "dizziness"
+  },
+  {
+    "text": "these days so sudden waves of dizziness today",
+    "label": "dizziness"
+  },
+  {
+    "text": "lately super I feel like I could throw up at any moment all day",
+    "label": "nausea"
+  },
+  {
+    "text": "lately super my throat is really sore for a few days",
+    "label": "sore throat"
+  },
+  {
+    "text": "these days super i have a bad tummy ache for a few days",
+    "label": "stomach pain"
+  },
+  {
+    "text": "these days so I feel queezy after meals all day",
+    "label": "nausea"
+  },
+  {
+    "text": "kind of i feel like my body is heavy and tired today",
+    "label": "fatigue"
+  },
+  {
+    "text": "recently really I can't catch my breath since yesterday",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "for a while kinda constant dull headache all day",
+    "label": "headache"
+  },
+  {
+    "text": "for a while kind of I feel extremely tired since yesterday",
+    "label": "fatigue"
+  },
+  {
+    "text": "for a while super I feel wiped out for a few days",
+    "label": "fatigue"
+  },
+  {
+    "text": "recently I can't catch my breath",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "recently so I can't focus because of this headache since yesterday",
+    "label": "headache"
+  },
+  {
+    "text": "recently kinda my throat is really sore",
+    "label": "sore throat"
+  },
+  {
+    "text": "recently so I feel a band of tightness across my chest",
+    "label": "chest tightness"
+  },
+  {
+    "text": "right now very dizzy spells throughout the day all day",
+    "label": "dizziness"
+  },
+  {
+    "text": "right now really i keep getting headaches for a few days",
+    "label": "headache"
+  },
+  {
+    "text": "these days kind of I feel like I'm going to black out for hours",
+    "label": "dizziness"
+  },
+  {
+    "text": "lately so i feel nauseous especially in the morning today",
+    "label": "nausea"
+  },
+  {
+    "text": "for a while i feel like i might puke all day",
+    "label": "nausea"
+  },
+  {
+    "text": "right now kind of I feel short of breath today",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "for a while so I feel queezy after meals",
+    "label": "nausea"
+  },
+  {
+    "text": "for a while so my throat burns when I drink for hours",
+    "label": "sore throat"
+  },
+  {
+    "text": "lately kind of I am bringing up food I just ate for hours",
+    "label": "vomiting"
+  },
+  {
+    "text": "recently very pain in my belly since yesterday",
+    "label": "stomach pain"
+  },
+  {
+    "text": "i get winded from small activities since yesterday",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "these days really i feel faint and dizzy today",
+    "label": "dizziness"
+  },
+  {
+    "text": "lately kinda my throat has been hurting since yesterday since yesterday",
+    "label": "sore throat"
+  },
+  {
+    "text": "right now kinda i have a dull ache in my stomach for hours",
+    "label": "stomach pain"
+  },
+  {
+    "text": "right now kind of swallowing food is painful today",
+    "label": "sore throat"
+  },
+  {
+    "text": "right now I feel like I want to gag for hours",
+    "label": "nausea"
+  },
+  {
+    "text": "lately kinda I get chest tightness when I walk for a few days",
+    "label": "chest tightness"
+  },
+  {
+    "text": "for a while really I feel like I'm gasping for air all day",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "right now kinda I have a really bad headache today",
+    "label": "headache"
+  },
+  {
+    "text": "these days kinda I can't keep anything down and I vomit all day",
+    "label": "vomiting"
+  },
+  {
+    "text": "lately very I get short of breath when talking since yesterday",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "recently really I feel a band of tightness across my chest",
+    "label": "chest tightness"
+  },
+  {
+    "text": "these days super I feel like I'm going to vomit today",
+    "label": "nausea"
+  },
+  {
+    "text": "these days simple tasks make me feel exhausted for hours",
+    "label": "fatigue"
+  },
+  {
+    "text": "kinda I feel faint and dizzy since yesterday",
+    "label": "dizziness"
+  },
+  {
+    "text": "kinda i woke up with a bad sore throat for a few days",
+    "label": "sore throat"
+  },
+  {
+    "text": "super I feel like I'm swaying when I stand all day",
+    "label": "dizziness"
+  },
+  {
+    "text": "right now really i have difficulty breathing deeply today",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "recently kind of I can't stop puking for hours",
+    "label": "vomiting"
+  },
+  {
+    "text": "my stomach aches when i move since yesterday",
+    "label": "stomach pain"
+  },
+  {
+    "text": "these days so i feel sleepy and worn out all day since yesterday",
+    "label": "fatigue"
+  },
+  {
+    "text": "for a while so i threw up several times all day",
+    "label": "vomiting"
+  },
+  {
+    "text": "recently kind of I struggle to take a full breath all day",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "I keep getting headaches since yesterday",
+    "label": "headache"
+  },
+  {
+    "text": "for a while so i feel like i can't breathe deeply for hours",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "kind of I feel like I'm going to black out for hours",
+    "label": "dizziness"
+  },
+  {
+    "text": "lately super I have pain in the middle of my abdomen all day",
+    "label": "stomach pain"
+  },
+  {
+    "text": "recently so my throat feels scratchy today",
+    "label": "sore throat"
+  },
+  {
+    "text": "kinda i have been puking on and off today",
+    "label": "vomiting"
+  },
+  {
+    "text": "for a while kinda my chest tightness comes and goes for a few days",
+    "label": "chest tightness"
+  },
+  {
+    "text": "recently so i feel disoriented and dizzy all day",
+    "label": "dizziness"
+  },
+  {
+    "text": "right now constant feeling of nausea since yesterday",
+    "label": "nausea"
+  },
+  {
+    "text": "right now really my vision feels weird when i stand today",
+    "label": "dizziness"
+  },
+  {
+    "text": "right now super I feel constantly fatigued all day",
+    "label": "fatigue"
+  },
+  {
+    "text": "recently very I get dizzy when I move too fast since yesterday",
+    "label": "dizziness"
+  },
+  {
+    "text": "i feel like i'm going to vomit all day",
+    "label": "nausea"
+  },
+  {
+    "text": "for a while kind of my forehead hurts a lot for hours",
+    "label": "headache"
+  },
+  {
+    "text": "for a while very pain in my belly for a few days",
+    "label": "stomach pain"
+  },
+  {
+    "text": "recently super swallowing food is painful",
+    "label": "sore throat"
+  },
+  {
+    "text": "these days super dizzy spells throughout the day for a few days",
+    "label": "dizziness"
+  },
+  {
+    "text": "these days so throat pain is getting worse for a few days",
+    "label": "sore throat"
+  },
+  {
+    "text": "for a while super my head is pounding today",
+    "label": "headache"
+  },
+  {
+    "text": "recently really I breathe heavily after light effort",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "these days my chest tightness comes and goes for a few days",
+    "label": "chest tightness"
+  },
+  {
+    "text": "these days super my breathing feels shallow all day",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "these days so i feel gross and nauseated for a few days",
+    "label": "nausea"
+  },
+  {
+    "text": "right now very I feel tightness in my chest all day",
+    "label": "chest tightness"
+  },
+  {
+    "text": "really I feel like throwing up all day",
+    "label": "nausea"
+  },
+  {
+    "text": "right now so I have pressure in my chest since yesterday",
+    "label": "chest tightness"
+  },
+  {
+    "text": "these days kinda head hurts more when I move all day",
+    "label": "headache"
+  },
+  {
+    "text": "kind of my chest tightness comes and goes for a few days",
+    "label": "chest tightness"
+  },
+  {
+    "text": "really my chest feels tight for hours",
+    "label": "chest tightness"
+  },
+  {
+    "text": "recently my gut is killing me all day",
+    "label": "stomach pain"
+  },
+  {
+    "text": "lately so tight feeling around my chest",
+    "label": "chest tightness"
+  },
+  {
+    "text": "my throat feels raw today",
+    "label": "sore throat"
+  },
+  {
+    "text": "right now I feel like I'm going to vomit today",
+    "label": "nausea"
+  },
+  {
+    "text": "lately super i feel like i could fall asleep any time for a few days",
+    "label": "fatigue"
+  },
+  {
+    "text": "kinda my throat is really sore for a few days",
+    "label": "sore throat"
+  },
+  {
+    "text": "for a while very my stomach hurts after I eat since yesterday",
+    "label": "stomach pain"
+  },
+  {
+    "text": "lately very I feel wiped out",
+    "label": "fatigue"
+  },
+  {
+    "text": "my chest feels tight when i breathe all day",
+    "label": "chest tightness"
+  },
+  {
+    "text": "for a while i feel queezy after meals for a few days",
+    "label": "nausea"
+  },
+  {
+    "text": "these days super my upper chest feels tight since yesterday",
+    "label": "chest tightness"
+  },
+  {
+    "text": "really I feel a band of tightness across my chest since yesterday",
+    "label": "chest tightness"
+  },
+  {
+    "text": "i have abdominal pain since yesterday",
+    "label": "stomach pain"
+  },
+  {
+    "text": "right now kind of my throat feels raw all day",
+    "label": "sore throat"
+  },
+  {
+    "text": "these days kinda my throat has been hurting since yesterday today",
+    "label": "sore throat"
+  },
+  {
+    "text": "for a while so I have trouble walking straight because I'm dizzy since yesterday",
+    "label": "dizziness"
+  },
+  {
+    "text": "right now very i get breathless when i hurry for hours",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "lately my stomach has been hurting for hours for a few days",
+    "label": "stomach pain"
+  },
+  {
+    "text": "recently I feel faint and dizzy since yesterday",
+    "label": "dizziness"
+  },
+  {
+    "text": "recently very I woke up with a headache for a few days",
+    "label": "headache"
+  },
+  {
+    "text": "these days kind of pain in my throat all day today",
+    "label": "sore throat"
+  },
+  {
+    "text": "right now very my lower stomach hurts today",
+    "label": "stomach pain"
+  },
+  {
+    "text": "right now kinda I feel nauseous and weak today",
+    "label": "nausea"
+  },
+  {
+    "text": "these days super I have been vomiting all day for hours",
+    "label": "vomiting"
+  },
+  {
+    "text": "these days kind of my throat feels tight and sore today",
+    "label": "sore throat"
+  },
+  {
+    "text": "so my head hurts so much",
+    "label": "headache"
+  },
+  {
+    "text": "for a while kinda my chest feels constricted since yesterday",
+    "label": "chest tightness"
+  },
+  {
+    "text": "recently really tight chest and slight pain for hours",
+    "label": "chest tightness"
+  },
+  {
+    "text": "super dizzy spells throughout the day since yesterday",
+    "label": "dizziness"
+  },
+  {
+    "text": "for a while very my gut is killing me for hours",
+    "label": "stomach pain"
+  },
+  {
+    "text": "lately really my chest feels like it's being squeezed since yesterday",
+    "label": "chest tightness"
+  },
+  {
+    "text": "kind of my chest feels tight when I breathe since yesterday",
+    "label": "chest tightness"
+  },
+  {
+    "text": "recently so i have pressure in my chest",
+    "label": "chest tightness"
+  },
+  {
+    "text": "right now really I get out of breath easily since yesterday",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "right now really I feel like something is sitting on my chest for hours",
+    "label": "chest tightness"
+  },
+  {
+    "text": "these days super I feel sleepy and worn out all day",
+    "label": "fatigue"
+  },
+  {
+    "text": "recently kinda tight feeling around my chest for hours",
+    "label": "chest tightness"
+  },
+  {
+    "text": "these days kind of I have trouble breathing for hours",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "for a while so I feel more tired than usual all day",
+    "label": "fatigue"
+  },
+  {
+    "text": "recently so I vomited this morning since yesterday",
+    "label": "vomiting"
+  },
+  {
+    "text": "recently kind of my temples are throbbing since yesterday",
+    "label": "headache"
+  },
+  {
+    "text": "recently I am always run down",
+    "label": "fatigue"
+  },
+  {
+    "text": "for a while really my throat feels tight and sore all day",
+    "label": "sore throat"
+  },
+  {
+    "text": "lately kinda I get short of breath when talking for a few days",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "these days very sharp pain in my head since yesterday",
+    "label": "headache"
+  },
+  {
+    "text": "for a while really my head is killing me right now for hours",
+    "label": "headache"
+  },
+  {
+    "text": "recently super my stomach feels queasy all day",
+    "label": "nausea"
+  },
+  {
+    "text": "for a while super my chest feels tight for hours",
+    "label": "chest tightness"
+  },
+  {
+    "text": "recently kind of i have episodes of vomiting for hours",
+    "label": "vomiting"
+  },
+  {
+    "text": "really my stomach hurts all day",
+    "label": "stomach pain"
+  },
+  {
+    "text": "lately so my head ache gets worse with light today",
+    "label": "headache"
+  },
+  {
+    "text": "lately really my throat hurts more at night today",
+    "label": "sore throat"
+  },
+  {
+    "text": "lately so I feel short of breath today",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "for a while really I vomited this morning since yesterday",
+    "label": "vomiting"
+  },
+  {
+    "text": "very my throat feels swollen for a few days",
+    "label": "sore throat"
+  },
+  {
+    "text": "these days very i have trouble breathing since yesterday",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "so cramps in my stomach since yesterday",
+    "label": "stomach pain"
+  },
+  {
+    "text": "for a while very my chest feels tight and uncomfortable for hours",
+    "label": "chest tightness"
+  },
+  {
+    "text": "for a while kind of my head hurts so much since yesterday",
+    "label": "headache"
+  },
+  {
+    "text": "for a while so there is a constant ache in my throat for hours",
+    "label": "sore throat"
+  },
+  {
+    "text": "lately loud noises make my headache worse since yesterday",
+    "label": "headache"
+  },
+  {
+    "text": "these days really I woke up with a headache for a few days",
+    "label": "headache"
+  },
+  {
+    "text": "these days very my throat feels tight and sore for hours",
+    "label": "sore throat"
+  },
+  {
+    "text": "for a while very i feel nauseous and weak for hours",
+    "label": "nausea"
+  },
+  {
+    "text": "for a while kinda I vomit shortly after meals all day",
+    "label": "vomiting"
+  },
+  {
+    "text": "lately really I feel lightheaded for hours",
+    "label": "dizziness"
+  },
+  {
+    "text": "recently very i feel gross and nauseated all day",
+    "label": "nausea"
+  },
+  {
+    "text": "recently very I feel exhausted all the time for a few days",
+    "label": "fatigue"
+  },
+  {
+    "text": "really I feel like my chest won't expand enough to breathe for a few days",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "for a while very I feel wiped out",
+    "label": "fatigue"
+  },
+  {
+    "text": "for a while kinda I have a really bad headache for a few days",
+    "label": "headache"
+  },
+  {
+    "text": "for a while kind of i feel uncomfortable and nauseous",
+    "label": "nausea"
+  },
+  {
+    "text": "recently super I have pain in the middle of my abdomen since yesterday",
+    "label": "stomach pain"
+  },
+  {
+    "text": "right now very I had a big vomiting episode for a few days",
+    "label": "vomiting"
+  },
+  {
+    "text": "recently kinda I feel like my chest won't expand enough to breathe for a few days",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "right now kinda pain behind my eyes and head today",
+    "label": "headache"
+  },
+  {
+    "text": "for a while really my throat burns when I drink for a few days",
+    "label": "sore throat"
+  },
+  {
+    "text": "lately kind of I feel like my body is heavy and tired all day",
+    "label": "fatigue"
+  },
+  {
+    "text": "right now kinda I am vomiting after I eat",
+    "label": "vomiting"
+  },
+  {
+    "text": "these days really I can't focus because of this headache today",
+    "label": "headache"
+  },
+  {
+    "text": "so I threw up and still feel sick for a few days",
+    "label": "vomiting"
+  },
+  {
+    "text": "these days really my stomach feels queasy for a few days",
+    "label": "nausea"
+  },
+  {
+    "text": "lately really I have pressure in my chest",
+    "label": "chest tightness"
+  },
+  {
+    "text": "these days my head has been hurting all day today",
+    "label": "headache"
+  },
+  {
+    "text": "right now super I feel exhausted when I wake up",
+    "label": "fatigue"
+  },
+  {
+    "text": "recently very my skull feels like it's being squeezed today",
+    "label": "headache"
+  },
+  {
+    "text": "recently super i have episodes of vomiting for a few days",
+    "label": "vomiting"
+  },
+  {
+    "text": "lately I feel slightly sick all the time for a few days",
+    "label": "nausea"
+  },
+  {
+    "text": "really my throat hurts more at night since yesterday",
+    "label": "sore throat"
+  },
+  {
+    "text": "for a while kind of my throat has been hurting since yesterday today",
+    "label": "sore throat"
+  },
+  {
+    "text": "really I feel like I'm suffocating sometimes since yesterday",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "for a while kinda pain in my belly today",
+    "label": "stomach pain"
+  },
+  {
+    "text": "right now so i feel like i'm suffocating sometimes since yesterday",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "very my stomach has been hurting for hours",
+    "label": "stomach pain"
+  },
+  {
+    "text": "these days really I feel like my body is heavy and tired for hours",
+    "label": "fatigue"
+  },
+  {
+    "text": "these days so I have pressure in my chest today",
+    "label": "chest tightness"
+  },
+  {
+    "text": "very I feel nauseous especially in the morning for a few days",
+    "label": "nausea"
+  },
+  {
+    "text": "lately super i have difficulty breathing deeply",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "recently really I feel sleepy and worn out all day today",
+    "label": "fatigue"
+  },
+  {
+    "text": "recently kinda I feel like I'm about to faint",
+    "label": "dizziness"
+  },
+  {
+    "text": "really my belly feels sore since yesterday",
+    "label": "stomach pain"
+  },
+  {
+    "text": "for a while really i feel out of breath even at rest all day",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "these days kind of I feel breathless after walking today",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "lately kinda I vomit even when my stomach is empty since yesterday",
+    "label": "vomiting"
+  },
+  {
+    "text": "I am bringing up food I just ate today",
+    "label": "vomiting"
+  },
+  {
+    "text": "for a while really i feel exhausted all the time today",
+    "label": "fatigue"
+  },
+  {
+    "text": "lately really my chest feels tight",
+    "label": "chest tightness"
+  },
+  {
+    "text": "recently super feels like my head is going to explode",
+    "label": "headache"
+  },
+  {
+    "text": "these days I am bringing up food I just ate for a few days",
+    "label": "vomiting"
+  },
+  {
+    "text": "these days super i feel like my stomach is upset since yesterday",
+    "label": "nausea"
+  },
+  {
+    "text": "super I feel like I could fall asleep any time",
+    "label": "fatigue"
+  },
+  {
+    "text": "recently very my chest feels tight and it worries me for a few days",
+    "label": "chest tightness"
+  },
+  {
+    "text": "recently very I feel queezy after meals all day",
+    "label": "nausea"
+  },
+  {
+    "text": "recently really i keep getting headaches for a few days",
+    "label": "headache"
+  },
+  {
+    "text": "it feels like sandpaper in my throat for a few days",
+    "label": "sore throat"
+  },
+  {
+    "text": "recently kinda i threw up several times for a few days",
+    "label": "vomiting"
+  },
+  {
+    "text": "very my stomach has sharp pains",
+    "label": "stomach pain"
+  },
+  {
+    "text": "recently so it's hard to breathe when I lie down since yesterday",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "recently I feel dizzy for hours",
+    "label": "dizziness"
+  },
+  {
+    "text": "right now really I feel woozy and off balance for hours",
+    "label": "dizziness"
+  },
+  {
+    "text": "so i get chest tightness when i walk for hours",
+    "label": "chest tightness"
+  },
+  {
+    "text": "for a while kind of I feel exhausted when I wake up since yesterday",
+    "label": "fatigue"
+  },
+  {
+    "text": "lately kind of I threw up during the night for hours",
+    "label": "vomiting"
+  },
+  {
+    "text": "recently super I have been vomiting all day for hours",
+    "label": "vomiting"
+  },
+  {
+    "text": "these days kind of I can't catch my breath since yesterday",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "these days kinda I have a bad tummy ache",
+    "label": "stomach pain"
+  },
+  {
+    "text": "these days kind of simple tasks make me feel exhausted for a few days",
+    "label": "fatigue"
+  },
+  {
+    "text": "really i feel nauseous especially in the morning since yesterday",
+    "label": "nausea"
+  },
+  {
+    "text": "these days kind of i threw up and still feel sick for hours",
+    "label": "vomiting"
+  },
+  {
+    "text": "lately kinda my chest feels tight and uncomfortable today",
+    "label": "chest tightness"
+  },
+  {
+    "text": "for a while swallowing food is painful",
+    "label": "sore throat"
+  },
+  {
+    "text": "right now my skull feels like it's being squeezed today",
+    "label": "headache"
+  },
+  {
+    "text": "recently kind of I feel sick after eating since yesterday",
+    "label": "nausea"
+  },
+  {
+    "text": "right now very I keep gagging and vomiting all day",
+    "label": "vomiting"
+  },
+  {
+    "text": "for a while kinda I threw up during the night since yesterday",
+    "label": "vomiting"
+  },
+  {
+    "text": "right now super I have a strong pulsating headache",
+    "label": "headache"
+  },
+  {
+    "text": "right now very talking makes my throat hurt since yesterday",
+    "label": "sore throat"
+  },
+  {
+    "text": "for a while so my head feels floaty and weird for hours",
+    "label": "dizziness"
+  },
+  {
+    "text": "for a while really I almost lost my balance from dizziness for a few days",
+    "label": "dizziness"
+  },
+  {
+    "text": "so i feel like i could fall asleep any time all day",
+    "label": "fatigue"
+  },
+  {
+    "text": "right now kinda I am always run down all day",
+    "label": "fatigue"
+  },
+  {
+    "text": "I have pain in the middle of my abdomen for a few days",
+    "label": "stomach pain"
+  },
+  {
+    "text": "these days really I feel uncomfortable and nauseous since yesterday",
+    "label": "nausea"
+  },
+  {
+    "text": "recently so i feel dizzy for hours",
+    "label": "dizziness"
+  },
+  {
+    "text": "lately so my chest tightness comes and goes all day",
+    "label": "chest tightness"
+  },
+  {
+    "text": "lately kinda I feel disoriented and dizzy all day",
+    "label": "dizziness"
+  },
+  {
+    "text": "recently I am bringing up food I just ate today",
+    "label": "vomiting"
+  },
+  {
+    "text": "lately kind of my chest feels tight and uncomfortable for hours",
+    "label": "chest tightness"
+  },
+  {
+    "text": "right now i feel faint and dizzy for a few days",
+    "label": "dizziness"
+  },
+  {
+    "text": "recently kind of I have difficulty breathing deeply all day",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "these days super my upper chest feels tight for hours",
+    "label": "chest tightness"
+  },
+  {
+    "text": "right now super i feel tired even without doing much for a few days",
+    "label": "fatigue"
+  },
+  {
+    "text": "for a while kinda i feel like throwing up for hours",
+    "label": "nausea"
+  },
+  {
+    "text": "lately I feel like my body is heavy and tired for hours",
+    "label": "fatigue"
+  },
+  {
+    "text": "lately so i get stabbing pains in my stomach",
+    "label": "stomach pain"
+  },
+  {
+    "text": "right now really loud noises make my headache worse all day",
+    "label": "headache"
+  },
+  {
+    "text": "for a while really I feel like my body is heavy and tired since yesterday",
+    "label": "fatigue"
+  },
+  {
+    "text": "lately so I feel out of breath even at rest for hours",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "these days super simple tasks make me feel exhausted for hours",
+    "label": "fatigue"
+  },
+  {
+    "text": "very i can't keep anything down and i vomit",
+    "label": "vomiting"
+  },
+  {
+    "text": "these days so I feel tired even without doing much since yesterday",
+    "label": "fatigue"
+  },
+  {
+    "text": "for a while super I feel dizzy today",
+    "label": "dizziness"
+  },
+  {
+    "text": "recently very i feel constantly fatigued today",
+    "label": "fatigue"
+  },
+  {
+    "text": "these days very my head has been hurting all day today",
+    "label": "headache"
+  },
+  {
+    "text": "these days really I feel like I might puke all day",
+    "label": "nausea"
+  },
+  {
+    "text": "for a while so I threw up and still feel sick all day",
+    "label": "vomiting"
+  },
+  {
+    "text": "right now my chest feels constricted since yesterday",
+    "label": "chest tightness"
+  },
+  {
+    "text": "my throat feels scratchy since yesterday",
+    "label": "sore throat"
+  },
+  {
+    "text": "for a while I can't stop puking all day",
+    "label": "vomiting"
+  },
+  {
+    "text": "really constant dull headache all day",
+    "label": "headache"
+  },
+  {
+    "text": "for a while my head feels floaty and weird",
+    "label": "dizziness"
+  },
+  {
+    "text": "right now so i have difficulty breathing deeply",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "these days kind of I breathe heavily after light effort",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "right now very my upper chest feels tight",
+    "label": "chest tightness"
+  },
+  {
+    "text": "these days super i have a strong pulsating headache for hours",
+    "label": "headache"
+  },
+  {
+    "text": "lately so I feel like my stomach is upset since yesterday",
+    "label": "nausea"
+  },
+  {
+    "text": "right now really i feel sick after eating for a few days",
+    "label": "nausea"
+  },
+  {
+    "text": "kinda i vomited a few hours ago today",
+    "label": "vomiting"
+  },
+  {
+    "text": "very I feel like my stomach hates me",
+    "label": "nausea"
+  },
+  {
+    "text": "lately really I get stabbing pains in my stomach for hours",
+    "label": "stomach pain"
+  },
+  {
+    "text": "for a while so i feel tightness in the middle of my chest for hours",
+    "label": "chest tightness"
+  },
+  {
+    "text": "lately very I get out of breath easily today",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "lately my throat is really sore for a few days",
+    "label": "sore throat"
+  },
+  {
+    "text": "these days really I feel like I could throw up at any moment today",
+    "label": "nausea"
+  },
+  {
+    "text": "these days kinda my stomach aches when I move",
+    "label": "stomach pain"
+  },
+  {
+    "text": "recently my chest feels squeezed when I take a deep breath all day",
+    "label": "chest tightness"
+  },
+  {
+    "text": "I feel queezy after meals today",
+    "label": "nausea"
+  },
+  {
+    "text": "these days kind of i feel sick to my stomach since yesterday",
+    "label": "nausea"
+  },
+  {
+    "text": "kinda my head hurts so much all day",
+    "label": "headache"
+  },
+  {
+    "text": "for a while really I feel like I could throw up at any moment today",
+    "label": "nausea"
+  },
+  {
+    "text": "these days super my chest tightens when I exercise",
+    "label": "chest tightness"
+  },
+  {
+    "text": "these days really I have a really bad headache for hours",
+    "label": "headache"
+  },
+  {
+    "text": "these days so my head has been hurting all day",
+    "label": "headache"
+  },
+  {
+    "text": "for a while super I get winded from small activities since yesterday",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "right now kinda i feel like my stomach hates me today",
+    "label": "nausea"
+  },
+  {
+    "text": "recently really I feel a knot in my stomach for hours",
+    "label": "stomach pain"
+  },
+  {
+    "text": "right now kinda my head hurts so much today",
+    "label": "headache"
+  },
+  {
+    "text": "lately kinda talking makes my throat hurt today",
+    "label": "sore throat"
+  },
+  {
+    "text": "for a while kinda my head feels floaty and weird since yesterday",
+    "label": "dizziness"
+  },
+  {
+    "text": "these days very I feel breathless after walking today",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "for a while really I feel woozy and off balance",
+    "label": "dizziness"
+  },
+  {
+    "text": "these days really I feel like the room is spinning since yesterday",
+    "label": "dizziness"
+  },
+  {
+    "text": "lately I almost lost my balance from dizziness",
+    "label": "dizziness"
+  },
+  {
+    "text": "right now very I vomited a few hours ago for a few days",
+    "label": "vomiting"
+  },
+  {
+    "text": "lately so i feel like something is sitting on my chest since yesterday",
+    "label": "chest tightness"
+  },
+  {
+    "text": "I feel weak and tired for a few days",
+    "label": "fatigue"
+  },
+  {
+    "text": "so i feel like i'm going to vomit since yesterday",
+    "label": "nausea"
+  },
+  {
+    "text": "kind of I have discomfort in my belly area",
+    "label": "stomach pain"
+  },
+  {
+    "text": "kinda I have no energy at all",
+    "label": "fatigue"
+  },
+  {
+    "text": "for a while super I feel like I can't breathe deeply",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "these days so my chest tightens when I exercise all day",
+    "label": "chest tightness"
+  },
+  {
+    "text": "kind of everything is spinning today",
+    "label": "dizziness"
+  },
+  {
+    "text": "for a while kind of waves of nausea keep hitting me all day",
+    "label": "nausea"
+  },
+  {
+    "text": "these days kinda it feels like sandpaper in my throat for hours",
+    "label": "sore throat"
+  },
+  {
+    "text": "right now super cramps in my stomach for a few days",
+    "label": "stomach pain"
+  },
+  {
+    "text": "these days I get out of breath easily all day",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "lately so my chest feels tight and uncomfortable today",
+    "label": "chest tightness"
+  },
+  {
+    "text": "right now so loud noises make my headache worse",
+    "label": "headache"
+  },
+  {
+    "text": "recently really my head is pounding for a few days",
+    "label": "headache"
+  },
+  {
+    "text": "right now really I feel like I'm gasping for air today",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "super I feel like I'm about to faint for hours",
+    "label": "dizziness"
+  },
+  {
+    "text": "these days so I feel disoriented and dizzy for a few days",
+    "label": "dizziness"
+  },
+  {
+    "text": "right now super sudden waves of dizziness since yesterday",
+    "label": "dizziness"
+  },
+  {
+    "text": "right now very I feel like I could throw up at any moment",
+    "label": "nausea"
+  },
+  {
+    "text": "super I feel nauseous especially in the morning",
+    "label": "nausea"
+  },
+  {
+    "text": "lately kinda feels like my head is going to explode today",
+    "label": "headache"
+  },
+  {
+    "text": "lately super my throat feels scratchy for hours",
+    "label": "sore throat"
+  },
+  {
+    "text": "for a while very I am vomiting after I eat for hours",
+    "label": "vomiting"
+  },
+  {
+    "text": "super constant dull headache for a few days",
+    "label": "headache"
+  },
+  {
+    "text": "very my throat feels tight and sore for a few days",
+    "label": "sore throat"
+  },
+  {
+    "text": "these days really I have cramps and stomach pain",
+    "label": "stomach pain"
+  },
+  {
+    "text": "these days very I feel like the room is spinning for a few days",
+    "label": "dizziness"
+  },
+  {
+    "text": "these days so I feel like I could fall asleep any time",
+    "label": "fatigue"
+  },
+  {
+    "text": "kinda I feel like I'm going to black out for hours",
+    "label": "dizziness"
+  },
+  {
+    "text": "these days so my chest feels tight and it worries me",
+    "label": "chest tightness"
+  },
+  {
+    "text": "recently kinda I feel constantly fatigued",
+    "label": "fatigue"
+  },
+  {
+    "text": "recently super I keep getting headaches",
+    "label": "headache"
+  },
+  {
+    "text": "lately kind of i keep gagging and vomiting all day",
+    "label": "vomiting"
+  },
+  {
+    "text": "recently kinda I have pain in the middle of my abdomen all day",
+    "label": "stomach pain"
+  },
+  {
+    "text": "for a while super I feel drained even after sleeping",
+    "label": "fatigue"
+  },
+  {
+    "text": "really my chest feels tight when I breathe for hours",
+    "label": "chest tightness"
+  },
+  {
+    "text": "lately kind of I feel burnt out and exhausted all day",
+    "label": "fatigue"
+  },
+  {
+    "text": "lately kinda my throat hurts a lot today",
+    "label": "sore throat"
+  },
+  {
+    "text": "for a while so I have a weird tight feeling in my chest for a few days",
+    "label": "chest tightness"
+  },
+  {
+    "text": "for a while super sharp pain in my head",
+    "label": "headache"
+  },
+  {
+    "text": "right now super my throat is killing me all day",
+    "label": "sore throat"
+  },
+  {
+    "text": "right now really my chest feels tight and uncomfortable since yesterday",
+    "label": "chest tightness"
+  },
+  {
+    "text": "recently so I feel tightness in my chest for hours",
+    "label": "chest tightness"
+  },
+  {
+    "text": "right now kind of cramps in my stomach",
+    "label": "stomach pain"
+  },
+  {
+    "text": "for a while super my head hurts so much",
+    "label": "headache"
+  },
+  {
+    "text": "for a while really my head ache gets worse with light today",
+    "label": "headache"
+  },
+  {
+    "text": "for a while kinda I feel breathless after walking since yesterday",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "super I feel slightly sick all the time today",
+    "label": "nausea"
+  },
+  {
+    "text": "recently so I have pain in the middle of my abdomen",
+    "label": "stomach pain"
+  },
+  {
+    "text": "kind of cramps in my stomach today",
+    "label": "stomach pain"
+  },
+  {
+    "text": "lately super pain in my belly all day",
+    "label": "stomach pain"
+  },
+  {
+    "text": "these days kinda i have repeated vomiting for hours",
+    "label": "vomiting"
+  },
+  {
+    "text": "these days kinda I had a big vomiting episode for a few days",
+    "label": "vomiting"
+  },
+  {
+    "text": "these days super my belly feels sore for hours",
+    "label": "stomach pain"
+  },
+  {
+    "text": "lately kind of my throat is killing me for hours",
+    "label": "sore throat"
+  },
+  {
+    "text": "these days very I breathe heavily after light effort for a few days",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "kind of i threw up and still feel sick all day",
+    "label": "vomiting"
+  },
+  {
+    "text": "lately I threw up during the night all day",
+    "label": "vomiting"
+  },
+  {
+    "text": "lately kinda i feel like i'm suffocating sometimes for hours",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "these days really I feel like I'm swaying when I stand",
+    "label": "dizziness"
+  },
+  {
+    "text": "for a while kinda I had a big vomiting episode",
+    "label": "vomiting"
+  },
+  {
+    "text": "recently super I feel like my stomach is turning all day",
+    "label": "nausea"
+  },
+  {
+    "text": "lately very my throat burns when I drink",
+    "label": "sore throat"
+  },
+  {
+    "text": "right now super I feel uncomfortable and nauseous for a few days",
+    "label": "nausea"
+  },
+  {
+    "text": "recently kind of I have trouble breathing for a few days",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "kinda my throat is killing me for a few days",
+    "label": "sore throat"
+  },
+  {
+    "text": "these days kinda i feel like throwing up for hours",
+    "label": "nausea"
+  },
+  {
+    "text": "recently kinda i have difficulty breathing deeply",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "recently kinda I get stabbing pains in my stomach all day",
+    "label": "stomach pain"
+  },
+  {
+    "text": "these days kind of head hurts more when i move for hours",
+    "label": "headache"
+  },
+  {
+    "text": "right now kind of I get breathless when I hurry today",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "for a while kinda i am vomiting after i eat all day",
+    "label": "vomiting"
+  },
+  {
+    "text": "for a while kind of my chest feels tight and it worries me since yesterday",
+    "label": "chest tightness"
+  },
+  {
+    "text": "right now super I vomit even when my stomach is empty for hours",
+    "label": "vomiting"
+  },
+  {
+    "text": "these days so I run out of breath going up stairs for hours",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "these days really it's hard to breathe when I lie down",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "for a while very i vomit even when my stomach is empty since yesterday",
+    "label": "vomiting"
+  },
+  {
+    "text": "so my gut is killing me all day",
+    "label": "stomach pain"
+  },
+  {
+    "text": "for a while kind of i feel tired even without doing much today",
+    "label": "fatigue"
+  },
+  {
+    "text": "for a while kinda I feel like I'm swaying when I stand today",
+    "label": "dizziness"
+  },
+  {
+    "text": "for a while super I feel tightness in my chest all day",
+    "label": "chest tightness"
+  },
+  {
+    "text": "kind of my head is killing me right now all day",
+    "label": "headache"
+  },
+  {
+    "text": "kinda it's hard to breathe when I lie down today",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "right now so throat pain is getting worse for a few days",
+    "label": "sore throat"
+  },
+  {
+    "text": "recently kinda pain behind my eyes and head since yesterday",
+    "label": "headache"
+  },
+  {
+    "text": "for a while very I am bringing up food I just ate since yesterday",
+    "label": "vomiting"
+  },
+  {
+    "text": "these days very i am bringing up food i just ate all day",
+    "label": "vomiting"
+  },
+  {
+    "text": "lately super swallowing food is painful",
+    "label": "sore throat"
+  },
+  {
+    "text": "right now kind of my head is killing me right now for a few days",
+    "label": "headache"
+  },
+  {
+    "text": "recently really I feel like throwing up all day",
+    "label": "nausea"
+  },
+  {
+    "text": "right now kind of my stomach feels queasy for hours",
+    "label": "nausea"
+  },
+  {
+    "text": "for a while so my throat has been hurting since yesterday all day",
+    "label": "sore throat"
+  },
+  {
+    "text": "very I breathe heavily after light effort today",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "lately very constant feeling of nausea since yesterday",
+    "label": "nausea"
+  },
+  {
+    "text": "these days I can't stop puking for hours",
+    "label": "vomiting"
+  },
+  {
+    "text": "these days kind of I have a dull ache in my stomach today",
+    "label": "stomach pain"
+  },
+  {
+    "text": "recently kind of my stomach feels queasy today",
+    "label": "nausea"
+  },
+  {
+    "text": "lately i feel lightheaded for hours",
+    "label": "dizziness"
+  },
+  {
+    "text": "lately so constant feeling of nausea for hours",
+    "label": "nausea"
+  },
+  {
+    "text": "kind of I feel nauseous all day",
+    "label": "nausea"
+  },
+  {
+    "text": "for a while really I feel like I'm not getting enough air",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "recently so I feel nauseous especially in the morning all day",
+    "label": "nausea"
+  },
+  {
+    "text": "these days so I feel uncomfortable and nauseous for a few days",
+    "label": "nausea"
+  },
+  {
+    "text": "for a while kinda I have been vomiting all day for a few days",
+    "label": "vomiting"
+  },
+  {
+    "text": "recently really I have difficulty breathing deeply since yesterday",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "lately very I feel sick after eating today",
+    "label": "nausea"
+  },
+  {
+    "text": "these days kinda i vomited a few hours ago since yesterday",
+    "label": "vomiting"
+  },
+  {
+    "text": "recently kinda I vomit even when my stomach is empty",
+    "label": "vomiting"
+  },
+  {
+    "text": "recently I have pain in the middle of my abdomen for hours",
+    "label": "stomach pain"
+  },
+  {
+    "text": "recently kinda my chest feels squeezed when I take a deep breath all day",
+    "label": "chest tightness"
+  },
+  {
+    "text": "for a while really my breathing feels shallow since yesterday",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "these days I feel wiped out",
+    "label": "fatigue"
+  },
+  {
+    "text": "recently really I feel a knot in my stomach since yesterday",
+    "label": "stomach pain"
+  },
+  {
+    "text": "these days kinda tight chest and slight pain since yesterday",
+    "label": "chest tightness"
+  },
+  {
+    "text": "recently so dizzy spells throughout the day for a few days",
+    "label": "dizziness"
+  },
+  {
+    "text": "these days kind of I feel constantly fatigued",
+    "label": "fatigue"
+  },
+  {
+    "text": "recently kind of throat pain is getting worse since yesterday",
+    "label": "sore throat"
+  },
+  {
+    "text": "recently kind of i feel a band of tightness across my chest since yesterday",
+    "label": "chest tightness"
+  },
+  {
+    "text": "right now so i run out of breath going up stairs for a few days",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "lately super my throat feels scratchy today",
+    "label": "sore throat"
+  },
+  {
+    "text": "lately kinda i have a spinning sensation in my head since yesterday",
+    "label": "dizziness"
+  },
+  {
+    "text": "for a while super my throat feels swollen",
+    "label": "sore throat"
+  },
+  {
+    "text": "recently talking makes my throat hurt for hours",
+    "label": "sore throat"
+  },
+  {
+    "text": "right now super my forehead hurts a lot for a few days",
+    "label": "headache"
+  },
+  {
+    "text": "recently kinda i feel short of breath",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "for a while really I keep throwing up",
+    "label": "vomiting"
+  },
+  {
+    "text": "lately kind of my lower stomach hurts for a few days",
+    "label": "stomach pain"
+  },
+  {
+    "text": "right now kind of everything is spinning today",
+    "label": "dizziness"
+  },
+  {
+    "text": "these days kinda my chest feels tight all day",
+    "label": "chest tightness"
+  },
+  {
+    "text": "lately super my throat is super sore",
+    "label": "sore throat"
+  },
+  {
+    "text": "recently really waves of nausea keep hitting me all day",
+    "label": "nausea"
+  },
+  {
+    "text": "for a while so my throat feels scratchy today",
+    "label": "sore throat"
+  },
+  {
+    "text": "lately i almost lost my balance from dizziness",
+    "label": "dizziness"
+  },
+  {
+    "text": "loud noises make my headache worse today",
+    "label": "headache"
+  },
+  {
+    "text": "for a while kind of I get tired very easily for a few days",
+    "label": "fatigue"
+  },
+  {
+    "text": "right now so I woke up with a bad sore throat for a few days",
+    "label": "sore throat"
+  },
+  {
+    "text": "these days super waves of nausea keep hitting me all day",
+    "label": "nausea"
+  },
+  {
+    "text": "right now very I feel more tired than usual",
+    "label": "fatigue"
+  },
+  {
+    "text": "recently very constant dull headache all day",
+    "label": "headache"
+  },
+  {
+    "text": "for a while very I struggle to take a full breath for a few days",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "these days really my stomach hurts all day",
+    "label": "stomach pain"
+  },
+  {
+    "text": "super I run out of breath going up stairs",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "so I get winded from small activities for hours",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "recently kind of I throw up anything I try to drink",
+    "label": "vomiting"
+  },
+  {
+    "text": "so I feel tired for no clear reason",
+    "label": "fatigue"
+  },
+  {
+    "text": "recently so I feel faint and dizzy since yesterday",
+    "label": "dizziness"
+  },
+  {
+    "text": "recently kinda I have a really bad headache",
+    "label": "headache"
+  },
+  {
+    "text": "these days really my temples are throbbing",
+    "label": "headache"
+  },
+  {
+    "text": "it hurts every time i swallow",
+    "label": "sore throat"
+  },
+  {
+    "text": "lately I feel like I'm about to faint",
+    "label": "dizziness"
+  },
+  {
+    "text": "lately very my head has been hurting all day since yesterday",
+    "label": "headache"
+  },
+  {
+    "text": "recently really I feel dizzy for hours",
+    "label": "dizziness"
+  },
+  {
+    "text": "recently so tight chest and slight pain all day",
+    "label": "chest tightness"
+  },
+  {
+    "text": "lately very i can't keep anything down and i vomit for hours",
+    "label": "vomiting"
+  },
+  {
+    "text": "very I can't focus because of this headache all day",
+    "label": "headache"
+  },
+  {
+    "text": "kind of my chest feels like it's being squeezed for a few days",
+    "label": "chest tightness"
+  },
+  {
+    "text": "right now kinda my head ache gets worse with light today",
+    "label": "headache"
+  },
+  {
+    "text": "for a while so I keep throwing up today",
+    "label": "vomiting"
+  },
+  {
+    "text": "for a while very I feel woozy and off balance today",
+    "label": "dizziness"
+  },
+  {
+    "text": "recently very pain behind my eyes and head for hours",
+    "label": "headache"
+  },
+  {
+    "text": "lately kinda i have stomach pain since yesterday",
+    "label": "stomach pain"
+  },
+  {
+    "text": "lately my skull feels like it's being squeezed all day",
+    "label": "headache"
+  },
+  {
+    "text": "these days kind of I feel sleepy and worn out all day for a few days",
+    "label": "fatigue"
+  },
+  {
+    "text": "these days very I feel tired even without doing much since yesterday",
+    "label": "fatigue"
+  },
+  {
+    "text": "so i can't focus because of this headache all day",
+    "label": "headache"
+  },
+  {
+    "text": "these days kind of I threw up and still feel sick all day",
+    "label": "vomiting"
+  },
+  {
+    "text": "recently kind of I feel burnt out and exhausted all day",
+    "label": "fatigue"
+  },
+  {
+    "text": "right now very i feel like i can't breathe deeply for hours",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "recently super i have repeated vomiting for hours",
+    "label": "vomiting"
+  },
+  {
+    "text": "i have pressure in my chest today",
+    "label": "chest tightness"
+  },
+  {
+    "text": "for a while very I have been vomiting all day",
+    "label": "vomiting"
+  },
+  {
+    "text": "these days so i feel tired for no clear reason for a few days",
+    "label": "fatigue"
+  },
+  {
+    "text": "recently kinda I feel like I have zero energy for hours",
+    "label": "fatigue"
+  },
+  {
+    "text": "right now really my throat is killing me",
+    "label": "sore throat"
+  },
+  {
+    "text": "right now really my throat feels raw since yesterday",
+    "label": "sore throat"
+  },
+  {
+    "text": "right now really I have a weird tight feeling in my chest",
+    "label": "chest tightness"
+  },
+  {
+    "text": "these days super my head has been hurting all day today",
+    "label": "headache"
+  },
+  {
+    "text": "super my throat hurts a lot all day",
+    "label": "sore throat"
+  },
+  {
+    "text": "for a while really I have pain in the middle of my abdomen since yesterday",
+    "label": "stomach pain"
+  },
+  {
+    "text": "I have a bad tummy ache for a few days",
+    "label": "stomach pain"
+  },
+  {
+    "text": "lately very I feel burnt out and exhausted today",
+    "label": "fatigue"
+  },
+  {
+    "text": "right now kinda I have trouble walking straight because I'm dizzy all day",
+    "label": "dizziness"
+  },
+  {
+    "text": "for a while kinda my vision feels weird when i stand since yesterday",
+    "label": "dizziness"
+  },
+  {
+    "text": "these days kind of constant dull headache for a few days",
+    "label": "headache"
+  },
+  {
+    "text": "for a while so I feel like my stomach is turning today",
+    "label": "nausea"
+  },
+  {
+    "text": "for a while super I have a weird tight feeling in my chest since yesterday",
+    "label": "chest tightness"
+  },
+  {
+    "text": "these days kinda it's hard to breathe when i lie down for hours",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "these days really my head is killing me right now all day",
+    "label": "headache"
+  },
+  {
+    "text": "recently my throat is super sore for hours",
+    "label": "sore throat"
+  },
+  {
+    "text": "lately kinda i have cramps and stomach pain all day",
+    "label": "stomach pain"
+  },
+  {
+    "text": "lately really I threw up during the night since yesterday",
+    "label": "vomiting"
+  },
+  {
+    "text": "right now kinda i have cramps and stomach pain today",
+    "label": "stomach pain"
+  },
+  {
+    "text": "recently very I have cramps and stomach pain today",
+    "label": "stomach pain"
+  },
+  {
+    "text": "right now very I feel a knot in my stomach for a few days",
+    "label": "stomach pain"
+  },
+  {
+    "text": "for a while kind of i am always run down for a few days",
+    "label": "fatigue"
+  },
+  {
+    "text": "for a while I feel like I'm suffocating sometimes for hours",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "lately really i feel tightness in the middle of my chest all day",
+    "label": "chest tightness"
+  },
+  {
+    "text": "for a while kind of i feel a knot in my stomach for a few days",
+    "label": "stomach pain"
+  },
+  {
+    "text": "for a while really i feel nauseous and weak today",
+    "label": "nausea"
+  },
+  {
+    "text": "super I have discomfort in my belly area for a few days",
+    "label": "stomach pain"
+  },
+  {
+    "text": "these days really I feel unsteady on my feet for hours",
+    "label": "dizziness"
+  },
+  {
+    "text": "these days kinda i throw up anything i try to drink all day",
+    "label": "vomiting"
+  },
+  {
+    "text": "really my head has been hurting all day for a few days",
+    "label": "headache"
+  },
+  {
+    "text": "these days kinda I can't keep anything down and I vomit for a few days",
+    "label": "vomiting"
+  },
+  {
+    "text": "lately really feels like my head is going to explode for a few days",
+    "label": "headache"
+  },
+  {
+    "text": "these days so I feel tightness in the middle of my chest for hours",
+    "label": "chest tightness"
+  },
+  {
+    "text": "these days super my throat hurts when I swallow for a few days",
+    "label": "sore throat"
+  },
+  {
+    "text": "these days kind of i can't catch my breath for a few days",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "recently very i have pain in the middle of my abdomen",
+    "label": "stomach pain"
+  },
+  {
+    "text": "recently kind of i am bringing up food i just ate for a few days",
+    "label": "vomiting"
+  },
+  {
+    "text": "recently really I feel like throwing up today",
+    "label": "nausea"
+  },
+  {
+    "text": "super my belly feels sore for hours",
+    "label": "stomach pain"
+  },
+  {
+    "text": "recently I run out of breath going up stairs today",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "lately so I woke up with a bad sore throat for a few days",
+    "label": "sore throat"
+  },
+  {
+    "text": "lately kind of head hurts more when i move for a few days",
+    "label": "headache"
+  },
+  {
+    "text": "kinda talking makes my throat hurt for hours",
+    "label": "sore throat"
+  },
+  {
+    "text": "really i have pressure in my head since yesterday",
+    "label": "headache"
+  },
+  {
+    "text": "recently I struggle to take a full breath",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "lately very my chest tightens when i exercise for hours",
+    "label": "chest tightness"
+  },
+  {
+    "text": "these days i get winded from small activities for a few days",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "for a while very my head feels floaty and weird for hours",
+    "label": "dizziness"
+  },
+  {
+    "text": "recently very i have a spinning sensation in my head for hours",
+    "label": "dizziness"
+  },
+  {
+    "text": "very my head has been hurting all day since yesterday",
+    "label": "headache"
+  },
+  {
+    "text": "kinda I get out of breath easily for hours",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "for a while super I vomit even when my stomach is empty today",
+    "label": "vomiting"
+  },
+  {
+    "text": "these days very i get out of breath easily for hours",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "kinda i feel lightheaded for hours",
+    "label": "dizziness"
+  },
+  {
+    "text": "lately kind of i have pressure in my head since yesterday",
+    "label": "headache"
+  },
+  {
+    "text": "lately kind of it's hard to breathe when I lie down",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "lately really I feel like I'm gasping for air all day",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "right now my stomach has sharp pains for a few days",
+    "label": "stomach pain"
+  },
+  {
+    "text": "recently really talking makes my throat hurt all day",
+    "label": "sore throat"
+  },
+  {
+    "text": "lately I have difficulty breathing deeply for hours",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "these days kinda my stomach aches when I move since yesterday",
+    "label": "stomach pain"
+  },
+  {
+    "text": "these days super I have no energy at all all day",
+    "label": "fatigue"
+  },
+  {
+    "text": "lately very I feel nauseous and weak since yesterday",
+    "label": "nausea"
+  },
+  {
+    "text": "these days kind of I woke up with a bad sore throat for hours",
+    "label": "sore throat"
+  },
+  {
+    "text": "right now kinda i threw up several times",
+    "label": "vomiting"
+  },
+  {
+    "text": "these days kind of i feel wiped out",
+    "label": "fatigue"
+  },
+  {
+    "text": "kinda i feel like i'm about to faint for hours",
+    "label": "dizziness"
+  },
+  {
+    "text": "kinda my stomach hurts after i eat today",
+    "label": "stomach pain"
+  },
+  {
+    "text": "really I get tired very easily for a few days",
+    "label": "fatigue"
+  },
+  {
+    "text": "for a while really waves of nausea keep hitting me today",
+    "label": "nausea"
+  },
+  {
+    "text": "right now very I feel like I'm suffocating sometimes for hours",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "for a while very my throat hurts a lot since yesterday",
+    "label": "sore throat"
+  },
+  {
+    "text": "lately kinda I feel constantly fatigued",
+    "label": "fatigue"
+  },
+  {
+    "text": "recently super I feel sick to my stomach since yesterday",
+    "label": "nausea"
+  },
+  {
+    "text": "right now super my stomach has been hurting for hours all day",
+    "label": "stomach pain"
+  },
+  {
+    "text": "for a while kinda i feel breathless after walking since yesterday",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "these days kind of my chest feels like it's being squeezed for a few days",
+    "label": "chest tightness"
+  },
+  {
+    "text": "for a while kinda cramps in my stomach for hours",
+    "label": "stomach pain"
+  },
+  {
+    "text": "right now so my chest tightens when I exercise since yesterday",
+    "label": "chest tightness"
+  },
+  {
+    "text": "lately I feel nauseous and weak all day",
+    "label": "nausea"
+  },
+  {
+    "text": "really I have cramps and stomach pain today",
+    "label": "stomach pain"
+  },
+  {
+    "text": "these days my lower stomach hurts all day",
+    "label": "stomach pain"
+  },
+  {
+    "text": "recently very my vision feels weird when I stand",
+    "label": "dizziness"
+  },
+  {
+    "text": "lately I can't keep anything down and I vomit since yesterday",
+    "label": "vomiting"
+  },
+  {
+    "text": "right now kinda i feel a knot in my stomach for hours",
+    "label": "stomach pain"
+  },
+  {
+    "text": "recently kinda feels like my head is going to explode today",
+    "label": "headache"
+  },
+  {
+    "text": "right now kinda my forehead hurts a lot for hours",
+    "label": "headache"
+  },
+  {
+    "text": "these days super i have pressure in my chest",
+    "label": "chest tightness"
+  },
+  {
+    "text": "right now kinda I feel like my stomach hates me since yesterday",
+    "label": "nausea"
+  },
+  {
+    "text": "kinda I am always run down since yesterday",
+    "label": "fatigue"
+  },
+  {
+    "text": "lately I woke up with a bad sore throat",
+    "label": "sore throat"
+  },
+  {
+    "text": "these days I had a big vomiting episode since yesterday",
+    "label": "vomiting"
+  },
+  {
+    "text": "recently super throat pain is getting worse for hours",
+    "label": "sore throat"
+  },
+  {
+    "text": "lately super I feel like I'm gasping for air all day",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "kind of I get breathless when I hurry today",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "so constant feeling of nausea for a few days",
+    "label": "nausea"
+  },
+  {
+    "text": "these days kinda my chest feels like it's being squeezed",
+    "label": "chest tightness"
+  },
+  {
+    "text": "these days kinda I feel nauseous especially in the morning",
+    "label": "nausea"
+  },
+  {
+    "text": "these days kind of I feel nauseous since yesterday",
+    "label": "nausea"
+  },
+  {
+    "text": "lately I have stomach pain today",
+    "label": "stomach pain"
+  },
+  {
+    "text": "for a while i have episodes of vomiting today",
+    "label": "vomiting"
+  },
+  {
+    "text": "recently I have repeated vomiting today",
+    "label": "vomiting"
+  },
+  {
+    "text": "very I keep throwing up today",
+    "label": "vomiting"
+  },
+  {
+    "text": "lately super i feel wiped out",
+    "label": "fatigue"
+  },
+  {
+    "text": "for a while kinda i feel like i'm going to vomit for hours",
+    "label": "nausea"
+  },
+  {
+    "text": "for a while kind of i feel extremely tired since yesterday",
+    "label": "fatigue"
+  },
+  {
+    "text": "super my stomach aches when I move today",
+    "label": "stomach pain"
+  },
+  {
+    "text": "these days my chest feels squeezed when I take a deep breath",
+    "label": "chest tightness"
+  },
+  {
+    "text": "super my throat has been hurting since yesterday for hours",
+    "label": "sore throat"
+  },
+  {
+    "text": "these days super my throat hurts more at night today",
+    "label": "sore throat"
+  },
+  {
+    "text": "for a while kind of my head has been hurting all day all day",
+    "label": "headache"
+  },
+  {
+    "text": "lately really my temples are throbbing all day",
+    "label": "headache"
+  },
+  {
+    "text": "lately kinda i get dizzy when i move too fast all day",
+    "label": "dizziness"
+  },
+  {
+    "text": "for a while I keep throwing up today",
+    "label": "vomiting"
+  },
+  {
+    "text": "lately kinda I get stabbing pains in my stomach",
+    "label": "stomach pain"
+  },
+  {
+    "text": "super my head hurts so much for hours",
+    "label": "headache"
+  },
+  {
+    "text": "recently very i feel like my stomach hates me since yesterday",
+    "label": "nausea"
+  },
+  {
+    "text": "lately super there is a constant ache in my throat today",
+    "label": "sore throat"
+  },
+  {
+    "text": "for a while super i have been puking on and off all day",
+    "label": "vomiting"
+  },
+  {
+    "text": "right now I get winded from small activities today",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "right now super I feel a band of tightness across my chest today",
+    "label": "chest tightness"
+  },
+  {
+    "text": "these days I feel nauseous especially in the morning for hours",
+    "label": "nausea"
+  },
+  {
+    "text": "these days kind of I almost lost my balance from dizziness for a few days",
+    "label": "dizziness"
+  },
+  {
+    "text": "recently super I had a big vomiting episode for hours",
+    "label": "vomiting"
+  },
+  {
+    "text": "right now I feel like my stomach is upset for hours",
+    "label": "nausea"
+  },
+  {
+    "text": "lately kinda I have been puking on and off",
+    "label": "vomiting"
+  },
+  {
+    "text": "lately kind of I feel like throwing up for hours",
+    "label": "nausea"
+  },
+  {
+    "text": "these days kind of I have a spinning sensation in my head for a few days",
+    "label": "dizziness"
+  },
+  {
+    "text": "for a while very i am always run down today",
+    "label": "fatigue"
+  },
+  {
+    "text": "super I have a dull ache in my stomach since yesterday",
+    "label": "stomach pain"
+  },
+  {
+    "text": "lately really my chest feels like it's being squeezed for hours",
+    "label": "chest tightness"
+  },
+  {
+    "text": "lately kinda my head hurts so much",
+    "label": "headache"
+  },
+  {
+    "text": "very my chest feels heavy today",
+    "label": "chest tightness"
+  },
+  {
+    "text": "these days really i feel short of breath for hours",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "recently super I feel like I could throw up at any moment today",
+    "label": "nausea"
+  },
+  {
+    "text": "lately so I feel weak and tired all day",
+    "label": "fatigue"
+  },
+  {
+    "text": "kind of my throat feels swollen for a few days",
+    "label": "sore throat"
+  },
+  {
+    "text": "super I throw up anything I try to drink all day",
+    "label": "vomiting"
+  },
+  {
+    "text": "lately super i have no energy at all since yesterday",
+    "label": "fatigue"
+  },
+  {
+    "text": "i have abdominal pain for hours",
+    "label": "stomach pain"
+  },
+  {
+    "text": "for a while really my throat feels raw for hours",
+    "label": "sore throat"
+  },
+  {
+    "text": "right now I feel burnt out and exhausted for a few days",
+    "label": "fatigue"
+  },
+  {
+    "text": "right now kind of i feel exhausted all the time for hours",
+    "label": "fatigue"
+  },
+  {
+    "text": "these days so my head is killing me right now today",
+    "label": "headache"
+  },
+  {
+    "text": "right now I am always run down all day",
+    "label": "fatigue"
+  },
+  {
+    "text": "these days very I keep gagging and vomiting for a few days",
+    "label": "vomiting"
+  },
+  {
+    "text": "recently really my stomach hurts after I eat since yesterday",
+    "label": "stomach pain"
+  },
+  {
+    "text": "super I get out of breath easily for hours",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "lately so my chest feels like it's being squeezed since yesterday",
+    "label": "chest tightness"
+  },
+  {
+    "text": "right now kind of I vomit even when my stomach is empty since yesterday",
+    "label": "vomiting"
+  },
+  {
+    "text": "lately kinda I keep gagging and vomiting today",
+    "label": "vomiting"
+  },
+  {
+    "text": "right now so I threw up and still feel sick for hours",
+    "label": "vomiting"
+  },
+  {
+    "text": "these days kind of loud noises make my headache worse for hours",
+    "label": "headache"
+  },
+  {
+    "text": "right now really I feel gross and nauseated",
+    "label": "nausea"
+  },
+  {
+    "text": "recently so I threw up several times",
+    "label": "vomiting"
+  },
+  {
+    "text": "right now really waves of nausea keep hitting me for a few days",
+    "label": "nausea"
+  },
+  {
+    "text": "these days kind of my throat burns when i drink for hours",
+    "label": "sore throat"
+  },
+  {
+    "text": "right now kinda i threw up during the night",
+    "label": "vomiting"
+  },
+  {
+    "text": "i am always run down today",
+    "label": "fatigue"
+  },
+  {
+    "text": "recently so I feel like I'm swaying when I stand since yesterday",
+    "label": "dizziness"
+  },
+  {
+    "text": "right now everything is spinning since yesterday",
+    "label": "dizziness"
+  },
+  {
+    "text": "for a while so I feel like I have zero energy today",
+    "label": "fatigue"
+  },
+  {
+    "text": "these days really I have been vomiting all day for hours",
+    "label": "vomiting"
+  },
+  {
+    "text": "for a while very my chest feels like it's being squeezed all day",
+    "label": "chest tightness"
+  },
+  {
+    "text": "recently kind of i feel faint and dizzy for a few days",
+    "label": "dizziness"
+  },
+  {
+    "text": "lately I feel like I could throw up at any moment today",
+    "label": "nausea"
+  },
+  {
+    "text": "very i almost lost my balance from dizziness for a few days",
+    "label": "dizziness"
+  },
+  {
+    "text": "lately kind of I can't catch my breath",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "lately so my head ache gets worse with light",
+    "label": "headache"
+  },
+  {
+    "text": "lately kind of i vomited this morning today",
+    "label": "vomiting"
+  },
+  {
+    "text": "very dizzy spells throughout the day since yesterday",
+    "label": "dizziness"
+  },
+  {
+    "text": "right now so I almost lost my balance from dizziness today",
+    "label": "dizziness"
+  },
+  {
+    "text": "recently super I have abdominal pain all day",
+    "label": "stomach pain"
+  },
+  {
+    "text": "recently I have a really bad headache all day",
+    "label": "headache"
+  },
+  {
+    "text": "these days super my stomach feels queasy for hours",
+    "label": "nausea"
+  },
+  {
+    "text": "recently kind of I throw up anything I try to drink today",
+    "label": "vomiting"
+  },
+  {
+    "text": "these days super my stomach hurts after i eat since yesterday",
+    "label": "stomach pain"
+  },
+  {
+    "text": "for a while kind of I have repeated vomiting",
+    "label": "vomiting"
+  },
+  {
+    "text": "lately kind of it hurts every time i swallow for a few days",
+    "label": "sore throat"
+  },
+  {
+    "text": "these days very i feel tightness in the middle of my chest for a few days",
+    "label": "chest tightness"
+  },
+  {
+    "text": "these days so dizzy spells throughout the day all day",
+    "label": "dizziness"
+  },
+  {
+    "text": "recently super i get tired very easily since yesterday",
+    "label": "fatigue"
+  },
+  {
+    "text": "lately kind of I feel tired even without doing much",
+    "label": "fatigue"
+  },
+  {
+    "text": "for a while so i feel like something is sitting on my chest all day",
+    "label": "chest tightness"
+  },
+  {
+    "text": "these days kinda I have difficulty breathing deeply for hours",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "lately very my head is pounding for hours",
+    "label": "headache"
+  },
+  {
+    "text": "lately so my throat is really sore for a few days",
+    "label": "sore throat"
+  },
+  {
+    "text": "these days kinda feels like my head is going to explode",
+    "label": "headache"
+  },
+  {
+    "text": "recently super I am tired no matter how much I rest",
+    "label": "fatigue"
+  },
+  {
+    "text": "right now so I keep getting headaches for hours",
+    "label": "headache"
+  },
+  {
+    "text": "recently so i get winded from small activities for a few days",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "recently really my throat hurts when I swallow",
+    "label": "sore throat"
+  },
+  {
+    "text": "for a while kind of I keep getting headaches all day",
+    "label": "headache"
+  },
+  {
+    "text": "these days super it hurts every time i swallow",
+    "label": "sore throat"
+  },
+  {
+    "text": "for a while super my chest feels squeezed when I take a deep breath for a few days",
+    "label": "chest tightness"
+  },
+  {
+    "text": "for a while so swallowing food is painful for a few days",
+    "label": "sore throat"
+  },
+  {
+    "text": "lately it hurts every time I swallow today",
+    "label": "sore throat"
+  },
+  {
+    "text": "so it's hard to breathe when I lie down today",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "kind of i can't stop puking today",
+    "label": "vomiting"
+  },
+  {
+    "text": "right now super my skull feels like it's being squeezed today",
+    "label": "headache"
+  },
+  {
+    "text": "lately very i feel like i want to gag since yesterday",
+    "label": "nausea"
+  },
+  {
+    "text": "recently kinda I feel tightness in my chest today",
+    "label": "chest tightness"
+  },
+  {
+    "text": "right now I feel nauseous especially in the morning",
+    "label": "nausea"
+  },
+  {
+    "text": "recently kinda i feel like i can't breathe deeply today",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "recently very I feel lightheaded",
+    "label": "dizziness"
+  },
+  {
+    "text": "for a while my lower stomach hurts for hours",
+    "label": "stomach pain"
+  },
+  {
+    "text": "lately kind of my belly feels sore for a few days",
+    "label": "stomach pain"
+  },
+  {
+    "text": "lately really pain in my belly",
+    "label": "stomach pain"
+  },
+  {
+    "text": "right now so I feel wiped out",
+    "label": "fatigue"
+  },
+  {
+    "text": "these days kind of I have trouble walking straight because I'm dizzy today",
+    "label": "dizziness"
+  },
+  {
+    "text": "for a while very my breathing feels shallow",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "kinda it hurts every time i swallow today",
+    "label": "sore throat"
+  },
+  {
+    "text": "these days kinda my chest feels squeezed when i take a deep breath all day",
+    "label": "chest tightness"
+  },
+  {
+    "text": "these days kind of I feel like the room is spinning all day",
+    "label": "dizziness"
+  },
+  {
+    "text": "recently i almost lost my balance from dizziness",
+    "label": "dizziness"
+  },
+  {
+    "text": "right now super I feel like my stomach is upset since yesterday",
+    "label": "nausea"
+  },
+  {
+    "text": "right now I feel sick after eating for a few days",
+    "label": "nausea"
+  },
+  {
+    "text": "these days kind of my stomach has sharp pains since yesterday",
+    "label": "stomach pain"
+  },
+  {
+    "text": "these days really I have a spinning sensation in my head for a few days",
+    "label": "dizziness"
+  },
+  {
+    "text": "recently pain in my throat all day all day",
+    "label": "sore throat"
+  },
+  {
+    "text": "right now so I have a bad tummy ache",
+    "label": "stomach pain"
+  },
+  {
+    "text": "recently sudden waves of dizziness all day",
+    "label": "dizziness"
+  },
+  {
+    "text": "recently kind of I am tired no matter how much I rest for a few days",
+    "label": "fatigue"
+  },
+  {
+    "text": "lately super I get breathless when I hurry all day",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "lately really I keep throwing up for a few days",
+    "label": "vomiting"
+  },
+  {
+    "text": "these days very I feel extremely tired today",
+    "label": "fatigue"
+  },
+  {
+    "text": "recently so I get chest tightness when I walk for hours",
+    "label": "chest tightness"
+  },
+  {
+    "text": "right now really there is a constant ache in my throat all day",
+    "label": "sore throat"
+  },
+  {
+    "text": "these days super cramps in my stomach for a few days",
+    "label": "stomach pain"
+  },
+  {
+    "text": "very I feel like I could fall asleep any time all day",
+    "label": "fatigue"
+  },
+  {
+    "text": "recently kind of I feel like I can't breathe deeply for hours",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "right now so i feel sick after eating",
+    "label": "nausea"
+  },
+  {
+    "text": "recently so I have a spinning sensation in my head for a few days",
+    "label": "dizziness"
+  },
+  {
+    "text": "lately loud noises make my headache worse for a few days",
+    "label": "headache"
+  },
+  {
+    "text": "right now kinda i feel like my stomach is upset all day",
+    "label": "nausea"
+  },
+  {
+    "text": "these days super i have abdominal pain for hours",
+    "label": "stomach pain"
+  },
+  {
+    "text": "recently i can't stop puking all day",
+    "label": "vomiting"
+  },
+  {
+    "text": "lately super my breathing feels shallow all day",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "recently so cramps in my stomach all day",
+    "label": "stomach pain"
+  },
+  {
+    "text": "recently kinda dizzy spells throughout the day for a few days",
+    "label": "dizziness"
+  },
+  {
+    "text": "these days really my throat feels swollen",
+    "label": "sore throat"
+  },
+  {
+    "text": "these days very i get short of breath when talking all day",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "recently kind of I feel like I'm swaying when I stand today",
+    "label": "dizziness"
+  },
+  {
+    "text": "recently really i feel uncomfortable and nauseous today",
+    "label": "nausea"
+  },
+  {
+    "text": "for a while so loud noises make my headache worse for a few days",
+    "label": "headache"
+  },
+  {
+    "text": "lately really I feel faint and dizzy for a few days",
+    "label": "dizziness"
+  },
+  {
+    "text": "really I feel like I'm going to vomit all day",
+    "label": "nausea"
+  },
+  {
+    "text": "these days kinda my chest tightness comes and goes for hours",
+    "label": "chest tightness"
+  },
+  {
+    "text": "lately really I feel sick after eating",
+    "label": "nausea"
+  },
+  {
+    "text": "these days I have pressure in my head since yesterday",
+    "label": "headache"
+  },
+  {
+    "text": "recently kind of my throat is really sore",
+    "label": "sore throat"
+  },
+  {
+    "text": "these days kinda my throat hurts more at night for hours",
+    "label": "sore throat"
+  },
+  {
+    "text": "these days kinda i feel out of breath even at rest all day",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "right now super sudden waves of dizziness",
+    "label": "dizziness"
+  },
+  {
+    "text": "these days super I have discomfort in my belly area all day",
+    "label": "stomach pain"
+  },
+  {
+    "text": "right now kind of I throw up anything I try to drink",
+    "label": "vomiting"
+  },
+  {
+    "text": "lately kind of I have on and off stomach pain today",
+    "label": "stomach pain"
+  },
+  {
+    "text": "these days so I get dizzy when I move too fast today",
+    "label": "dizziness"
+  },
+  {
+    "text": "lately super I feel like I could throw up at any moment",
+    "label": "nausea"
+  },
+  {
+    "text": "so I keep getting headaches for a few days",
+    "label": "headache"
+  },
+  {
+    "text": "these days very I feel a knot in my stomach for a few days",
+    "label": "stomach pain"
+  },
+  {
+    "text": "recently kinda I feel like my chest won't expand enough to breathe",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "these days very it hurts every time I swallow today",
+    "label": "sore throat"
+  },
+  {
+    "text": "for a while i feel like i could fall asleep any time since yesterday",
+    "label": "fatigue"
+  },
+  {
+    "text": "for a while throat pain is getting worse for a few days",
+    "label": "sore throat"
+  },
+  {
+    "text": "right now really my stomach hurts today",
+    "label": "stomach pain"
+  },
+  {
+    "text": "lately I have difficulty breathing deeply all day",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "for a while so i feel tightness in the middle of my chest since yesterday",
+    "label": "chest tightness"
+  },
+  {
+    "text": "for a while very I feel dizzy today",
+    "label": "dizziness"
+  },
+  {
+    "text": "right now I have a dull ache in my stomach for a few days",
+    "label": "stomach pain"
+  },
+  {
+    "text": "for a while kind of I get short of breath when talking all day",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "these days super I feel tightness in my chest",
+    "label": "chest tightness"
+  },
+  {
+    "text": "lately very i feel like throwing up for a few days",
+    "label": "nausea"
+  },
+  {
+    "text": "for a while very I vomit even when my stomach is empty all day",
+    "label": "vomiting"
+  },
+  {
+    "text": "lately really my chest feels like it's being squeezed for a few days",
+    "label": "chest tightness"
+  },
+  {
+    "text": "for a while kinda i feel breathless after walking",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "lately so pain in my throat all day",
+    "label": "sore throat"
+  },
+  {
+    "text": "lately very I feel like I might puke since yesterday",
+    "label": "nausea"
+  },
+  {
+    "text": "these days really my throat is killing me",
+    "label": "sore throat"
+  },
+  {
+    "text": "right now very I vomit shortly after meals for a few days",
+    "label": "vomiting"
+  },
+  {
+    "text": "recently kinda I feel short of breath for hours",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "for a while kinda I am tired no matter how much I rest today",
+    "label": "fatigue"
+  },
+  {
+    "text": "recently kinda i feel like my stomach is upset for a few days",
+    "label": "nausea"
+  },
+  {
+    "text": "recently kind of cramps in my stomach",
+    "label": "stomach pain"
+  },
+  {
+    "text": "right now really my belly feels sore all day",
+    "label": "stomach pain"
+  },
+  {
+    "text": "kind of i get short of breath when talking all day",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "lately kinda my head ache gets worse with light for a few days",
+    "label": "headache"
+  },
+  {
+    "text": "lately super i feel like my stomach is turning since yesterday",
+    "label": "nausea"
+  },
+  {
+    "text": "for a while really my temples are throbbing today",
+    "label": "headache"
+  },
+  {
+    "text": "right now I have a dull ache in my stomach since yesterday",
+    "label": "stomach pain"
+  },
+  {
+    "text": "lately my stomach hurts after I eat for a few days",
+    "label": "stomach pain"
+  },
+  {
+    "text": "recently kind of I feel out of breath even at rest for a few days",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "lately kind of i feel slightly sick all the time all day",
+    "label": "nausea"
+  },
+  {
+    "text": "lately super I have cramps and stomach pain for hours",
+    "label": "stomach pain"
+  },
+  {
+    "text": "right now very I feel out of breath even at rest today",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "really i feel sick after eating all day",
+    "label": "nausea"
+  },
+  {
+    "text": "right now really I run out of breath going up stairs since yesterday",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "kinda my throat hurts more at night for hours",
+    "label": "sore throat"
+  },
+  {
+    "text": "recently I have trouble walking straight because I'm dizzy",
+    "label": "dizziness"
+  },
+  {
+    "text": "for a while kinda my temples are throbbing all day",
+    "label": "headache"
+  },
+  {
+    "text": "recently really my upper chest feels tight all day",
+    "label": "chest tightness"
+  },
+  {
+    "text": "recently kinda I feel burnt out and exhausted for hours",
+    "label": "fatigue"
+  },
+  {
+    "text": "lately so i am always run down all day",
+    "label": "fatigue"
+  },
+  {
+    "text": "lately kind of my chest feels constricted for a few days",
+    "label": "chest tightness"
+  },
+  {
+    "text": "right now so I have cramps and stomach pain for hours",
+    "label": "stomach pain"
+  },
+  {
+    "text": "right now kind of my head is pounding since yesterday",
+    "label": "headache"
+  },
+  {
+    "text": "for a while kinda I have pressure in my chest all day",
+    "label": "chest tightness"
+  },
+  {
+    "text": "recently kinda i get short of breath when talking all day",
+    "label": "difficulty breathing"
+  },
+  {
+    "text": "for a while kinda my belly feels sore today",
+    "label": "stomach pain"
+  },
+  {
+    "text": "recently so I feel like I'm going to vomit since yesterday",
+    "label": "nausea"
+  },
+  {
+    "text": "right now so I have been puking on and off for hours",
+    "label": "vomiting"
+  },
+  {
+    "text": "very sudden waves of dizziness since yesterday",
+    "label": "dizziness"
+  }
+]
