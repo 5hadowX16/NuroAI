@@ -94,32 +94,23 @@ Unsupported, ambiguous, or low-confidence inputs are routed to clarification pro
 
 ## Processing Pipeline
 User Input
-|
-V
+–->
 Symptom Extraction & Fuzzy Matching
-|
-V
+–->
 Patient Context Update
-|
-V
+–->
 Severity & Duration Parsing
-|
-V
+–->
 Weighted Condition Scoring
-|
-V
+–->
 Threshold Filtering
-|
-V
+–->
 Condition Ranking
-|
-V
+–->
 Follow-Up Question Selection
-|
-V
+–->
 Urgency Assessment
-|
-V
+–->
 JSON API Output
 
 
